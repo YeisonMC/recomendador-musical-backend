@@ -1,0 +1,3501 @@
+node_id,node_type,name,age,favorite_genre,artist,genre,release_year
+U0001,user,Usuario 1,19,"Pop, Salsa",,,
+U0002,user,Usuario 2,21,Indie,,,
+U0003,user,Usuario 3,32,"Salsa, Bachata, Jazz",,,
+U0004,user,Usuario 4,19,Cumbia,,,
+U0005,user,Usuario 5,22,Pop,,,
+U0006,user,Usuario 6,29,"Salsa, Jazz",,,
+U0007,user,Usuario 7,24,"Salsa, Jazz, Cumbia",,,
+U0008,user,Usuario 8,31,K-Pop,,,
+U0009,user,Usuario 9,28,Cumbia,,,
+U0010,user,Usuario 10,30,"Pop, Cumbia",,,
+U0011,user,Usuario 11,33,Salsa,,,
+U0012,user,Usuario 12,31,K-Pop,,,
+U0013,user,Usuario 13,36,"Bachata, Hip Hop, R&B",,,
+U0014,user,Usuario 14,30,Salsa,,,
+U0015,user,Usuario 15,18,"Salsa, Pop",,,
+U0016,user,Usuario 16,38,"Salsa, Rock",,,
+U0017,user,Usuario 17,35,Pop,,,
+U0018,user,Usuario 18,31,Reggaeton,,,
+U0019,user,Usuario 19,21,Jazz,,,
+U0020,user,Usuario 20,38,Rock,,,
+U0021,user,Usuario 21,18,"Jazz, Bachata, Electrónica",,,
+U0022,user,Usuario 22,31,Cumbia,,,
+U0023,user,Usuario 23,37,"Cumbia, Electrónica",,,
+U0024,user,Usuario 24,39,Salsa,,,
+U0025,user,Usuario 25,22,"Rock, Reggaeton",,,
+U0026,user,Usuario 26,29,Indie,,,
+U0027,user,Usuario 27,20,"Hip Hop, Cumbia",,,
+U0028,user,Usuario 28,25,Jazz,,,
+U0029,user,Usuario 29,23,"Cumbia, R&B",,,
+U0030,user,Usuario 30,31,Rock,,,
+U0031,user,Usuario 31,36,"Jazz, Electrónica",,,
+U0032,user,Usuario 32,40,"Reggaeton, Salsa, Cumbia",,,
+U0033,user,Usuario 33,40,Reggaeton,,,
+U0034,user,Usuario 34,36,Cumbia,,,
+U0035,user,Usuario 35,30,Jazz,,,
+U0036,user,Usuario 36,26,"R&B, K-Pop, Hip Hop",,,
+U0037,user,Usuario 37,30,"Pop, R&B, Bachata",,,
+U0038,user,Usuario 38,16,"Hip Hop, Bachata, Indie",,,
+U0039,user,Usuario 39,18,"Reggaeton, Pop",,,
+U0040,user,Usuario 40,22,Electrónica,,,
+U0041,user,Usuario 41,31,"Salsa, Pop, K-Pop",,,
+U0042,user,Usuario 42,29,R&B,,,
+U0043,user,Usuario 43,31,"Bachata, Hip Hop",,,
+U0044,user,Usuario 44,17,"Indie, Electrónica, Jazz",,,
+U0045,user,Usuario 45,34,Salsa,,,
+U0046,user,Usuario 46,39,"Electrónica, Cumbia",,,
+U0047,user,Usuario 47,31,"Electrónica, Salsa",,,
+U0048,user,Usuario 48,27,Bachata,,,
+U0049,user,Usuario 49,18,K-Pop,,,
+U0050,user,Usuario 50,18,"Cumbia, K-Pop",,,
+U0051,user,Usuario 51,32,Reggaeton,,,
+U0052,user,Usuario 52,35,"Jazz, Bachata, R&B",,,
+U0053,user,Usuario 53,16,"Cumbia, Bachata, Hip Hop",,,
+U0054,user,Usuario 54,30,"Rock, Cumbia",,,
+U0055,user,Usuario 55,26,Electrónica,,,
+U0056,user,Usuario 56,39,"Bachata, Electrónica",,,
+U0057,user,Usuario 57,18,"Hip Hop, Reggaeton",,,
+U0058,user,Usuario 58,17,R&B,,,
+U0059,user,Usuario 59,18,"Indie, Salsa",,,
+U0060,user,Usuario 60,37,Reggaeton,,,
+U0061,user,Usuario 61,32,"Bachata, Indie",,,
+U0062,user,Usuario 62,20,"Hip Hop, Cumbia",,,
+U0063,user,Usuario 63,17,"Reggaeton, Pop",,,
+U0064,user,Usuario 64,31,"Salsa, Hip Hop, Cumbia",,,
+U0065,user,Usuario 65,17,"Salsa, Indie",,,
+U0066,user,Usuario 66,31,"R&B, Cumbia",,,
+U0067,user,Usuario 67,29,"Cumbia, K-Pop",,,
+U0068,user,Usuario 68,20,Bachata,,,
+U0069,user,Usuario 69,17,"Bachata, Cumbia",,,
+U0070,user,Usuario 70,26,"Cumbia, Indie, Electrónica",,,
+U0071,user,Usuario 71,18,Bachata,,,
+U0072,user,Usuario 72,37,"R&B, Salsa, Electrónica",,,
+U0073,user,Usuario 73,17,"Jazz, Hip Hop",,,
+U0074,user,Usuario 74,18,Pop,,,
+U0075,user,Usuario 75,23,K-Pop,,,
+U0076,user,Usuario 76,17,Pop,,,
+U0077,user,Usuario 77,32,R&B,,,
+U0078,user,Usuario 78,23,Indie,,,
+U0079,user,Usuario 79,31,Rock,,,
+U0080,user,Usuario 80,19,"Jazz, Bachata, R&B",,,
+U0081,user,Usuario 81,21,"Jazz, Salsa, K-Pop",,,
+U0082,user,Usuario 82,33,"Bachata, Electrónica",,,
+U0083,user,Usuario 83,21,"Bachata, Pop, Indie",,,
+U0084,user,Usuario 84,17,Electrónica,,,
+U0085,user,Usuario 85,35,Bachata,,,
+U0086,user,Usuario 86,20,"Electrónica, Pop, Rock",,,
+U0087,user,Usuario 87,39,"K-Pop, Bachata",,,
+U0088,user,Usuario 88,38,Electrónica,,,
+U0089,user,Usuario 89,23,"R&B, Pop",,,
+U0090,user,Usuario 90,36,K-Pop,,,
+U0091,user,Usuario 91,37,"Hip Hop, Salsa, Jazz",,,
+U0092,user,Usuario 92,36,"Pop, Electrónica",,,
+U0093,user,Usuario 93,35,K-Pop,,,
+U0094,user,Usuario 94,20,"Indie, Cumbia, Jazz",,,
+U0095,user,Usuario 95,17,K-Pop,,,
+U0096,user,Usuario 96,31,"Pop, Cumbia, Rock",,,
+U0097,user,Usuario 97,30,"Reggaeton, Pop",,,
+U0098,user,Usuario 98,18,K-Pop,,,
+U0099,user,Usuario 99,37,"Indie, Jazz",,,
+U0100,user,Usuario 100,18,"Pop, Indie",,,
+U0101,user,Usuario 101,34,Pop,,,
+U0102,user,Usuario 102,30,"Pop, Reggaeton",,,
+U0103,user,Usuario 103,37,"Rock, Cumbia, R&B",,,
+U0104,user,Usuario 104,26,Indie,,,
+U0105,user,Usuario 105,30,"Bachata, Jazz, R&B",,,
+U0106,user,Usuario 106,16,"Rock, Bachata",,,
+U0107,user,Usuario 107,31,"Indie, Jazz, Hip Hop",,,
+U0108,user,Usuario 108,31,"Jazz, Salsa, K-Pop",,,
+U0109,user,Usuario 109,37,R&B,,,
+U0110,user,Usuario 110,21,Bachata,,,
+U0111,user,Usuario 111,36,Jazz,,,
+U0112,user,Usuario 112,28,"K-Pop, Bachata, Indie",,,
+U0113,user,Usuario 113,27,"Bachata, Indie",,,
+U0114,user,Usuario 114,17,Electrónica,,,
+U0115,user,Usuario 115,23,Indie,,,
+U0116,user,Usuario 116,25,"Pop, Jazz",,,
+U0117,user,Usuario 117,28,"Salsa, Jazz, Reggaeton",,,
+U0118,user,Usuario 118,17,"Indie, Bachata",,,
+U0119,user,Usuario 119,34,"Indie, Pop, Cumbia",,,
+U0120,user,Usuario 120,29,Electrónica,,,
+U0121,user,Usuario 121,39,Pop,,,
+U0122,user,Usuario 122,36,"K-Pop, Jazz, R&B",,,
+U0123,user,Usuario 123,26,"Salsa, Cumbia, R&B",,,
+U0124,user,Usuario 124,30,"Salsa, Pop, K-Pop",,,
+U0125,user,Usuario 125,24,"Pop, Cumbia",,,
+U0126,user,Usuario 126,20,"Jazz, Electrónica",,,
+U0127,user,Usuario 127,18,"Reggaeton, Indie, Electrónica",,,
+U0128,user,Usuario 128,40,"Electrónica, Jazz, Indie",,,
+U0129,user,Usuario 129,33,"Pop, Bachata",,,
+U0130,user,Usuario 130,16,"Bachata, K-Pop, Rock",,,
+U0131,user,Usuario 131,27,"Pop, Cumbia, Salsa",,,
+U0132,user,Usuario 132,27,"R&B, K-Pop",,,
+U0133,user,Usuario 133,31,K-Pop,,,
+U0134,user,Usuario 134,17,Reggaeton,,,
+U0135,user,Usuario 135,32,Hip Hop,,,
+U0136,user,Usuario 136,30,"Electrónica, Pop",,,
+U0137,user,Usuario 137,38,"Salsa, Electrónica",,,
+U0138,user,Usuario 138,32,"Electrónica, K-Pop, Rock",,,
+U0139,user,Usuario 139,30,K-Pop,,,
+U0140,user,Usuario 140,36,"Jazz, Electrónica, R&B",,,
+U0141,user,Usuario 141,19,Hip Hop,,,
+U0142,user,Usuario 142,18,"K-Pop, Rock, Jazz",,,
+U0143,user,Usuario 143,35,"Reggaeton, Jazz, Pop",,,
+U0144,user,Usuario 144,33,"Hip Hop, Rock, Electrónica",,,
+U0145,user,Usuario 145,23,"R&B, Bachata, Salsa",,,
+U0146,user,Usuario 146,33,Bachata,,,
+U0147,user,Usuario 147,32,R&B,,,
+U0148,user,Usuario 148,20,"Reggaeton, R&B",,,
+U0149,user,Usuario 149,26,"R&B, Cumbia, Electrónica",,,
+U0150,user,Usuario 150,28,"Indie, Pop",,,
+U0151,user,Usuario 151,28,R&B,,,
+U0152,user,Usuario 152,19,K-Pop,,,
+U0153,user,Usuario 153,37,Salsa,,,
+U0154,user,Usuario 154,28,"Bachata, Jazz",,,
+U0155,user,Usuario 155,31,"K-Pop, Salsa, Jazz",,,
+U0156,user,Usuario 156,28,Bachata,,,
+U0157,user,Usuario 157,18,Hip Hop,,,
+U0158,user,Usuario 158,39,"R&B, Hip Hop",,,
+U0159,user,Usuario 159,25,"Jazz, Reggaeton, Hip Hop",,,
+U0160,user,Usuario 160,28,Electrónica,,,
+U0161,user,Usuario 161,26,K-Pop,,,
+U0162,user,Usuario 162,22,"R&B, K-Pop",,,
+U0163,user,Usuario 163,39,"K-Pop, Reggaeton, Salsa",,,
+U0164,user,Usuario 164,31,Bachata,,,
+U0165,user,Usuario 165,16,Salsa,,,
+U0166,user,Usuario 166,40,K-Pop,,,
+U0167,user,Usuario 167,23,Reggaeton,,,
+U0168,user,Usuario 168,35,"Rock, Bachata",,,
+U0169,user,Usuario 169,31,"Reggaeton, Salsa",,,
+U0170,user,Usuario 170,38,"Reggaeton, Electrónica, Pop",,,
+U0171,user,Usuario 171,27,"Indie, Jazz",,,
+U0172,user,Usuario 172,36,Reggaeton,,,
+U0173,user,Usuario 173,31,"Cumbia, Reggaeton, K-Pop",,,
+U0174,user,Usuario 174,16,"K-Pop, Salsa, R&B",,,
+U0175,user,Usuario 175,32,R&B,,,
+U0176,user,Usuario 176,39,Rock,,,
+U0177,user,Usuario 177,31,"Cumbia, K-Pop, Bachata",,,
+U0178,user,Usuario 178,24,Hip Hop,,,
+U0179,user,Usuario 179,23,Pop,,,
+U0180,user,Usuario 180,35,"Cumbia, R&B",,,
+U0181,user,Usuario 181,35,"Electrónica, K-Pop",,,
+U0182,user,Usuario 182,26,"Electrónica, Hip Hop",,,
+U0183,user,Usuario 183,25,"Electrónica, Indie, Reggaeton",,,
+U0184,user,Usuario 184,33,Jazz,,,
+U0185,user,Usuario 185,35,"K-Pop, Cumbia, R&B",,,
+U0186,user,Usuario 186,36,"Hip Hop, Indie",,,
+U0187,user,Usuario 187,23,Jazz,,,
+U0188,user,Usuario 188,18,Jazz,,,
+U0189,user,Usuario 189,26,"K-Pop, Salsa",,,
+U0190,user,Usuario 190,36,Salsa,,,
+U0191,user,Usuario 191,33,"Salsa, Hip Hop",,,
+U0192,user,Usuario 192,21,Hip Hop,,,
+U0193,user,Usuario 193,23,K-Pop,,,
+U0194,user,Usuario 194,20,"K-Pop, Electrónica, Bachata",,,
+U0195,user,Usuario 195,40,"Salsa, Rock, Cumbia",,,
+U0196,user,Usuario 196,23,"Jazz, Rock",,,
+U0197,user,Usuario 197,19,Reggaeton,,,
+U0198,user,Usuario 198,39,"K-Pop, Bachata, Reggaeton",,,
+U0199,user,Usuario 199,40,"Hip Hop, Jazz",,,
+U0200,user,Usuario 200,39,"Jazz, K-Pop, Salsa",,,
+U0201,user,Usuario 201,31,Indie,,,
+U0202,user,Usuario 202,32,"Rock, Indie",,,
+U0203,user,Usuario 203,29,"Pop, Electrónica",,,
+U0204,user,Usuario 204,28,"Salsa, Pop, Jazz",,,
+U0205,user,Usuario 205,27,Cumbia,,,
+U0206,user,Usuario 206,16,"Jazz, K-Pop",,,
+U0207,user,Usuario 207,31,Pop,,,
+U0208,user,Usuario 208,34,"Pop, Salsa, Bachata",,,
+U0209,user,Usuario 209,35,"Electrónica, Jazz, Indie",,,
+U0210,user,Usuario 210,32,"Salsa, Indie, Bachata",,,
+U0211,user,Usuario 211,29,"Cumbia, Pop, Hip Hop",,,
+U0212,user,Usuario 212,21,R&B,,,
+U0213,user,Usuario 213,30,"Bachata, Reggaeton",,,
+U0214,user,Usuario 214,33,"Jazz, Electrónica, Rock",,,
+U0215,user,Usuario 215,37,"Salsa, Electrónica",,,
+U0216,user,Usuario 216,20,"Salsa, Reggaeton, R&B",,,
+U0217,user,Usuario 217,20,"Salsa, Pop, R&B",,,
+U0218,user,Usuario 218,35,"Electrónica, Cumbia, Pop",,,
+U0219,user,Usuario 219,29,"Rock, Cumbia, R&B",,,
+U0220,user,Usuario 220,39,"Jazz, R&B",,,
+U0221,user,Usuario 221,19,"Rock, Cumbia",,,
+U0222,user,Usuario 222,32,"Hip Hop, Pop",,,
+U0223,user,Usuario 223,25,"Hip Hop, Rock, Reggaeton",,,
+U0224,user,Usuario 224,34,"Electrónica, Salsa",,,
+U0225,user,Usuario 225,16,K-Pop,,,
+U0226,user,Usuario 226,36,"Salsa, K-Pop, Indie",,,
+U0227,user,Usuario 227,27,"Rock, Bachata",,,
+U0228,user,Usuario 228,24,"Indie, Salsa, Electrónica",,,
+U0229,user,Usuario 229,31,R&B,,,
+U0230,user,Usuario 230,23,"Hip Hop, Electrónica, Bachata",,,
+U0231,user,Usuario 231,26,Bachata,,,
+U0232,user,Usuario 232,34,Pop,,,
+U0233,user,Usuario 233,31,"Rock, Bachata, R&B",,,
+U0234,user,Usuario 234,32,K-Pop,,,
+U0235,user,Usuario 235,18,Rock,,,
+U0236,user,Usuario 236,29,"Salsa, Reggaeton",,,
+U0237,user,Usuario 237,29,"Jazz, Rock",,,
+U0238,user,Usuario 238,40,"Indie, Pop, Rock",,,
+U0239,user,Usuario 239,35,"Rock, R&B, Electrónica",,,
+U0240,user,Usuario 240,34,"Cumbia, Bachata",,,
+U0241,user,Usuario 241,31,"Rock, Bachata",,,
+U0242,user,Usuario 242,19,Bachata,,,
+U0243,user,Usuario 243,38,Indie,,,
+U0244,user,Usuario 244,33,"Bachata, Salsa",,,
+U0245,user,Usuario 245,40,"Jazz, Bachata, Hip Hop",,,
+U0246,user,Usuario 246,19,"Bachata, Indie",,,
+U0247,user,Usuario 247,37,Jazz,,,
+U0248,user,Usuario 248,40,"Indie, Jazz",,,
+U0249,user,Usuario 249,27,Electrónica,,,
+U0250,user,Usuario 250,36,Cumbia,,,
+U0251,user,Usuario 251,20,"Salsa, Indie",,,
+U0252,user,Usuario 252,20,"R&B, Salsa",,,
+U0253,user,Usuario 253,24,Rock,,,
+U0254,user,Usuario 254,19,"Jazz, Electrónica",,,
+U0255,user,Usuario 255,39,"Hip Hop, Jazz",,,
+U0256,user,Usuario 256,32,"Bachata, Hip Hop",,,
+U0257,user,Usuario 257,17,Salsa,,,
+U0258,user,Usuario 258,16,"Reggaeton, Electrónica",,,
+U0259,user,Usuario 259,18,"Reggaeton, Salsa, Cumbia",,,
+U0260,user,Usuario 260,25,"R&B, Hip Hop, Rock",,,
+U0261,user,Usuario 261,33,"K-Pop, Rock",,,
+U0262,user,Usuario 262,29,"Cumbia, Hip Hop",,,
+U0263,user,Usuario 263,18,"Pop, Hip Hop",,,
+U0264,user,Usuario 264,29,"Electrónica, Pop, K-Pop",,,
+U0265,user,Usuario 265,25,"Salsa, Rock",,,
+U0266,user,Usuario 266,16,"Pop, Reggaeton, K-Pop",,,
+U0267,user,Usuario 267,20,K-Pop,,,
+U0268,user,Usuario 268,24,"Bachata, Rock, Jazz",,,
+U0269,user,Usuario 269,35,"Bachata, Rock, Electrónica",,,
+U0270,user,Usuario 270,34,"Indie, K-Pop",,,
+U0271,user,Usuario 271,24,"Electrónica, Cumbia, Hip Hop",,,
+U0272,user,Usuario 272,31,"Rock, Electrónica, Hip Hop",,,
+U0273,user,Usuario 273,29,"Bachata, Rock, Cumbia",,,
+U0274,user,Usuario 274,16,Jazz,,,
+U0275,user,Usuario 275,27,"Jazz, Cumbia, Indie",,,
+U0276,user,Usuario 276,40,"Indie, Electrónica, Salsa",,,
+U0277,user,Usuario 277,33,"Hip Hop, Cumbia, Jazz",,,
+U0278,user,Usuario 278,25,Hip Hop,,,
+U0279,user,Usuario 279,36,Bachata,,,
+U0280,user,Usuario 280,19,"Rock, Hip Hop",,,
+U0281,user,Usuario 281,18,"Pop, Bachata, R&B",,,
+U0282,user,Usuario 282,31,"Jazz, K-Pop, Bachata",,,
+U0283,user,Usuario 283,29,"Cumbia, Salsa",,,
+U0284,user,Usuario 284,26,R&B,,,
+U0285,user,Usuario 285,20,"Bachata, R&B",,,
+U0286,user,Usuario 286,24,"Cumbia, Hip Hop",,,
+U0287,user,Usuario 287,25,Rock,,,
+U0288,user,Usuario 288,32,"R&B, Salsa",,,
+U0289,user,Usuario 289,37,Hip Hop,,,
+U0290,user,Usuario 290,33,"Reggaeton, Pop",,,
+U0291,user,Usuario 291,32,K-Pop,,,
+U0292,user,Usuario 292,20,"K-Pop, Electrónica, Jazz",,,
+U0293,user,Usuario 293,39,"Jazz, Rock, Hip Hop",,,
+U0294,user,Usuario 294,38,"Salsa, Reggaeton",,,
+U0295,user,Usuario 295,25,Salsa,,,
+U0296,user,Usuario 296,40,"Electrónica, Cumbia",,,
+U0297,user,Usuario 297,24,"Pop, Jazz",,,
+U0298,user,Usuario 298,23,"Hip Hop, Jazz, Electrónica",,,
+U0299,user,Usuario 299,24,"R&B, Bachata",,,
+U0300,user,Usuario 300,28,Jazz,,,
+U0301,user,Usuario 301,30,"Jazz, Reggaeton",,,
+U0302,user,Usuario 302,16,"Reggaeton, Rock",,,
+U0303,user,Usuario 303,25,"Rock, Hip Hop",,,
+U0304,user,Usuario 304,20,"R&B, Pop, Electrónica",,,
+U0305,user,Usuario 305,33,Rock,,,
+U0306,user,Usuario 306,19,Indie,,,
+U0307,user,Usuario 307,26,"Cumbia, Pop, Rock",,,
+U0308,user,Usuario 308,24,"Hip Hop, Reggaeton, Electrónica",,,
+U0309,user,Usuario 309,36,"Indie, Jazz, Cumbia",,,
+U0310,user,Usuario 310,25,"Jazz, K-Pop",,,
+U0311,user,Usuario 311,21,"Electrónica, Cumbia, R&B",,,
+U0312,user,Usuario 312,21,"Hip Hop, Bachata",,,
+U0313,user,Usuario 313,35,K-Pop,,,
+U0314,user,Usuario 314,38,"Salsa, Rock, Electrónica",,,
+U0315,user,Usuario 315,34,"Indie, R&B",,,
+U0316,user,Usuario 316,27,"Bachata, Rock",,,
+U0317,user,Usuario 317,29,"Electrónica, Reggaeton, Rock",,,
+U0318,user,Usuario 318,19,Bachata,,,
+U0319,user,Usuario 319,24,K-Pop,,,
+U0320,user,Usuario 320,29,Jazz,,,
+U0321,user,Usuario 321,34,K-Pop,,,
+U0322,user,Usuario 322,27,"Jazz, Bachata",,,
+U0323,user,Usuario 323,39,"R&B, Cumbia",,,
+U0324,user,Usuario 324,24,"Jazz, Rock",,,
+U0325,user,Usuario 325,19,Indie,,,
+U0326,user,Usuario 326,21,"Electrónica, R&B, Rock",,,
+U0327,user,Usuario 327,34,"Cumbia, Electrónica, Pop",,,
+U0328,user,Usuario 328,36,"Rock, Cumbia",,,
+U0329,user,Usuario 329,24,Hip Hop,,,
+U0330,user,Usuario 330,17,"Pop, Rock, Reggaeton",,,
+U0331,user,Usuario 331,25,"Indie, R&B",,,
+U0332,user,Usuario 332,25,"Pop, Reggaeton",,,
+U0333,user,Usuario 333,26,"Indie, Electrónica, R&B",,,
+U0334,user,Usuario 334,38,"Reggaeton, K-Pop, Salsa",,,
+U0335,user,Usuario 335,36,Cumbia,,,
+U0336,user,Usuario 336,25,"K-Pop, Salsa, Cumbia",,,
+U0337,user,Usuario 337,31,"Electrónica, Jazz, Bachata",,,
+U0338,user,Usuario 338,36,"Salsa, Bachata",,,
+U0339,user,Usuario 339,25,Reggaeton,,,
+U0340,user,Usuario 340,38,"Hip Hop, Reggaeton",,,
+U0341,user,Usuario 341,36,Jazz,,,
+U0342,user,Usuario 342,17,Electrónica,,,
+U0343,user,Usuario 343,16,"Hip Hop, Bachata",,,
+U0344,user,Usuario 344,38,"K-Pop, R&B, Electrónica",,,
+U0345,user,Usuario 345,33,"Salsa, Reggaeton",,,
+U0346,user,Usuario 346,20,"R&B, Reggaeton, Hip Hop",,,
+U0347,user,Usuario 347,22,"Pop, Salsa, Cumbia",,,
+U0348,user,Usuario 348,24,"Cumbia, K-Pop, R&B",,,
+U0349,user,Usuario 349,39,Pop,,,
+U0350,user,Usuario 350,21,K-Pop,,,
+U0351,user,Usuario 351,40,"Bachata, Indie, K-Pop",,,
+U0352,user,Usuario 352,32,"Reggaeton, Hip Hop",,,
+U0353,user,Usuario 353,26,"K-Pop, Bachata",,,
+U0354,user,Usuario 354,19,"Jazz, Cumbia, Reggaeton",,,
+U0355,user,Usuario 355,39,"Jazz, Bachata",,,
+U0356,user,Usuario 356,26,"Jazz, R&B",,,
+U0357,user,Usuario 357,30,"Rock, Jazz, Salsa",,,
+U0358,user,Usuario 358,34,"Pop, Jazz",,,
+U0359,user,Usuario 359,31,Rock,,,
+U0360,user,Usuario 360,28,"Bachata, Indie",,,
+U0361,user,Usuario 361,23,"Jazz, Electrónica",,,
+U0362,user,Usuario 362,40,Bachata,,,
+U0363,user,Usuario 363,16,"Salsa, Pop",,,
+U0364,user,Usuario 364,23,"Jazz, Electrónica, Salsa",,,
+U0365,user,Usuario 365,30,"Bachata, Rock",,,
+U0366,user,Usuario 366,24,"Hip Hop, Reggaeton, Pop",,,
+U0367,user,Usuario 367,36,"Electrónica, Jazz",,,
+U0368,user,Usuario 368,20,"K-Pop, Jazz",,,
+U0369,user,Usuario 369,23,Bachata,,,
+U0370,user,Usuario 370,35,"Hip Hop, Indie",,,
+U0371,user,Usuario 371,28,Hip Hop,,,
+U0372,user,Usuario 372,32,"Jazz, K-Pop, Hip Hop",,,
+U0373,user,Usuario 373,25,"Jazz, Reggaeton",,,
+U0374,user,Usuario 374,21,Rock,,,
+U0375,user,Usuario 375,19,"Rock, Salsa, Pop",,,
+U0376,user,Usuario 376,20,"R&B, Salsa",,,
+U0377,user,Usuario 377,16,"R&B, Cumbia",,,
+U0378,user,Usuario 378,28,Indie,,,
+U0379,user,Usuario 379,25,R&B,,,
+U0380,user,Usuario 380,19,"Jazz, Electrónica, Bachata",,,
+U0381,user,Usuario 381,26,"R&B, Pop",,,
+U0382,user,Usuario 382,20,Bachata,,,
+U0383,user,Usuario 383,31,"K-Pop, R&B",,,
+U0384,user,Usuario 384,28,"Reggaeton, R&B",,,
+U0385,user,Usuario 385,21,"K-Pop, Reggaeton",,,
+U0386,user,Usuario 386,30,"R&B, Indie",,,
+U0387,user,Usuario 387,39,Salsa,,,
+U0388,user,Usuario 388,28,"R&B, Indie, Reggaeton",,,
+U0389,user,Usuario 389,22,"Salsa, Bachata, R&B",,,
+U0390,user,Usuario 390,20,"Electrónica, Bachata",,,
+U0391,user,Usuario 391,28,"Pop, Electrónica",,,
+U0392,user,Usuario 392,20,"Pop, Bachata",,,
+U0393,user,Usuario 393,27,"Indie, Salsa",,,
+U0394,user,Usuario 394,27,"Pop, R&B",,,
+U0395,user,Usuario 395,36,"Salsa, Indie, Rock",,,
+U0396,user,Usuario 396,33,"Reggaeton, Indie, Cumbia",,,
+U0397,user,Usuario 397,23,Cumbia,,,
+U0398,user,Usuario 398,27,K-Pop,,,
+U0399,user,Usuario 399,28,Cumbia,,,
+U0400,user,Usuario 400,19,"Hip Hop, Indie, Bachata",,,
+U0401,user,Usuario 401,37,"K-Pop, Rock, R&B",,,
+U0402,user,Usuario 402,38,"Pop, Rock, Cumbia",,,
+U0403,user,Usuario 403,28,Bachata,,,
+U0404,user,Usuario 404,23,"Rock, Indie",,,
+U0405,user,Usuario 405,20,"Salsa, Pop",,,
+U0406,user,Usuario 406,18,Cumbia,,,
+U0407,user,Usuario 407,35,"Bachata, Pop",,,
+U0408,user,Usuario 408,22,"Indie, Electrónica, Rock",,,
+U0409,user,Usuario 409,28,Cumbia,,,
+U0410,user,Usuario 410,35,Reggaeton,,,
+U0411,user,Usuario 411,37,"Jazz, Pop",,,
+U0412,user,Usuario 412,35,Hip Hop,,,
+U0413,user,Usuario 413,30,"Cumbia, Rock, Reggaeton",,,
+U0414,user,Usuario 414,29,"Hip Hop, Rock",,,
+U0415,user,Usuario 415,37,"Pop, Salsa, Electrónica",,,
+U0416,user,Usuario 416,30,Bachata,,,
+U0417,user,Usuario 417,17,"Jazz, Pop, K-Pop",,,
+U0418,user,Usuario 418,35,Pop,,,
+U0419,user,Usuario 419,23,"Bachata, Salsa, Rock",,,
+U0420,user,Usuario 420,24,"Electrónica, Salsa, Pop",,,
+U0421,user,Usuario 421,25,"Pop, Rock",,,
+U0422,user,Usuario 422,23,Bachata,,,
+U0423,user,Usuario 423,17,Rock,,,
+U0424,user,Usuario 424,21,"K-Pop, Jazz, Reggaeton",,,
+U0425,user,Usuario 425,18,"Electrónica, K-Pop",,,
+U0426,user,Usuario 426,20,"Indie, Pop",,,
+U0427,user,Usuario 427,27,"Rock, Salsa, Electrónica",,,
+U0428,user,Usuario 428,20,"Jazz, Cumbia, Electrónica",,,
+U0429,user,Usuario 429,19,K-Pop,,,
+U0430,user,Usuario 430,22,Indie,,,
+U0431,user,Usuario 431,18,Jazz,,,
+U0432,user,Usuario 432,26,"Electrónica, Salsa, Pop",,,
+U0433,user,Usuario 433,19,Salsa,,,
+U0434,user,Usuario 434,19,"Hip Hop, Electrónica",,,
+U0435,user,Usuario 435,31,"Electrónica, Reggaeton, R&B",,,
+U0436,user,Usuario 436,28,"R&B, Reggaeton",,,
+U0437,user,Usuario 437,21,"Cumbia, Bachata",,,
+U0438,user,Usuario 438,36,"K-Pop, Hip Hop",,,
+U0439,user,Usuario 439,18,"R&B, Jazz",,,
+U0440,user,Usuario 440,29,"Hip Hop, Cumbia",,,
+U0441,user,Usuario 441,38,Cumbia,,,
+U0442,user,Usuario 442,27,"Bachata, Cumbia",,,
+U0443,user,Usuario 443,19,"Bachata, Jazz, Indie",,,
+U0444,user,Usuario 444,25,Salsa,,,
+U0445,user,Usuario 445,19,Indie,,,
+U0446,user,Usuario 446,31,Bachata,,,
+U0447,user,Usuario 447,32,"Hip Hop, Salsa",,,
+U0448,user,Usuario 448,38,Cumbia,,,
+U0449,user,Usuario 449,34,"Hip Hop, R&B",,,
+U0450,user,Usuario 450,34,Reggaeton,,,
+U0451,user,Usuario 451,18,Salsa,,,
+U0452,user,Usuario 452,30,R&B,,,
+U0453,user,Usuario 453,39,"R&B, Rock, Bachata",,,
+U0454,user,Usuario 454,35,"Pop, Rock, R&B",,,
+U0455,user,Usuario 455,19,"Pop, Indie, Cumbia",,,
+U0456,user,Usuario 456,18,"Jazz, Indie, Rock",,,
+U0457,user,Usuario 457,38,Rock,,,
+U0458,user,Usuario 458,38,Cumbia,,,
+U0459,user,Usuario 459,30,"K-Pop, Cumbia, Pop",,,
+U0460,user,Usuario 460,40,"Rock, K-Pop",,,
+U0461,user,Usuario 461,39,"Bachata, R&B",,,
+U0462,user,Usuario 462,29,"Jazz, Hip Hop",,,
+U0463,user,Usuario 463,38,"Bachata, Electrónica",,,
+U0464,user,Usuario 464,26,"Hip Hop, Indie, R&B",,,
+U0465,user,Usuario 465,20,Electrónica,,,
+U0466,user,Usuario 466,23,"Jazz, Pop",,,
+U0467,user,Usuario 467,37,"Jazz, Pop, Hip Hop",,,
+U0468,user,Usuario 468,38,"Pop, Rock, Indie",,,
+U0469,user,Usuario 469,29,Rock,,,
+U0470,user,Usuario 470,19,Bachata,,,
+U0471,user,Usuario 471,31,"Pop, K-Pop, Salsa",,,
+U0472,user,Usuario 472,34,Reggaeton,,,
+U0473,user,Usuario 473,25,Electrónica,,,
+U0474,user,Usuario 474,31,Reggaeton,,,
+U0475,user,Usuario 475,26,"Jazz, Indie",,,
+U0476,user,Usuario 476,22,"Cumbia, R&B, K-Pop",,,
+U0477,user,Usuario 477,27,Indie,,,
+U0478,user,Usuario 478,22,"Cumbia, R&B, Rock",,,
+U0479,user,Usuario 479,21,"Jazz, Bachata",,,
+U0480,user,Usuario 480,33,Rock,,,
+U0481,user,Usuario 481,31,"R&B, Hip Hop",,,
+U0482,user,Usuario 482,37,"Bachata, Pop",,,
+U0483,user,Usuario 483,29,"R&B, Jazz",,,
+U0484,user,Usuario 484,40,Indie,,,
+U0485,user,Usuario 485,40,Indie,,,
+U0486,user,Usuario 486,26,Reggaeton,,,
+U0487,user,Usuario 487,24,R&B,,,
+U0488,user,Usuario 488,30,"Rock, K-Pop",,,
+U0489,user,Usuario 489,22,"K-Pop, R&B, Pop",,,
+U0490,user,Usuario 490,27,"R&B, Indie",,,
+U0491,user,Usuario 491,20,K-Pop,,,
+U0492,user,Usuario 492,23,Hip Hop,,,
+U0493,user,Usuario 493,16,"Rock, Electrónica, Reggaeton",,,
+U0494,user,Usuario 494,30,"K-Pop, Jazz, Rock",,,
+U0495,user,Usuario 495,18,"Indie, Electrónica",,,
+U0496,user,Usuario 496,23,"Jazz, Salsa, Reggaeton",,,
+U0497,user,Usuario 497,32,Hip Hop,,,
+U0498,user,Usuario 498,25,"Indie, Reggaeton",,,
+U0499,user,Usuario 499,33,"Rock, K-Pop, Cumbia",,,
+U0500,user,Usuario 500,21,"Indie, Electrónica, Hip Hop",,,
+U0501,user,Usuario 501,24,"Cumbia, Hip Hop, K-Pop",,,
+U0502,user,Usuario 502,39,"Bachata, Reggaeton, Jazz",,,
+U0503,user,Usuario 503,24,Reggaeton,,,
+U0504,user,Usuario 504,27,"Rock, R&B",,,
+U0505,user,Usuario 505,39,"Hip Hop, Rock",,,
+U0506,user,Usuario 506,35,"Salsa, Electrónica",,,
+U0507,user,Usuario 507,32,"Bachata, Rock",,,
+U0508,user,Usuario 508,19,"Salsa, Hip Hop, Indie",,,
+U0509,user,Usuario 509,31,Electrónica,,,
+U0510,user,Usuario 510,32,Electrónica,,,
+U0511,user,Usuario 511,38,Bachata,,,
+U0512,user,Usuario 512,35,"Cumbia, Reggaeton",,,
+U0513,user,Usuario 513,30,"Pop, Jazz, R&B",,,
+U0514,user,Usuario 514,31,Rock,,,
+U0515,user,Usuario 515,32,"R&B, Rock",,,
+U0516,user,Usuario 516,37,"Pop, Salsa, Jazz",,,
+U0517,user,Usuario 517,17,K-Pop,,,
+U0518,user,Usuario 518,19,"Jazz, Indie",,,
+U0519,user,Usuario 519,31,"K-Pop, Bachata, Jazz",,,
+U0520,user,Usuario 520,39,"Cumbia, Rock, Bachata",,,
+U0521,user,Usuario 521,19,"Reggaeton, Cumbia, Pop",,,
+U0522,user,Usuario 522,37,"Hip Hop, Salsa",,,
+U0523,user,Usuario 523,16,"K-Pop, R&B, Rock",,,
+U0524,user,Usuario 524,19,"Jazz, Bachata",,,
+U0525,user,Usuario 525,20,"Reggaeton, Hip Hop",,,
+U0526,user,Usuario 526,16,"R&B, Rock, K-Pop",,,
+U0527,user,Usuario 527,27,"Cumbia, Rock",,,
+U0528,user,Usuario 528,39,"Reggaeton, Jazz",,,
+U0529,user,Usuario 529,36,Indie,,,
+U0530,user,Usuario 530,35,"Rock, R&B, Bachata",,,
+U0531,user,Usuario 531,21,Electrónica,,,
+U0532,user,Usuario 532,32,"Salsa, Cumbia, Jazz",,,
+U0533,user,Usuario 533,38,"Indie, Hip Hop, Bachata",,,
+U0534,user,Usuario 534,31,Jazz,,,
+U0535,user,Usuario 535,28,"Pop, Cumbia",,,
+U0536,user,Usuario 536,22,"Pop, K-Pop",,,
+U0537,user,Usuario 537,18,"Hip Hop, K-Pop, Electrónica",,,
+U0538,user,Usuario 538,35,Cumbia,,,
+U0539,user,Usuario 539,33,"Bachata, Electrónica, Salsa",,,
+U0540,user,Usuario 540,25,"Bachata, Reggaeton",,,
+U0541,user,Usuario 541,16,Pop,,,
+U0542,user,Usuario 542,25,"R&B, Indie, Jazz",,,
+U0543,user,Usuario 543,32,"Cumbia, Rock, R&B",,,
+U0544,user,Usuario 544,22,"Salsa, Rock, Electrónica",,,
+U0545,user,Usuario 545,37,"Rock, Salsa, K-Pop",,,
+U0546,user,Usuario 546,20,"Hip Hop, Salsa, Indie",,,
+U0547,user,Usuario 547,34,"Electrónica, Indie, Jazz",,,
+U0548,user,Usuario 548,18,"Reggaeton, Bachata",,,
+U0549,user,Usuario 549,40,"Electrónica, Jazz",,,
+U0550,user,Usuario 550,19,"Bachata, Hip Hop, Indie",,,
+U0551,user,Usuario 551,33,"Indie, Hip Hop, Reggaeton",,,
+U0552,user,Usuario 552,23,"Bachata, Electrónica, Indie",,,
+U0553,user,Usuario 553,25,"Rock, Indie, Bachata",,,
+U0554,user,Usuario 554,28,"K-Pop, Indie",,,
+U0555,user,Usuario 555,28,"Jazz, Electrónica",,,
+U0556,user,Usuario 556,31,"Cumbia, Rock",,,
+U0557,user,Usuario 557,31,Hip Hop,,,
+U0558,user,Usuario 558,33,Hip Hop,,,
+U0559,user,Usuario 559,38,Salsa,,,
+U0560,user,Usuario 560,39,"Indie, Hip Hop",,,
+U0561,user,Usuario 561,16,"Rock, Electrónica, Indie",,,
+U0562,user,Usuario 562,25,R&B,,,
+U0563,user,Usuario 563,20,"Salsa, Cumbia",,,
+U0564,user,Usuario 564,40,"Electrónica, Cumbia",,,
+U0565,user,Usuario 565,26,Bachata,,,
+U0566,user,Usuario 566,26,"Hip Hop, Bachata, K-Pop",,,
+U0567,user,Usuario 567,32,"Rock, R&B, Pop",,,
+U0568,user,Usuario 568,33,"Indie, R&B",,,
+U0569,user,Usuario 569,40,"K-Pop, R&B, Electrónica",,,
+U0570,user,Usuario 570,18,Jazz,,,
+U0571,user,Usuario 571,17,"Hip Hop, Bachata",,,
+U0572,user,Usuario 572,16,"Hip Hop, Electrónica",,,
+U0573,user,Usuario 573,30,Reggaeton,,,
+U0574,user,Usuario 574,39,"K-Pop, R&B, Bachata",,,
+U0575,user,Usuario 575,21,Jazz,,,
+U0576,user,Usuario 576,32,"Pop, K-Pop",,,
+U0577,user,Usuario 577,18,"Salsa, Electrónica, R&B",,,
+U0578,user,Usuario 578,34,"K-Pop, R&B",,,
+U0579,user,Usuario 579,38,"Jazz, K-Pop, Indie",,,
+U0580,user,Usuario 580,16,"Rock, Salsa",,,
+U0581,user,Usuario 581,27,"Reggaeton, Electrónica",,,
+U0582,user,Usuario 582,38,Indie,,,
+U0583,user,Usuario 583,35,"Cumbia, Salsa",,,
+U0584,user,Usuario 584,25,"Rock, Cumbia",,,
+U0585,user,Usuario 585,16,"Reggaeton, Indie, Hip Hop",,,
+U0586,user,Usuario 586,40,"Bachata, Electrónica, Indie",,,
+U0587,user,Usuario 587,29,"Salsa, Electrónica",,,
+U0588,user,Usuario 588,31,"Electrónica, K-Pop",,,
+U0589,user,Usuario 589,28,"R&B, Indie, Pop",,,
+U0590,user,Usuario 590,26,"Salsa, Electrónica",,,
+U0591,user,Usuario 591,26,Salsa,,,
+U0592,user,Usuario 592,32,"Hip Hop, Electrónica",,,
+U0593,user,Usuario 593,23,Reggaeton,,,
+U0594,user,Usuario 594,38,"Salsa, Cumbia, K-Pop",,,
+U0595,user,Usuario 595,18,"Jazz, Electrónica, Reggaeton",,,
+U0596,user,Usuario 596,20,Hip Hop,,,
+U0597,user,Usuario 597,35,R&B,,,
+U0598,user,Usuario 598,18,Salsa,,,
+U0599,user,Usuario 599,22,"Salsa, Rock",,,
+U0600,user,Usuario 600,27,"Salsa, Hip Hop, K-Pop",,,
+U0601,user,Usuario 601,19,"Bachata, R&B, Jazz",,,
+U0602,user,Usuario 602,28,"K-Pop, Rock, Reggaeton",,,
+U0603,user,Usuario 603,36,"Indie, Pop, Jazz",,,
+U0604,user,Usuario 604,30,"Electrónica, Reggaeton",,,
+U0605,user,Usuario 605,34,Reggaeton,,,
+U0606,user,Usuario 606,18,"Electrónica, Hip Hop, R&B",,,
+U0607,user,Usuario 607,18,Cumbia,,,
+U0608,user,Usuario 608,33,"Pop, K-Pop",,,
+U0609,user,Usuario 609,26,"Pop, R&B",,,
+U0610,user,Usuario 610,29,Bachata,,,
+U0611,user,Usuario 611,23,"R&B, K-Pop, Bachata",,,
+U0612,user,Usuario 612,34,"Reggaeton, Rock",,,
+U0613,user,Usuario 613,31,"K-Pop, Jazz, Reggaeton",,,
+U0614,user,Usuario 614,36,"Salsa, Cumbia, Electrónica",,,
+U0615,user,Usuario 615,29,"Indie, Reggaeton, Bachata",,,
+U0616,user,Usuario 616,16,Hip Hop,,,
+U0617,user,Usuario 617,16,"Electrónica, Jazz",,,
+U0618,user,Usuario 618,28,"Hip Hop, Salsa, Electrónica",,,
+U0619,user,Usuario 619,19,"R&B, Bachata",,,
+U0620,user,Usuario 620,29,"Jazz, K-Pop, Pop",,,
+U0621,user,Usuario 621,28,"Bachata, R&B, Reggaeton",,,
+U0622,user,Usuario 622,29,"Hip Hop, Rock, K-Pop",,,
+U0623,user,Usuario 623,35,Jazz,,,
+U0624,user,Usuario 624,22,"Electrónica, Hip Hop",,,
+U0625,user,Usuario 625,25,"Electrónica, Jazz",,,
+U0626,user,Usuario 626,22,"Cumbia, K-Pop",,,
+U0627,user,Usuario 627,40,Reggaeton,,,
+U0628,user,Usuario 628,24,"Hip Hop, K-Pop, Pop",,,
+U0629,user,Usuario 629,22,"R&B, Bachata",,,
+U0630,user,Usuario 630,17,"Pop, Jazz, R&B",,,
+U0631,user,Usuario 631,34,"Hip Hop, Jazz, Indie",,,
+U0632,user,Usuario 632,36,"K-Pop, Jazz, Hip Hop",,,
+U0633,user,Usuario 633,25,"Reggaeton, Jazz, Cumbia",,,
+U0634,user,Usuario 634,17,"K-Pop, Rock",,,
+U0635,user,Usuario 635,32,Electrónica,,,
+U0636,user,Usuario 636,21,"R&B, Rock, Salsa",,,
+U0637,user,Usuario 637,28,"Bachata, Cumbia",,,
+U0638,user,Usuario 638,39,"Cumbia, Rock, Salsa",,,
+U0639,user,Usuario 639,38,"R&B, Indie, Cumbia",,,
+U0640,user,Usuario 640,22,"Bachata, Salsa",,,
+U0641,user,Usuario 641,31,"Jazz, K-Pop, Electrónica",,,
+U0642,user,Usuario 642,23,"Electrónica, Indie, R&B",,,
+U0643,user,Usuario 643,20,"Reggaeton, Indie",,,
+U0644,user,Usuario 644,16,"Bachata, K-Pop",,,
+U0645,user,Usuario 645,36,"Jazz, Indie, Bachata",,,
+U0646,user,Usuario 646,21,"Bachata, Electrónica",,,
+U0647,user,Usuario 647,23,Indie,,,
+U0648,user,Usuario 648,27,"Reggaeton, K-Pop, Rock",,,
+U0649,user,Usuario 649,40,"K-Pop, Indie, Electrónica",,,
+U0650,user,Usuario 650,29,Reggaeton,,,
+U0651,user,Usuario 651,21,Bachata,,,
+U0652,user,Usuario 652,27,Jazz,,,
+U0653,user,Usuario 653,19,"Cumbia, Reggaeton, R&B",,,
+U0654,user,Usuario 654,34,"Salsa, Reggaeton, Pop",,,
+U0655,user,Usuario 655,34,"Jazz, Hip Hop",,,
+U0656,user,Usuario 656,24,"Pop, K-Pop, Bachata",,,
+U0657,user,Usuario 657,18,Salsa,,,
+U0658,user,Usuario 658,19,K-Pop,,,
+U0659,user,Usuario 659,31,"Reggaeton, K-Pop, Salsa",,,
+U0660,user,Usuario 660,28,K-Pop,,,
+U0661,user,Usuario 661,22,"K-Pop, Pop, Salsa",,,
+U0662,user,Usuario 662,26,"Reggaeton, R&B",,,
+U0663,user,Usuario 663,36,"Rock, R&B",,,
+U0664,user,Usuario 664,26,"Cumbia, Rock, R&B",,,
+U0665,user,Usuario 665,19,"Cumbia, Bachata, Rock",,,
+U0666,user,Usuario 666,22,"Indie, Pop",,,
+U0667,user,Usuario 667,35,"Hip Hop, Reggaeton, Cumbia",,,
+U0668,user,Usuario 668,30,Cumbia,,,
+U0669,user,Usuario 669,27,"K-Pop, Salsa, Bachata",,,
+U0670,user,Usuario 670,34,Hip Hop,,,
+U0671,user,Usuario 671,23,"R&B, K-Pop",,,
+U0672,user,Usuario 672,40,"K-Pop, Reggaeton",,,
+U0673,user,Usuario 673,28,Cumbia,,,
+U0674,user,Usuario 674,21,"K-Pop, Jazz",,,
+U0675,user,Usuario 675,40,"Bachata, Cumbia, R&B",,,
+U0676,user,Usuario 676,19,"K-Pop, Hip Hop",,,
+U0677,user,Usuario 677,32,Indie,,,
+U0678,user,Usuario 678,18,Jazz,,,
+U0679,user,Usuario 679,31,"Bachata, Hip Hop",,,
+U0680,user,Usuario 680,38,"Rock, K-Pop, Indie",,,
+U0681,user,Usuario 681,25,"Salsa, Indie, K-Pop",,,
+U0682,user,Usuario 682,28,"Rock, Cumbia, Electrónica",,,
+U0683,user,Usuario 683,21,Rock,,,
+U0684,user,Usuario 684,17,Rock,,,
+U0685,user,Usuario 685,28,"Salsa, Rock",,,
+U0686,user,Usuario 686,37,Bachata,,,
+U0687,user,Usuario 687,26,"Salsa, Electrónica, Jazz",,,
+U0688,user,Usuario 688,34,"Jazz, Cumbia, Rock",,,
+U0689,user,Usuario 689,32,Indie,,,
+U0690,user,Usuario 690,26,"R&B, Electrónica",,,
+U0691,user,Usuario 691,35,"Reggaeton, Hip Hop, Bachata",,,
+U0692,user,Usuario 692,18,Jazz,,,
+U0693,user,Usuario 693,23,"Cumbia, Reggaeton",,,
+U0694,user,Usuario 694,18,Hip Hop,,,
+U0695,user,Usuario 695,38,"Bachata, Pop",,,
+U0696,user,Usuario 696,32,Bachata,,,
+U0697,user,Usuario 697,37,"Jazz, Electrónica, Rock",,,
+U0698,user,Usuario 698,40,Electrónica,,,
+U0699,user,Usuario 699,36,"Reggaeton, Pop",,,
+U0700,user,Usuario 700,25,"Hip Hop, Jazz",,,
+U0701,user,Usuario 701,38,Bachata,,,
+U0702,user,Usuario 702,35,K-Pop,,,
+U0703,user,Usuario 703,28,"Hip Hop, Jazz, Cumbia",,,
+U0704,user,Usuario 704,20,"R&B, Rock",,,
+U0705,user,Usuario 705,24,Hip Hop,,,
+U0706,user,Usuario 706,28,"Bachata, Salsa, Rock",,,
+U0707,user,Usuario 707,18,Electrónica,,,
+U0708,user,Usuario 708,18,"Hip Hop, Rock",,,
+U0709,user,Usuario 709,19,Electrónica,,,
+U0710,user,Usuario 710,35,Cumbia,,,
+U0711,user,Usuario 711,16,Electrónica,,,
+U0712,user,Usuario 712,28,Indie,,,
+U0713,user,Usuario 713,20,Pop,,,
+U0714,user,Usuario 714,31,"Pop, R&B, Hip Hop",,,
+U0715,user,Usuario 715,23,"Hip Hop, Electrónica",,,
+U0716,user,Usuario 716,40,Cumbia,,,
+U0717,user,Usuario 717,25,"K-Pop, Reggaeton, Indie",,,
+U0718,user,Usuario 718,33,Electrónica,,,
+U0719,user,Usuario 719,26,Bachata,,,
+U0720,user,Usuario 720,19,Reggaeton,,,
+U0721,user,Usuario 721,22,"Salsa, Reggaeton",,,
+U0722,user,Usuario 722,33,"Reggaeton, Electrónica, Cumbia",,,
+U0723,user,Usuario 723,39,"Jazz, K-Pop",,,
+U0724,user,Usuario 724,22,"Hip Hop, Pop, R&B",,,
+U0725,user,Usuario 725,38,"K-Pop, Electrónica",,,
+U0726,user,Usuario 726,22,"Jazz, Indie",,,
+U0727,user,Usuario 727,33,"Bachata, Rock, Pop",,,
+U0728,user,Usuario 728,39,Reggaeton,,,
+U0729,user,Usuario 729,32,"Reggaeton, Electrónica, K-Pop",,,
+U0730,user,Usuario 730,39,"Jazz, Pop, R&B",,,
+U0731,user,Usuario 731,38,"Salsa, R&B, Jazz",,,
+U0732,user,Usuario 732,35,"K-Pop, Jazz",,,
+U0733,user,Usuario 733,18,"K-Pop, Jazz",,,
+U0734,user,Usuario 734,33,"Rock, Salsa",,,
+U0735,user,Usuario 735,27,Rock,,,
+U0736,user,Usuario 736,29,"R&B, Bachata, Rock",,,
+U0737,user,Usuario 737,28,"Indie, K-Pop, Jazz",,,
+U0738,user,Usuario 738,27,"Indie, R&B",,,
+U0739,user,Usuario 739,20,Cumbia,,,
+U0740,user,Usuario 740,21,Cumbia,,,
+U0741,user,Usuario 741,36,"Cumbia, Pop",,,
+U0742,user,Usuario 742,32,"Hip Hop, Reggaeton, Jazz",,,
+U0743,user,Usuario 743,39,"Cumbia, Hip Hop",,,
+U0744,user,Usuario 744,21,"Indie, Bachata, Pop",,,
+U0745,user,Usuario 745,16,"Indie, R&B",,,
+U0746,user,Usuario 746,25,Reggaeton,,,
+U0747,user,Usuario 747,21,"Electrónica, Bachata, Hip Hop",,,
+U0748,user,Usuario 748,22,Pop,,,
+U0749,user,Usuario 749,18,Rock,,,
+U0750,user,Usuario 750,31,Pop,,,
+U0751,user,Usuario 751,16,"Jazz, R&B, Cumbia",,,
+U0752,user,Usuario 752,32,"Pop, Rock, Reggaeton",,,
+U0753,user,Usuario 753,31,"Indie, Hip Hop",,,
+U0754,user,Usuario 754,28,"Indie, Cumbia, Bachata",,,
+U0755,user,Usuario 755,17,"Pop, R&B",,,
+U0756,user,Usuario 756,29,"Hip Hop, Reggaeton",,,
+U0757,user,Usuario 757,34,"Reggaeton, Bachata, Salsa",,,
+U0758,user,Usuario 758,39,Pop,,,
+U0759,user,Usuario 759,30,"Salsa, Reggaeton",,,
+U0760,user,Usuario 760,40,"Salsa, Hip Hop",,,
+U0761,user,Usuario 761,16,Bachata,,,
+U0762,user,Usuario 762,16,"Pop, Electrónica",,,
+U0763,user,Usuario 763,25,R&B,,,
+U0764,user,Usuario 764,32,"Jazz, Indie, Bachata",,,
+U0765,user,Usuario 765,38,"K-Pop, Indie, Hip Hop",,,
+U0766,user,Usuario 766,22,"Electrónica, K-Pop",,,
+U0767,user,Usuario 767,19,"Rock, Pop",,,
+U0768,user,Usuario 768,17,Electrónica,,,
+U0769,user,Usuario 769,28,Electrónica,,,
+U0770,user,Usuario 770,29,"Reggaeton, K-Pop",,,
+U0771,user,Usuario 771,34,"Pop, Rock",,,
+U0772,user,Usuario 772,17,Reggaeton,,,
+U0773,user,Usuario 773,17,Reggaeton,,,
+U0774,user,Usuario 774,33,"Bachata, Indie, Jazz",,,
+U0775,user,Usuario 775,36,"Electrónica, Indie",,,
+U0776,user,Usuario 776,22,R&B,,,
+U0777,user,Usuario 777,18,"Indie, Hip Hop",,,
+U0778,user,Usuario 778,25,"Cumbia, Reggaeton, K-Pop",,,
+U0779,user,Usuario 779,25,"Cumbia, Jazz, Rock",,,
+U0780,user,Usuario 780,24,"Bachata, Rock, Indie",,,
+U0781,user,Usuario 781,37,"R&B, Reggaeton",,,
+U0782,user,Usuario 782,31,Reggaeton,,,
+U0783,user,Usuario 783,33,"Bachata, Pop",,,
+U0784,user,Usuario 784,22,"Salsa, K-Pop, Jazz",,,
+U0785,user,Usuario 785,29,"Pop, Reggaeton, R&B",,,
+U0786,user,Usuario 786,21,"R&B, Indie, Hip Hop",,,
+U0787,user,Usuario 787,37,Salsa,,,
+U0788,user,Usuario 788,20,"Hip Hop, Jazz",,,
+U0789,user,Usuario 789,20,Rock,,,
+U0790,user,Usuario 790,16,"Salsa, Jazz",,,
+U0791,user,Usuario 791,21,"Cumbia, Rock, Reggaeton",,,
+U0792,user,Usuario 792,31,"Salsa, Cumbia, R&B",,,
+U0793,user,Usuario 793,27,"Electrónica, Indie",,,
+U0794,user,Usuario 794,21,K-Pop,,,
+U0795,user,Usuario 795,22,"Jazz, Reggaeton, Salsa",,,
+U0796,user,Usuario 796,40,"Reggaeton, Jazz, R&B",,,
+U0797,user,Usuario 797,31,"R&B, K-Pop, Reggaeton",,,
+U0798,user,Usuario 798,18,"Rock, Indie, Pop",,,
+U0799,user,Usuario 799,17,K-Pop,,,
+U0800,user,Usuario 800,40,"Electrónica, Salsa, Rock",,,
+U0801,user,Usuario 801,35,"Pop, Indie",,,
+U0802,user,Usuario 802,39,R&B,,,
+U0803,user,Usuario 803,38,"Bachata, Salsa, Rock",,,
+U0804,user,Usuario 804,38,Cumbia,,,
+U0805,user,Usuario 805,25,"Reggaeton, Hip Hop",,,
+U0806,user,Usuario 806,38,"Hip Hop, Jazz",,,
+U0807,user,Usuario 807,38,"Indie, Bachata, Rock",,,
+U0808,user,Usuario 808,20,"Indie, Bachata",,,
+U0809,user,Usuario 809,28,Indie,,,
+U0810,user,Usuario 810,27,"Salsa, Reggaeton",,,
+U0811,user,Usuario 811,26,"Cumbia, K-Pop",,,
+U0812,user,Usuario 812,24,Salsa,,,
+U0813,user,Usuario 813,39,"Hip Hop, K-Pop, Salsa",,,
+U0814,user,Usuario 814,22,"Hip Hop, Indie, Rock",,,
+U0815,user,Usuario 815,34,"Jazz, Reggaeton, Pop",,,
+U0816,user,Usuario 816,37,"K-Pop, Electrónica, Pop",,,
+U0817,user,Usuario 817,28,K-Pop,,,
+U0818,user,Usuario 818,38,Salsa,,,
+U0819,user,Usuario 819,20,"Electrónica, Indie",,,
+U0820,user,Usuario 820,35,Jazz,,,
+U0821,user,Usuario 821,27,"Bachata, Hip Hop",,,
+U0822,user,Usuario 822,20,Electrónica,,,
+U0823,user,Usuario 823,26,Pop,,,
+U0824,user,Usuario 824,36,"Jazz, Indie, Rock",,,
+U0825,user,Usuario 825,20,Bachata,,,
+U0826,user,Usuario 826,36,K-Pop,,,
+U0827,user,Usuario 827,30,"Bachata, Cumbia",,,
+U0828,user,Usuario 828,16,"Bachata, Cumbia",,,
+U0829,user,Usuario 829,31,"Indie, Salsa",,,
+U0830,user,Usuario 830,25,"Salsa, Jazz",,,
+U0831,user,Usuario 831,27,Salsa,,,
+U0832,user,Usuario 832,23,"Electrónica, Cumbia, Hip Hop",,,
+U0833,user,Usuario 833,26,Jazz,,,
+U0834,user,Usuario 834,23,"Cumbia, Salsa",,,
+U0835,user,Usuario 835,29,Indie,,,
+U0836,user,Usuario 836,29,Salsa,,,
+U0837,user,Usuario 837,31,"Reggaeton, Jazz, K-Pop",,,
+U0838,user,Usuario 838,20,Jazz,,,
+U0839,user,Usuario 839,22,K-Pop,,,
+U0840,user,Usuario 840,21,"Bachata, Salsa",,,
+U0841,user,Usuario 841,39,"Indie, K-Pop, Pop",,,
+U0842,user,Usuario 842,37,"Bachata, Electrónica",,,
+U0843,user,Usuario 843,26,"K-Pop, Cumbia",,,
+U0844,user,Usuario 844,20,Cumbia,,,
+U0845,user,Usuario 845,30,"Cumbia, R&B",,,
+U0846,user,Usuario 846,26,"Pop, Rock, K-Pop",,,
+U0847,user,Usuario 847,34,Rock,,,
+U0848,user,Usuario 848,37,"Rock, Reggaeton, Salsa",,,
+U0849,user,Usuario 849,21,"Bachata, Electrónica",,,
+U0850,user,Usuario 850,21,"Salsa, Cumbia, Jazz",,,
+U0851,user,Usuario 851,27,Pop,,,
+U0852,user,Usuario 852,23,Electrónica,,,
+U0853,user,Usuario 853,23,"K-Pop, Rock, Jazz",,,
+U0854,user,Usuario 854,19,Salsa,,,
+U0855,user,Usuario 855,23,"Jazz, Reggaeton, R&B",,,
+U0856,user,Usuario 856,40,"R&B, Pop, Indie",,,
+U0857,user,Usuario 857,21,"K-Pop, Cumbia, Bachata",,,
+U0858,user,Usuario 858,20,Hip Hop,,,
+U0859,user,Usuario 859,17,"Pop, Bachata",,,
+U0860,user,Usuario 860,17,Cumbia,,,
+U0861,user,Usuario 861,33,"Reggaeton, Salsa",,,
+U0862,user,Usuario 862,29,Rock,,,
+U0863,user,Usuario 863,21,"Pop, Bachata",,,
+U0864,user,Usuario 864,24,"Bachata, Cumbia",,,
+U0865,user,Usuario 865,29,"Bachata, R&B",,,
+U0866,user,Usuario 866,37,"R&B, Reggaeton, Cumbia",,,
+U0867,user,Usuario 867,21,Rock,,,
+U0868,user,Usuario 868,33,"Indie, Pop",,,
+U0869,user,Usuario 869,40,Rock,,,
+U0870,user,Usuario 870,26,Electrónica,,,
+U0871,user,Usuario 871,25,"Rock, Reggaeton",,,
+U0872,user,Usuario 872,33,"R&B, Reggaeton",,,
+U0873,user,Usuario 873,20,Salsa,,,
+U0874,user,Usuario 874,25,Electrónica,,,
+U0875,user,Usuario 875,39,Salsa,,,
+U0876,user,Usuario 876,25,Jazz,,,
+U0877,user,Usuario 877,38,"Reggaeton, Pop",,,
+U0878,user,Usuario 878,19,"Jazz, Reggaeton",,,
+U0879,user,Usuario 879,16,Hip Hop,,,
+U0880,user,Usuario 880,39,"Jazz, Electrónica, Reggaeton",,,
+U0881,user,Usuario 881,27,"K-Pop, Rock",,,
+U0882,user,Usuario 882,16,"Indie, Bachata",,,
+U0883,user,Usuario 883,34,"Hip Hop, R&B, Reggaeton",,,
+U0884,user,Usuario 884,23,Rock,,,
+U0885,user,Usuario 885,30,"Cumbia, Hip Hop",,,
+U0886,user,Usuario 886,28,"Indie, Salsa",,,
+U0887,user,Usuario 887,17,"Indie, Pop",,,
+U0888,user,Usuario 888,26,"Cumbia, Jazz, Electrónica",,,
+U0889,user,Usuario 889,29,Jazz,,,
+U0890,user,Usuario 890,34,"R&B, Rock",,,
+U0891,user,Usuario 891,36,"Indie, Reggaeton",,,
+U0892,user,Usuario 892,36,"Electrónica, Rock, Pop",,,
+U0893,user,Usuario 893,24,"Salsa, Jazz, Indie",,,
+U0894,user,Usuario 894,17,"Electrónica, Salsa",,,
+U0895,user,Usuario 895,23,"Salsa, Indie",,,
+U0896,user,Usuario 896,24,"Rock, Hip Hop",,,
+U0897,user,Usuario 897,36,"Bachata, Pop, Cumbia",,,
+U0898,user,Usuario 898,31,"Rock, Electrónica",,,
+U0899,user,Usuario 899,39,"Reggaeton, Salsa, Hip Hop",,,
+U0900,user,Usuario 900,18,"Pop, Electrónica",,,
+U0901,user,Usuario 901,28,"Reggaeton, R&B",,,
+U0902,user,Usuario 902,17,R&B,,,
+U0903,user,Usuario 903,28,"K-Pop, Bachata, Indie",,,
+U0904,user,Usuario 904,38,"Salsa, Bachata, Indie",,,
+U0905,user,Usuario 905,34,"Indie, K-Pop",,,
+U0906,user,Usuario 906,25,Cumbia,,,
+U0907,user,Usuario 907,36,"Hip Hop, Salsa",,,
+U0908,user,Usuario 908,35,"R&B, Pop, Electrónica",,,
+U0909,user,Usuario 909,26,"Salsa, R&B, Rock",,,
+U0910,user,Usuario 910,29,"Electrónica, Bachata, Pop",,,
+U0911,user,Usuario 911,20,"K-Pop, Pop",,,
+U0912,user,Usuario 912,19,"K-Pop, Jazz, Salsa",,,
+U0913,user,Usuario 913,37,Reggaeton,,,
+U0914,user,Usuario 914,36,"Jazz, Electrónica, Bachata",,,
+U0915,user,Usuario 915,29,"Indie, R&B",,,
+U0916,user,Usuario 916,27,"K-Pop, Reggaeton, Indie",,,
+U0917,user,Usuario 917,18,"Indie, Salsa, Cumbia",,,
+U0918,user,Usuario 918,25,"Electrónica, Reggaeton",,,
+U0919,user,Usuario 919,38,Jazz,,,
+U0920,user,Usuario 920,30,"Indie, Hip Hop, Bachata",,,
+U0921,user,Usuario 921,27,R&B,,,
+U0922,user,Usuario 922,20,"Bachata, Salsa",,,
+U0923,user,Usuario 923,26,Pop,,,
+U0924,user,Usuario 924,25,"K-Pop, Indie",,,
+U0925,user,Usuario 925,19,Salsa,,,
+U0926,user,Usuario 926,31,R&B,,,
+U0927,user,Usuario 927,18,R&B,,,
+U0928,user,Usuario 928,21,"R&B, Hip Hop",,,
+U0929,user,Usuario 929,38,"Hip Hop, K-Pop, Bachata",,,
+U0930,user,Usuario 930,16,R&B,,,
+U0931,user,Usuario 931,22,"Cumbia, Reggaeton",,,
+U0932,user,Usuario 932,39,"Salsa, Reggaeton",,,
+U0933,user,Usuario 933,21,"Salsa, R&B",,,
+U0934,user,Usuario 934,37,"Electrónica, Rock",,,
+U0935,user,Usuario 935,21,"Hip Hop, Cumbia, Jazz",,,
+U0936,user,Usuario 936,36,K-Pop,,,
+U0937,user,Usuario 937,23,"Hip Hop, Rock, Pop",,,
+U0938,user,Usuario 938,20,"Rock, Indie, Electrónica",,,
+U0939,user,Usuario 939,28,"Indie, Cumbia",,,
+U0940,user,Usuario 940,28,"Bachata, Pop",,,
+U0941,user,Usuario 941,20,"Cumbia, K-Pop",,,
+U0942,user,Usuario 942,16,Pop,,,
+U0943,user,Usuario 943,17,Cumbia,,,
+U0944,user,Usuario 944,29,"K-Pop, Electrónica",,,
+U0945,user,Usuario 945,37,Salsa,,,
+U0946,user,Usuario 946,36,R&B,,,
+U0947,user,Usuario 947,21,"Jazz, Reggaeton, Indie",,,
+U0948,user,Usuario 948,17,"R&B, Cumbia, Jazz",,,
+U0949,user,Usuario 949,39,"Indie, Pop",,,
+U0950,user,Usuario 950,16,"R&B, Hip Hop",,,
+U0951,user,Usuario 951,40,Electrónica,,,
+U0952,user,Usuario 952,38,"Bachata, Rock",,,
+U0953,user,Usuario 953,38,"K-Pop, Reggaeton, Pop",,,
+U0954,user,Usuario 954,37,Pop,,,
+U0955,user,Usuario 955,35,"Electrónica, Hip Hop",,,
+U0956,user,Usuario 956,24,Rock,,,
+U0957,user,Usuario 957,32,"R&B, Jazz",,,
+U0958,user,Usuario 958,38,Salsa,,,
+U0959,user,Usuario 959,22,"R&B, Pop, Indie",,,
+U0960,user,Usuario 960,37,"Reggaeton, K-Pop",,,
+U0961,user,Usuario 961,34,Hip Hop,,,
+U0962,user,Usuario 962,40,"Indie, Salsa, Hip Hop",,,
+U0963,user,Usuario 963,20,"Jazz, Cumbia, Rock",,,
+U0964,user,Usuario 964,31,Electrónica,,,
+U0965,user,Usuario 965,19,"Pop, Salsa, Indie",,,
+U0966,user,Usuario 966,26,"Reggaeton, Bachata, Cumbia",,,
+U0967,user,Usuario 967,25,"Jazz, Hip Hop",,,
+U0968,user,Usuario 968,18,"Reggaeton, Jazz",,,
+U0969,user,Usuario 969,27,"Bachata, Reggaeton",,,
+U0970,user,Usuario 970,37,"Jazz, Bachata, Cumbia",,,
+U0971,user,Usuario 971,39,"Rock, Reggaeton",,,
+U0972,user,Usuario 972,23,"R&B, Bachata, Pop",,,
+U0973,user,Usuario 973,23,Salsa,,,
+U0974,user,Usuario 974,34,"Jazz, Reggaeton, K-Pop",,,
+U0975,user,Usuario 975,23,"Salsa, K-Pop",,,
+U0976,user,Usuario 976,17,R&B,,,
+U0977,user,Usuario 977,40,"Cumbia, Hip Hop, Reggaeton",,,
+U0978,user,Usuario 978,34,"Cumbia, K-Pop",,,
+U0979,user,Usuario 979,23,Rock,,,
+U0980,user,Usuario 980,38,"Reggaeton, Pop, K-Pop",,,
+U0981,user,Usuario 981,16,"Cumbia, R&B, Bachata",,,
+U0982,user,Usuario 982,40,"Cumbia, Hip Hop, Bachata",,,
+U0983,user,Usuario 983,20,R&B,,,
+U0984,user,Usuario 984,35,"Rock, Bachata",,,
+U0985,user,Usuario 985,24,"Electrónica, Reggaeton",,,
+U0986,user,Usuario 986,33,"Reggaeton, K-Pop, Hip Hop",,,
+U0987,user,Usuario 987,26,"Pop, Reggaeton, Indie",,,
+U0988,user,Usuario 988,35,"Electrónica, R&B, Bachata",,,
+U0989,user,Usuario 989,22,Reggaeton,,,
+U0990,user,Usuario 990,36,Reggaeton,,,
+U0991,user,Usuario 991,27,"K-Pop, R&B",,,
+U0992,user,Usuario 992,35,"Reggaeton, R&B",,,
+U0993,user,Usuario 993,33,"Reggaeton, Hip Hop, Salsa",,,
+U0994,user,Usuario 994,19,R&B,,,
+U0995,user,Usuario 995,20,Salsa,,,
+U0996,user,Usuario 996,21,Electrónica,,,
+U0997,user,Usuario 997,30,"Hip Hop, Bachata",,,
+U0998,user,Usuario 998,35,"K-Pop, Salsa, Rock",,,
+U0999,user,Usuario 999,21,"Cumbia, Bachata",,,
+U1000,user,Usuario 1000,21,Jazz,,,
+U1001,user,Usuario 1001,18,"Cumbia, Reggaeton",,,
+U1002,user,Usuario 1002,16,Indie,,,
+U1003,user,Usuario 1003,17,"Pop, Indie, Hip Hop",,,
+U1004,user,Usuario 1004,31,Jazz,,,
+U1005,user,Usuario 1005,37,"Hip Hop, R&B",,,
+U1006,user,Usuario 1006,33,"Electrónica, K-Pop",,,
+U1007,user,Usuario 1007,34,Salsa,,,
+U1008,user,Usuario 1008,40,"Salsa, Cumbia",,,
+U1009,user,Usuario 1009,26,"Reggaeton, Hip Hop",,,
+U1010,user,Usuario 1010,17,Indie,,,
+U1011,user,Usuario 1011,18,"Jazz, R&B, Hip Hop",,,
+U1012,user,Usuario 1012,31,"Jazz, Cumbia, Bachata",,,
+U1013,user,Usuario 1013,35,"Salsa, Jazz, K-Pop",,,
+U1014,user,Usuario 1014,29,K-Pop,,,
+U1015,user,Usuario 1015,37,Pop,,,
+U1016,user,Usuario 1016,23,"Salsa, Bachata",,,
+U1017,user,Usuario 1017,33,"Jazz, Indie, Electrónica",,,
+U1018,user,Usuario 1018,17,"Reggaeton, Electrónica",,,
+U1019,user,Usuario 1019,29,Bachata,,,
+U1020,user,Usuario 1020,30,R&B,,,
+U1021,user,Usuario 1021,35,R&B,,,
+U1022,user,Usuario 1022,29,"Pop, Bachata, Salsa",,,
+U1023,user,Usuario 1023,25,"Salsa, Jazz, Hip Hop",,,
+U1024,user,Usuario 1024,31,"Hip Hop, Reggaeton, Electrónica",,,
+U1025,user,Usuario 1025,32,"Jazz, Hip Hop",,,
+U1026,user,Usuario 1026,40,Hip Hop,,,
+U1027,user,Usuario 1027,18,"K-Pop, Reggaeton, Bachata",,,
+U1028,user,Usuario 1028,29,"Hip Hop, K-Pop",,,
+U1029,user,Usuario 1029,28,"Electrónica, Indie, R&B",,,
+U1030,user,Usuario 1030,37,Rock,,,
+U1031,user,Usuario 1031,18,Indie,,,
+U1032,user,Usuario 1032,32,"Reggaeton, K-Pop",,,
+U1033,user,Usuario 1033,18,"Salsa, K-Pop, Cumbia",,,
+U1034,user,Usuario 1034,36,"Electrónica, Bachata, Cumbia",,,
+U1035,user,Usuario 1035,24,"Salsa, Reggaeton, Electrónica",,,
+U1036,user,Usuario 1036,33,Rock,,,
+U1037,user,Usuario 1037,22,"K-Pop, Pop",,,
+U1038,user,Usuario 1038,36,"Hip Hop, Bachata",,,
+U1039,user,Usuario 1039,40,"Cumbia, Pop, Bachata",,,
+U1040,user,Usuario 1040,22,"Pop, Reggaeton",,,
+U1041,user,Usuario 1041,27,"Salsa, Indie, Bachata",,,
+U1042,user,Usuario 1042,34,"K-Pop, Pop",,,
+U1043,user,Usuario 1043,17,"K-Pop, Electrónica",,,
+U1044,user,Usuario 1044,21,"R&B, Jazz",,,
+U1045,user,Usuario 1045,23,Pop,,,
+U1046,user,Usuario 1046,21,"Indie, K-Pop",,,
+U1047,user,Usuario 1047,35,"Cumbia, Rock",,,
+U1048,user,Usuario 1048,39,"Hip Hop, K-Pop, Pop",,,
+U1049,user,Usuario 1049,37,"Reggaeton, Indie, Hip Hop",,,
+U1050,user,Usuario 1050,24,Jazz,,,
+U1051,user,Usuario 1051,19,"Jazz, Hip Hop, Reggaeton",,,
+U1052,user,Usuario 1052,16,"Electrónica, Pop, Rock",,,
+U1053,user,Usuario 1053,36,"Jazz, R&B, Electrónica",,,
+U1054,user,Usuario 1054,32,"R&B, Cumbia",,,
+U1055,user,Usuario 1055,18,Salsa,,,
+U1056,user,Usuario 1056,25,"Indie, Hip Hop",,,
+U1057,user,Usuario 1057,32,K-Pop,,,
+U1058,user,Usuario 1058,33,"Hip Hop, R&B, Cumbia",,,
+U1059,user,Usuario 1059,29,"Indie, Cumbia",,,
+U1060,user,Usuario 1060,26,"Electrónica, Reggaeton",,,
+U1061,user,Usuario 1061,20,"Cumbia, Bachata, Hip Hop",,,
+U1062,user,Usuario 1062,20,Rock,,,
+U1063,user,Usuario 1063,34,"Rock, Indie",,,
+U1064,user,Usuario 1064,33,Salsa,,,
+U1065,user,Usuario 1065,30,"Cumbia, K-Pop, Reggaeton",,,
+U1066,user,Usuario 1066,16,"Pop, Bachata",,,
+U1067,user,Usuario 1067,25,Cumbia,,,
+U1068,user,Usuario 1068,27,Rock,,,
+U1069,user,Usuario 1069,39,"K-Pop, Electrónica",,,
+U1070,user,Usuario 1070,18,Hip Hop,,,
+U1071,user,Usuario 1071,38,Hip Hop,,,
+U1072,user,Usuario 1072,24,"Salsa, R&B, Pop",,,
+U1073,user,Usuario 1073,22,"R&B, Bachata",,,
+U1074,user,Usuario 1074,23,Pop,,,
+U1075,user,Usuario 1075,19,Electrónica,,,
+U1076,user,Usuario 1076,34,Electrónica,,,
+U1077,user,Usuario 1077,40,K-Pop,,,
+U1078,user,Usuario 1078,27,"Bachata, Jazz",,,
+U1079,user,Usuario 1079,26,"Bachata, Cumbia",,,
+U1080,user,Usuario 1080,33,Bachata,,,
+U1081,user,Usuario 1081,23,"Cumbia, Electrónica, Salsa",,,
+U1082,user,Usuario 1082,37,"Cumbia, Electrónica",,,
+U1083,user,Usuario 1083,18,Jazz,,,
+U1084,user,Usuario 1084,34,Salsa,,,
+U1085,user,Usuario 1085,21,Bachata,,,
+U1086,user,Usuario 1086,38,Hip Hop,,,
+U1087,user,Usuario 1087,27,"Salsa, Electrónica, Bachata",,,
+U1088,user,Usuario 1088,35,"Cumbia, Reggaeton",,,
+U1089,user,Usuario 1089,29,"Bachata, Reggaeton",,,
+U1090,user,Usuario 1090,31,"R&B, Salsa, Pop",,,
+U1091,user,Usuario 1091,38,Cumbia,,,
+U1092,user,Usuario 1092,34,"K-Pop, Indie",,,
+U1093,user,Usuario 1093,25,Salsa,,,
+U1094,user,Usuario 1094,26,Bachata,,,
+U1095,user,Usuario 1095,34,R&B,,,
+U1096,user,Usuario 1096,35,Cumbia,,,
+U1097,user,Usuario 1097,27,"R&B, Bachata",,,
+U1098,user,Usuario 1098,39,"Salsa, Electrónica",,,
+U1099,user,Usuario 1099,32,Electrónica,,,
+U1100,user,Usuario 1100,34,Indie,,,
+U1101,user,Usuario 1101,31,"Hip Hop, R&B",,,
+U1102,user,Usuario 1102,18,"Hip Hop, Electrónica, Bachata",,,
+U1103,user,Usuario 1103,30,Indie,,,
+U1104,user,Usuario 1104,24,Salsa,,,
+U1105,user,Usuario 1105,27,"Salsa, Cumbia",,,
+U1106,user,Usuario 1106,30,"Pop, Salsa",,,
+U1107,user,Usuario 1107,22,"Electrónica, Indie, R&B",,,
+U1108,user,Usuario 1108,33,"Rock, Salsa, Reggaeton",,,
+U1109,user,Usuario 1109,27,"Rock, Indie, Electrónica",,,
+U1110,user,Usuario 1110,35,Indie,,,
+U1111,user,Usuario 1111,34,"Electrónica, Pop",,,
+U1112,user,Usuario 1112,25,"R&B, Electrónica, Hip Hop",,,
+U1113,user,Usuario 1113,26,Bachata,,,
+U1114,user,Usuario 1114,38,Pop,,,
+U1115,user,Usuario 1115,33,Bachata,,,
+U1116,user,Usuario 1116,22,"Electrónica, Pop, Salsa",,,
+U1117,user,Usuario 1117,36,"Pop, R&B",,,
+U1118,user,Usuario 1118,34,"Hip Hop, Rock, Indie",,,
+U1119,user,Usuario 1119,38,Bachata,,,
+U1120,user,Usuario 1120,27,"Rock, Reggaeton, Hip Hop",,,
+U1121,user,Usuario 1121,32,Salsa,,,
+U1122,user,Usuario 1122,29,Pop,,,
+U1123,user,Usuario 1123,30,"K-Pop, Pop, Bachata",,,
+U1124,user,Usuario 1124,17,"Reggaeton, Bachata",,,
+U1125,user,Usuario 1125,16,Rock,,,
+U1126,user,Usuario 1126,36,Indie,,,
+U1127,user,Usuario 1127,36,"Rock, Hip Hop, K-Pop",,,
+U1128,user,Usuario 1128,19,"R&B, Pop, Reggaeton",,,
+U1129,user,Usuario 1129,26,Jazz,,,
+U1130,user,Usuario 1130,16,"Reggaeton, Electrónica",,,
+U1131,user,Usuario 1131,31,"Cumbia, Pop",,,
+U1132,user,Usuario 1132,31,"Bachata, Pop, Hip Hop",,,
+U1133,user,Usuario 1133,31,Salsa,,,
+U1134,user,Usuario 1134,39,"K-Pop, Indie, Cumbia",,,
+U1135,user,Usuario 1135,39,"Salsa, Reggaeton, Pop",,,
+U1136,user,Usuario 1136,23,"Indie, Jazz",,,
+U1137,user,Usuario 1137,34,"Indie, R&B, Salsa",,,
+U1138,user,Usuario 1138,20,Jazz,,,
+U1139,user,Usuario 1139,32,"Hip Hop, Electrónica, Jazz",,,
+U1140,user,Usuario 1140,16,"Salsa, R&B, Hip Hop",,,
+U1141,user,Usuario 1141,21,Bachata,,,
+U1142,user,Usuario 1142,19,"Indie, Reggaeton",,,
+U1143,user,Usuario 1143,32,"Jazz, Reggaeton",,,
+U1144,user,Usuario 1144,40,"Hip Hop, Reggaeton, Electrónica",,,
+U1145,user,Usuario 1145,25,"Reggaeton, Pop",,,
+U1146,user,Usuario 1146,23,Bachata,,,
+U1147,user,Usuario 1147,23,"Salsa, R&B",,,
+U1148,user,Usuario 1148,28,Bachata,,,
+U1149,user,Usuario 1149,38,Electrónica,,,
+U1150,user,Usuario 1150,32,"Indie, Pop",,,
+U1151,user,Usuario 1151,34,"Bachata, Reggaeton",,,
+U1152,user,Usuario 1152,37,Rock,,,
+U1153,user,Usuario 1153,26,"R&B, Cumbia, Pop",,,
+U1154,user,Usuario 1154,24,Electrónica,,,
+U1155,user,Usuario 1155,16,Bachata,,,
+U1156,user,Usuario 1156,18,Bachata,,,
+U1157,user,Usuario 1157,37,"Cumbia, Jazz",,,
+U1158,user,Usuario 1158,26,"Reggaeton, R&B",,,
+U1159,user,Usuario 1159,24,Electrónica,,,
+U1160,user,Usuario 1160,16,"Cumbia, Reggaeton",,,
+U1161,user,Usuario 1161,38,"K-Pop, Reggaeton, Pop",,,
+U1162,user,Usuario 1162,34,"K-Pop, R&B",,,
+U1163,user,Usuario 1163,19,"Hip Hop, Reggaeton",,,
+U1164,user,Usuario 1164,27,"Pop, Jazz, Bachata",,,
+U1165,user,Usuario 1165,33,"Reggaeton, Pop",,,
+U1166,user,Usuario 1166,28,"Rock, Salsa",,,
+U1167,user,Usuario 1167,27,"Electrónica, Hip Hop, Jazz",,,
+U1168,user,Usuario 1168,28,"K-Pop, Rock, Bachata",,,
+U1169,user,Usuario 1169,34,"Rock, Jazz, Indie",,,
+U1170,user,Usuario 1170,16,"Reggaeton, R&B",,,
+U1171,user,Usuario 1171,17,"Rock, Bachata",,,
+U1172,user,Usuario 1172,19,"Indie, Rock, Electrónica",,,
+U1173,user,Usuario 1173,30,"Electrónica, Hip Hop",,,
+U1174,user,Usuario 1174,35,"Pop, Cumbia, Hip Hop",,,
+U1175,user,Usuario 1175,21,"K-Pop, Indie",,,
+U1176,user,Usuario 1176,31,"Indie, Electrónica",,,
+U1177,user,Usuario 1177,24,"Hip Hop, Reggaeton, K-Pop",,,
+U1178,user,Usuario 1178,40,"Bachata, K-Pop, Reggaeton",,,
+U1179,user,Usuario 1179,18,"K-Pop, Salsa, Pop",,,
+U1180,user,Usuario 1180,25,"Salsa, K-Pop, Reggaeton",,,
+U1181,user,Usuario 1181,36,"Reggaeton, Electrónica",,,
+U1182,user,Usuario 1182,16,Cumbia,,,
+U1183,user,Usuario 1183,22,"Salsa, Cumbia",,,
+U1184,user,Usuario 1184,19,Jazz,,,
+U1185,user,Usuario 1185,39,"Salsa, Cumbia",,,
+U1186,user,Usuario 1186,18,"Jazz, Rock, Cumbia",,,
+U1187,user,Usuario 1187,29,Electrónica,,,
+U1188,user,Usuario 1188,17,Salsa,,,
+U1189,user,Usuario 1189,31,"Electrónica, Hip Hop",,,
+U1190,user,Usuario 1190,26,Hip Hop,,,
+U1191,user,Usuario 1191,20,"K-Pop, Rock, Salsa",,,
+U1192,user,Usuario 1192,31,"Pop, Salsa",,,
+U1193,user,Usuario 1193,36,"R&B, Jazz, Reggaeton",,,
+U1194,user,Usuario 1194,23,Jazz,,,
+U1195,user,Usuario 1195,29,"Jazz, Indie, Electrónica",,,
+U1196,user,Usuario 1196,39,"Bachata, Hip Hop, Indie",,,
+U1197,user,Usuario 1197,20,Rock,,,
+U1198,user,Usuario 1198,19,"Salsa, Reggaeton",,,
+U1199,user,Usuario 1199,22,Pop,,,
+U1200,user,Usuario 1200,27,Hip Hop,,,
+U1201,user,Usuario 1201,26,"Pop, K-Pop, Rock",,,
+U1202,user,Usuario 1202,33,"Reggaeton, Hip Hop",,,
+U1203,user,Usuario 1203,38,"K-Pop, Jazz, Reggaeton",,,
+U1204,user,Usuario 1204,38,"Electrónica, Cumbia",,,
+U1205,user,Usuario 1205,31,Reggaeton,,,
+U1206,user,Usuario 1206,26,Bachata,,,
+U1207,user,Usuario 1207,20,"Cumbia, Reggaeton, Rock",,,
+U1208,user,Usuario 1208,26,"Jazz, Bachata",,,
+U1209,user,Usuario 1209,18,Reggaeton,,,
+U1210,user,Usuario 1210,24,"Cumbia, Bachata, Hip Hop",,,
+U1211,user,Usuario 1211,33,Jazz,,,
+U1212,user,Usuario 1212,17,Jazz,,,
+U1213,user,Usuario 1213,33,Indie,,,
+U1214,user,Usuario 1214,32,"Hip Hop, Pop, Salsa",,,
+U1215,user,Usuario 1215,18,Pop,,,
+U1216,user,Usuario 1216,38,"Reggaeton, R&B, Rock",,,
+U1217,user,Usuario 1217,21,R&B,,,
+U1218,user,Usuario 1218,24,"Cumbia, Hip Hop",,,
+U1219,user,Usuario 1219,21,"Hip Hop, Jazz",,,
+U1220,user,Usuario 1220,33,"Rock, Reggaeton, Bachata",,,
+U1221,user,Usuario 1221,31,Cumbia,,,
+U1222,user,Usuario 1222,35,"Salsa, Bachata, Rock",,,
+U1223,user,Usuario 1223,24,"Hip Hop, Bachata",,,
+U1224,user,Usuario 1224,28,"Electrónica, Reggaeton",,,
+U1225,user,Usuario 1225,21,Salsa,,,
+U1226,user,Usuario 1226,16,"Jazz, Rock, Pop",,,
+U1227,user,Usuario 1227,38,Reggaeton,,,
+U1228,user,Usuario 1228,24,"Electrónica, Cumbia, Indie",,,
+U1229,user,Usuario 1229,17,Salsa,,,
+U1230,user,Usuario 1230,28,Pop,,,
+U1231,user,Usuario 1231,29,"Reggaeton, Salsa",,,
+U1232,user,Usuario 1232,20,Indie,,,
+U1233,user,Usuario 1233,27,"Indie, Electrónica, Jazz",,,
+U1234,user,Usuario 1234,32,"Jazz, Bachata",,,
+U1235,user,Usuario 1235,28,"Pop, Rock",,,
+U1236,user,Usuario 1236,18,Electrónica,,,
+U1237,user,Usuario 1237,36,"Salsa, Pop, Rock",,,
+U1238,user,Usuario 1238,24,"K-Pop, Salsa",,,
+U1239,user,Usuario 1239,38,"Indie, R&B, Bachata",,,
+U1240,user,Usuario 1240,19,"Electrónica, Jazz, Bachata",,,
+U1241,user,Usuario 1241,33,Rock,,,
+U1242,user,Usuario 1242,34,Bachata,,,
+U1243,user,Usuario 1243,21,"Rock, Bachata, Hip Hop",,,
+U1244,user,Usuario 1244,31,"Electrónica, Salsa, R&B",,,
+U1245,user,Usuario 1245,26,"Electrónica, R&B, Rock",,,
+U1246,user,Usuario 1246,35,"Electrónica, Reggaeton, Rock",,,
+U1247,user,Usuario 1247,22,"R&B, Pop, Rock",,,
+U1248,user,Usuario 1248,21,R&B,,,
+U1249,user,Usuario 1249,21,Salsa,,,
+U1250,user,Usuario 1250,40,"Bachata, Cumbia",,,
+U1251,user,Usuario 1251,32,Bachata,,,
+U1252,user,Usuario 1252,40,"Hip Hop, K-Pop",,,
+U1253,user,Usuario 1253,20,R&B,,,
+U1254,user,Usuario 1254,30,"Salsa, Reggaeton",,,
+U1255,user,Usuario 1255,27,Hip Hop,,,
+U1256,user,Usuario 1256,21,Bachata,,,
+U1257,user,Usuario 1257,29,"Cumbia, Hip Hop",,,
+U1258,user,Usuario 1258,40,"R&B, Salsa",,,
+U1259,user,Usuario 1259,22,Jazz,,,
+U1260,user,Usuario 1260,26,Rock,,,
+U1261,user,Usuario 1261,29,Reggaeton,,,
+U1262,user,Usuario 1262,24,"R&B, Hip Hop, Reggaeton",,,
+U1263,user,Usuario 1263,23,"Indie, Jazz",,,
+U1264,user,Usuario 1264,25,"K-Pop, Indie",,,
+U1265,user,Usuario 1265,17,"Pop, R&B",,,
+U1266,user,Usuario 1266,31,Electrónica,,,
+U1267,user,Usuario 1267,34,"Indie, Cumbia",,,
+U1268,user,Usuario 1268,34,"Cumbia, R&B, Indie",,,
+U1269,user,Usuario 1269,34,"R&B, Hip Hop",,,
+U1270,user,Usuario 1270,33,"Pop, K-Pop, Hip Hop",,,
+U1271,user,Usuario 1271,24,"Salsa, Reggaeton",,,
+U1272,user,Usuario 1272,23,Bachata,,,
+U1273,user,Usuario 1273,24,Salsa,,,
+U1274,user,Usuario 1274,24,Reggaeton,,,
+U1275,user,Usuario 1275,23,"Electrónica, Reggaeton",,,
+U1276,user,Usuario 1276,25,"Bachata, K-Pop, Salsa",,,
+U1277,user,Usuario 1277,35,"Jazz, Salsa, Hip Hop",,,
+U1278,user,Usuario 1278,21,"Cumbia, Rock",,,
+U1279,user,Usuario 1279,30,"Cumbia, Salsa",,,
+U1280,user,Usuario 1280,21,"Reggaeton, Bachata, Cumbia",,,
+U1281,user,Usuario 1281,32,"Salsa, R&B, K-Pop",,,
+U1282,user,Usuario 1282,27,Indie,,,
+U1283,user,Usuario 1283,23,"Hip Hop, Electrónica, R&B",,,
+U1284,user,Usuario 1284,22,"K-Pop, Jazz, Hip Hop",,,
+U1285,user,Usuario 1285,40,"Cumbia, K-Pop, Reggaeton",,,
+U1286,user,Usuario 1286,38,"Electrónica, Rock",,,
+U1287,user,Usuario 1287,31,Electrónica,,,
+U1288,user,Usuario 1288,40,"Pop, K-Pop, Jazz",,,
+U1289,user,Usuario 1289,32,Rock,,,
+U1290,user,Usuario 1290,30,"Indie, Cumbia",,,
+U1291,user,Usuario 1291,33,"Salsa, K-Pop",,,
+U1292,user,Usuario 1292,17,"Reggaeton, Pop",,,
+U1293,user,Usuario 1293,25,Bachata,,,
+U1294,user,Usuario 1294,32,Electrónica,,,
+U1295,user,Usuario 1295,31,"Jazz, Salsa, Reggaeton",,,
+U1296,user,Usuario 1296,36,"Bachata, Rock, Cumbia",,,
+U1297,user,Usuario 1297,26,"Cumbia, Indie, Electrónica",,,
+U1298,user,Usuario 1298,35,"R&B, K-Pop",,,
+U1299,user,Usuario 1299,32,R&B,,,
+U1300,user,Usuario 1300,28,Cumbia,,,
+U1301,user,Usuario 1301,21,"Jazz, Reggaeton, Cumbia",,,
+U1302,user,Usuario 1302,25,"K-Pop, Electrónica, Rock",,,
+U1303,user,Usuario 1303,29,Reggaeton,,,
+U1304,user,Usuario 1304,34,"Bachata, R&B",,,
+U1305,user,Usuario 1305,40,Reggaeton,,,
+U1306,user,Usuario 1306,35,"Rock, R&B, K-Pop",,,
+U1307,user,Usuario 1307,35,"Rock, Bachata",,,
+U1308,user,Usuario 1308,29,Pop,,,
+U1309,user,Usuario 1309,28,"Pop, Reggaeton, Jazz",,,
+U1310,user,Usuario 1310,20,Reggaeton,,,
+U1311,user,Usuario 1311,37,"Bachata, K-Pop, Electrónica",,,
+U1312,user,Usuario 1312,38,Bachata,,,
+U1313,user,Usuario 1313,29,"Electrónica, Rock",,,
+U1314,user,Usuario 1314,21,"Cumbia, R&B",,,
+U1315,user,Usuario 1315,36,"Rock, K-Pop",,,
+U1316,user,Usuario 1316,39,"Pop, K-Pop, Hip Hop",,,
+U1317,user,Usuario 1317,27,Rock,,,
+U1318,user,Usuario 1318,23,Cumbia,,,
+U1319,user,Usuario 1319,35,"Cumbia, Bachata, Indie",,,
+U1320,user,Usuario 1320,37,"R&B, Rock",,,
+U1321,user,Usuario 1321,17,Reggaeton,,,
+U1322,user,Usuario 1322,32,Indie,,,
+U1323,user,Usuario 1323,31,"K-Pop, Hip Hop",,,
+U1324,user,Usuario 1324,36,"Electrónica, Bachata",,,
+U1325,user,Usuario 1325,20,"Reggaeton, Bachata, Electrónica",,,
+U1326,user,Usuario 1326,32,Pop,,,
+U1327,user,Usuario 1327,29,R&B,,,
+U1328,user,Usuario 1328,25,"Hip Hop, Bachata, R&B",,,
+U1329,user,Usuario 1329,27,Electrónica,,,
+U1330,user,Usuario 1330,21,"Jazz, Cumbia",,,
+U1331,user,Usuario 1331,18,"Bachata, Cumbia",,,
+U1332,user,Usuario 1332,23,Indie,,,
+U1333,user,Usuario 1333,39,"R&B, Pop, Bachata",,,
+U1334,user,Usuario 1334,16,Hip Hop,,,
+U1335,user,Usuario 1335,20,"Jazz, Indie, Hip Hop",,,
+U1336,user,Usuario 1336,34,Salsa,,,
+U1337,user,Usuario 1337,39,"Salsa, Rock",,,
+U1338,user,Usuario 1338,35,"Salsa, Indie, Rock",,,
+U1339,user,Usuario 1339,26,Pop,,,
+U1340,user,Usuario 1340,16,Hip Hop,,,
+U1341,user,Usuario 1341,38,"Indie, K-Pop, Rock",,,
+U1342,user,Usuario 1342,19,"R&B, Electrónica",,,
+U1343,user,Usuario 1343,36,"R&B, Electrónica",,,
+U1344,user,Usuario 1344,24,"Pop, Electrónica",,,
+U1345,user,Usuario 1345,37,"Hip Hop, Jazz, Salsa",,,
+U1346,user,Usuario 1346,17,K-Pop,,,
+U1347,user,Usuario 1347,36,"Electrónica, Indie",,,
+U1348,user,Usuario 1348,38,Hip Hop,,,
+U1349,user,Usuario 1349,22,"Reggaeton, Indie",,,
+U1350,user,Usuario 1350,21,Salsa,,,
+U1351,user,Usuario 1351,27,"Rock, Cumbia",,,
+U1352,user,Usuario 1352,40,"Jazz, Electrónica, Pop",,,
+U1353,user,Usuario 1353,20,"Bachata, Salsa",,,
+U1354,user,Usuario 1354,22,"Hip Hop, Cumbia, Salsa",,,
+U1355,user,Usuario 1355,32,"R&B, Jazz, Cumbia",,,
+U1356,user,Usuario 1356,20,Reggaeton,,,
+U1357,user,Usuario 1357,23,"Cumbia, Hip Hop, Bachata",,,
+U1358,user,Usuario 1358,21,"Jazz, Rock, Salsa",,,
+U1359,user,Usuario 1359,26,"K-Pop, Rock",,,
+U1360,user,Usuario 1360,19,K-Pop,,,
+U1361,user,Usuario 1361,38,"Indie, Hip Hop",,,
+U1362,user,Usuario 1362,37,K-Pop,,,
+U1363,user,Usuario 1363,39,"Cumbia, Rock",,,
+U1364,user,Usuario 1364,28,"Pop, Cumbia, Indie",,,
+U1365,user,Usuario 1365,36,Rock,,,
+U1366,user,Usuario 1366,21,"Electrónica, Reggaeton, Cumbia",,,
+U1367,user,Usuario 1367,25,"R&B, K-Pop, Cumbia",,,
+U1368,user,Usuario 1368,27,K-Pop,,,
+U1369,user,Usuario 1369,23,"Hip Hop, Cumbia",,,
+U1370,user,Usuario 1370,34,"Cumbia, Pop, Hip Hop",,,
+U1371,user,Usuario 1371,38,"Reggaeton, R&B",,,
+U1372,user,Usuario 1372,16,Rock,,,
+U1373,user,Usuario 1373,19,R&B,,,
+U1374,user,Usuario 1374,29,Hip Hop,,,
+U1375,user,Usuario 1375,37,"Jazz, Hip Hop",,,
+U1376,user,Usuario 1376,17,"Rock, K-Pop",,,
+U1377,user,Usuario 1377,17,"Indie, Salsa",,,
+U1378,user,Usuario 1378,18,Electrónica,,,
+U1379,user,Usuario 1379,24,Salsa,,,
+U1380,user,Usuario 1380,21,"Cumbia, Indie",,,
+U1381,user,Usuario 1381,39,"Electrónica, Indie, K-Pop",,,
+U1382,user,Usuario 1382,39,Pop,,,
+U1383,user,Usuario 1383,33,Bachata,,,
+U1384,user,Usuario 1384,28,Jazz,,,
+U1385,user,Usuario 1385,31,"Pop, K-Pop, Indie",,,
+U1386,user,Usuario 1386,19,Cumbia,,,
+U1387,user,Usuario 1387,23,"K-Pop, Electrónica, Hip Hop",,,
+U1388,user,Usuario 1388,21,"Hip Hop, Rock",,,
+U1389,user,Usuario 1389,38,"Pop, Jazz",,,
+U1390,user,Usuario 1390,35,Salsa,,,
+U1391,user,Usuario 1391,21,"Salsa, K-Pop",,,
+U1392,user,Usuario 1392,19,"Cumbia, Jazz, Electrónica",,,
+U1393,user,Usuario 1393,16,"Cumbia, Salsa",,,
+U1394,user,Usuario 1394,26,"K-Pop, Cumbia, Jazz",,,
+U1395,user,Usuario 1395,30,"Jazz, Electrónica",,,
+U1396,user,Usuario 1396,25,"R&B, Indie",,,
+U1397,user,Usuario 1397,19,Bachata,,,
+U1398,user,Usuario 1398,24,"Cumbia, Hip Hop, Rock",,,
+U1399,user,Usuario 1399,37,"K-Pop, Hip Hop, Jazz",,,
+U1400,user,Usuario 1400,38,"R&B, Cumbia",,,
+U1401,user,Usuario 1401,21,"Hip Hop, Reggaeton",,,
+U1402,user,Usuario 1402,31,"Bachata, Pop, Rock",,,
+U1403,user,Usuario 1403,39,K-Pop,,,
+U1404,user,Usuario 1404,30,"Electrónica, R&B, Jazz",,,
+U1405,user,Usuario 1405,40,"Reggaeton, Electrónica",,,
+U1406,user,Usuario 1406,17,"K-Pop, Electrónica, Jazz",,,
+U1407,user,Usuario 1407,34,Pop,,,
+U1408,user,Usuario 1408,18,"Electrónica, K-Pop",,,
+U1409,user,Usuario 1409,28,Salsa,,,
+U1410,user,Usuario 1410,38,"Cumbia, Indie",,,
+U1411,user,Usuario 1411,37,"K-Pop, Indie",,,
+U1412,user,Usuario 1412,18,Pop,,,
+U1413,user,Usuario 1413,39,"Reggaeton, Jazz, K-Pop",,,
+U1414,user,Usuario 1414,38,"Reggaeton, Electrónica",,,
+U1415,user,Usuario 1415,28,R&B,,,
+U1416,user,Usuario 1416,18,Reggaeton,,,
+U1417,user,Usuario 1417,17,"Cumbia, Jazz, Salsa",,,
+U1418,user,Usuario 1418,16,Cumbia,,,
+U1419,user,Usuario 1419,37,Electrónica,,,
+U1420,user,Usuario 1420,20,Jazz,,,
+U1421,user,Usuario 1421,24,Hip Hop,,,
+U1422,user,Usuario 1422,37,"Indie, Bachata",,,
+U1423,user,Usuario 1423,18,"Electrónica, Hip Hop, Bachata",,,
+U1424,user,Usuario 1424,17,"Electrónica, Bachata",,,
+U1425,user,Usuario 1425,31,"R&B, Pop",,,
+U1426,user,Usuario 1426,32,"R&B, Hip Hop, Bachata",,,
+U1427,user,Usuario 1427,19,"K-Pop, Salsa, Indie",,,
+U1428,user,Usuario 1428,19,K-Pop,,,
+U1429,user,Usuario 1429,33,"Hip Hop, Bachata",,,
+U1430,user,Usuario 1430,28,"Hip Hop, Rock, Indie",,,
+U1431,user,Usuario 1431,21,Pop,,,
+U1432,user,Usuario 1432,23,Electrónica,,,
+U1433,user,Usuario 1433,25,"Hip Hop, Electrónica, Pop",,,
+U1434,user,Usuario 1434,25,"Cumbia, Pop, Jazz",,,
+U1435,user,Usuario 1435,24,"Bachata, Indie",,,
+U1436,user,Usuario 1436,17,"Pop, Jazz, R&B",,,
+U1437,user,Usuario 1437,27,Hip Hop,,,
+U1438,user,Usuario 1438,25,"Reggaeton, R&B, K-Pop",,,
+U1439,user,Usuario 1439,18,Hip Hop,,,
+U1440,user,Usuario 1440,28,"Rock, Cumbia, Jazz",,,
+U1441,user,Usuario 1441,36,"Pop, K-Pop, Cumbia",,,
+U1442,user,Usuario 1442,18,"Electrónica, Hip Hop",,,
+U1443,user,Usuario 1443,27,"Bachata, Reggaeton, R&B",,,
+U1444,user,Usuario 1444,31,"Pop, Cumbia",,,
+U1445,user,Usuario 1445,29,Rock,,,
+U1446,user,Usuario 1446,35,"Salsa, Pop",,,
+U1447,user,Usuario 1447,29,"Rock, R&B",,,
+U1448,user,Usuario 1448,20,R&B,,,
+U1449,user,Usuario 1449,16,R&B,,,
+U1450,user,Usuario 1450,24,Cumbia,,,
+U1451,user,Usuario 1451,30,"Indie, Pop, K-Pop",,,
+U1452,user,Usuario 1452,26,"Bachata, Indie, K-Pop",,,
+U1453,user,Usuario 1453,20,"Electrónica, Jazz, Rock",,,
+U1454,user,Usuario 1454,21,"Salsa, R&B, Hip Hop",,,
+U1455,user,Usuario 1455,32,Pop,,,
+U1456,user,Usuario 1456,39,Indie,,,
+U1457,user,Usuario 1457,20,"K-Pop, Cumbia",,,
+U1458,user,Usuario 1458,27,"Electrónica, Hip Hop",,,
+U1459,user,Usuario 1459,17,"Pop, Reggaeton",,,
+U1460,user,Usuario 1460,40,Bachata,,,
+U1461,user,Usuario 1461,39,"Jazz, K-Pop",,,
+U1462,user,Usuario 1462,17,"Pop, Electrónica",,,
+U1463,user,Usuario 1463,28,"Salsa, R&B",,,
+U1464,user,Usuario 1464,39,"Salsa, K-Pop, Cumbia",,,
+U1465,user,Usuario 1465,33,Rock,,,
+U1466,user,Usuario 1466,23,Indie,,,
+U1467,user,Usuario 1467,39,Jazz,,,
+U1468,user,Usuario 1468,19,Pop,,,
+U1469,user,Usuario 1469,40,"Hip Hop, Salsa",,,
+U1470,user,Usuario 1470,19,"Cumbia, Salsa",,,
+U1471,user,Usuario 1471,28,"R&B, Salsa",,,
+U1472,user,Usuario 1472,27,Jazz,,,
+U1473,user,Usuario 1473,34,"Electrónica, Cumbia, R&B",,,
+U1474,user,Usuario 1474,17,Jazz,,,
+U1475,user,Usuario 1475,24,Electrónica,,,
+U1476,user,Usuario 1476,20,"Hip Hop, Rock, K-Pop",,,
+U1477,user,Usuario 1477,27,"Electrónica, Reggaeton, R&B",,,
+U1478,user,Usuario 1478,37,Indie,,,
+U1479,user,Usuario 1479,30,"Indie, Pop, Hip Hop",,,
+U1480,user,Usuario 1480,31,"Jazz, K-Pop, Rock",,,
+U1481,user,Usuario 1481,26,Bachata,,,
+U1482,user,Usuario 1482,17,K-Pop,,,
+U1483,user,Usuario 1483,19,Hip Hop,,,
+U1484,user,Usuario 1484,21,"K-Pop, Reggaeton",,,
+U1485,user,Usuario 1485,27,Salsa,,,
+U1486,user,Usuario 1486,16,"Cumbia, Electrónica, Indie",,,
+U1487,user,Usuario 1487,31,K-Pop,,,
+U1488,user,Usuario 1488,17,"Hip Hop, Cumbia, Pop",,,
+U1489,user,Usuario 1489,36,"R&B, Hip Hop, Salsa",,,
+U1490,user,Usuario 1490,16,"Rock, Salsa, Jazz",,,
+U1491,user,Usuario 1491,39,"Bachata, Hip Hop, Jazz",,,
+U1492,user,Usuario 1492,24,"Indie, Hip Hop",,,
+U1493,user,Usuario 1493,31,"Pop, Cumbia, Electrónica",,,
+U1494,user,Usuario 1494,25,Bachata,,,
+U1495,user,Usuario 1495,23,"Indie, K-Pop, Hip Hop",,,
+U1496,user,Usuario 1496,40,Indie,,,
+U1497,user,Usuario 1497,26,"Rock, Jazz, K-Pop",,,
+U1498,user,Usuario 1498,23,"R&B, Hip Hop",,,
+U1499,user,Usuario 1499,16,Jazz,,,
+U1500,user,Usuario 1500,31,Reggaeton,,,
+S0001,song,Oops!...I Did It Again,,,Britney Spears,pop,2000
+S0002,song,All The Small Things,,,blink-182,"rock, pop",1999
+S0003,song,Breathe,,,Faith Hill,"pop, country",1999
+S0004,song,It's My Life,,,Bon Jovi,"rock, metal",2000
+S0005,song,Bye Bye Bye,,,*NSYNC,pop,2000
+S0006,song,Thong Song,,,Sisqo,"hip hop, pop, R&B",1999
+S0007,song,The Real Slim Shady,,,Eminem,hip hop,2000
+S0008,song,Rock DJ,,,Robbie Williams,"pop, rock",2000
+S0009,song,Say My Name,,,Destiny's Child,"pop, R&B",1999
+S0010,song,Lady - Hear Me Tonight,,,Modjo,Dance/Electronic,2001
+S0011,song,L'Amour Toujours,,,Gigi D'Agostino,pop,2011
+S0012,song,Move Your Body - Gabry Ponte Original Radio Edit,,,Eiffel 65,pop,1999
+S0013,song,Freestyler,,,Bomfunk MC's,pop,2000
+S0014,song,Desert Rose,,,Sting,"rock, pop",1999
+S0015,song,Never Be The Same Again,,,Melanie C,"pop, Dance/Electronic",1999
+S0016,song,Try Again,,,Aaliyah,"hip hop, pop, R&B",2002
+S0017,song,I'm Outta Love - Radio Edit,,,Anastacia,pop,1999
+S0018,song,Better Off Alone,,,Alice Deejay,pop,2000
+S0019,song,The Riddle,,,Gigi D'Agostino,pop,1999
+S0020,song,The Next Episode,,,Dr. Dre,hip hop,1999
+S0021,song,In the End,,,Linkin Park,"rock, metal",2000
+S0022,song,Sexbomb,,,Tom Jones,"rock, Folk/Acoustic, easy listening",1999
+S0023,song,It Feels So Good,,,Sonique,pop,2000
+S0024,song,Cold as Ice,,,M.O.P.,hip hop,2000
+S0025,song,I Turn To You,,,Melanie C,"pop, Dance/Electronic",1999
+S0026,song,Take A Look Around,,,Limp Bizkit,metal,2000
+S0027,song,Sandstorm,,,Darude,"pop, Dance/Electronic",2001
+S0028,song,What'chu Like (feat. Tyrese),,,Da Brat,"hip hop, pop, R&B",2000
+S0029,song,The Time Is Now,,,Moloko,"pop, Dance/Electronic",2000
+S0030,song,Don't Give Up,,,Chicane,Dance/Electronic,2016
+S0031,song,Party Up,,,DMX,"hip hop, pop",1999
+S0032,song,Dance with Me,,,Debelah Morgan,"pop, R&B",2000
+S0033,song,Music,,,Madonna,pop,2000
+S0034,song,No More,,,Ruff Endz,R&B,2000
+S0035,song,Born to Make You Happy,,,Britney Spears,pop,1999
+S0036,song,Get It On Tonite,,,Montell Jordan,"hip hop, pop, R&B",1999
+S0037,song,Spinning Around,,,Kylie Minogue,"pop, Dance/Electronic",2000
+S0038,song,Big Pimpin',,,JAY-Z,hip hop,1999
+S0039,song,I Need You,,,LeAnn Rimes,"pop, country",2001
+S0040,song,Separated,,,Avant,"pop, R&B",2000
+S0041,song,Be With You,,,Enrique Iglesias,"pop, latin",1999
+S0042,song,He Wasn't Man Enough,,,Toni Braxton,"pop, R&B",2000
+S0043,song,Bounce With Me (feat. Xscape) - Edited Album Version,,,Bow Wow,"hip hop, pop, R&B",2000
+S0044,song,Forgot About Dre,,,Dr. Dre,hip hop,1999
+S0045,song,Hot Boyz,,,Missy Elliott,"hip hop, pop, R&B",1998
+S0046,song,Show Me the Meaning of Being Lonely,,,Backstreet Boys,pop,1999
+S0047,song,Gotta Tell You,,,Samantha Mumba,pop,2018
+S0048,song,Case Of The Ex (Whatcha Gonna Do),,,Mýa,"pop, R&B",2000
+S0049,song,Shackles (Praise You),,,Mary Mary,R&B,2000
+S0050,song,Wifey,,,Next,"hip hop, pop, R&B",2004
+S0051,song,Doesn't Really Matter,,,Janet Jackson,"pop, R&B",2001
+S0052,song,She Bangs - English Version,,,Ricky Martin,"pop, latin",2000
+S0053,song,He Can't Love U,,,Jagged Edge,"hip hop, pop, R&B",2000
+S0054,song,Incomplete,,,Sisqo,"hip hop, pop, R&B",1999
+S0055,song,I Just Wanna Love U (Give It 2 Me),,,JAY-Z,hip hop,2000
+S0056,song,Thank God I Found You (feat. Joe & 98°),,,Mariah Carey,"pop, R&B",1999
+S0057,song,Who Let The Dogs Out,,,Baha Men,R&B,2000
+S0058,song,"U Know What's Up (feat. Lisa ""Left Eye"" Lopes)",,,Donell Jones,"pop, R&B",1999
+S0059,song,Can't Fight The Moonlight,,,LeAnn Rimes,"pop, country",2001
+S0060,song,Go Let It Out,,,Oasis,"Folk/Acoustic, rock",2000
+S0061,song,Hey Baby (Radio Mix),,,DJ Ötzi,"pop, easy listening, Dance/Electronic",2010
+S0062,song,Most Girls,,,P!nk,pop,2000
+S0063,song,Against All Odds (Take A Look at Me Now) (feat. Westlife),,,Mariah Carey,"pop, R&B",2011
+S0064,song,Fill Me In,,,Craig David,"hip hop, pop, R&B",2000
+S0065,song,I Turn to You,,,Christina Aguilera,pop,1999
+S0066,song,American Pie,,,Madonna,pop,2000
+S0067,song,Otherside,,,Red Hot Chili Peppers,rock,1999
+S0068,song,I Like It,,,Sammie,"hip hop, pop, R&B",2000
+S0069,song,7 Days,,,Craig David,"hip hop, pop, R&B",2000
+S0070,song,Maria Maria (feat. The Product G&B),,,Santana,"rock, blues, latin",1999
+S0071,song,Don't Think I'm Not,,,Kandi,"pop, R&B",2000
+S0072,song,There You Go,,,P!nk,pop,2000
+S0073,song,Shalala Lala,,,Vengaboys,pop,2000
+S0074,song,Life Is A Rollercoaster,,,Ronan Keating,"pop, rock",2000
+S0075,song,Don't Call Me Baby,,,Madison Avenue,Dance/Electronic,1999
+S0076,song,"Jumpin', Jumpin'",,,Destiny's Child,"pop, R&B",1999
+S0077,song,That's the Way It Is,,,Céline Dion,pop,1999
+S0078,song,Kryptonite,,,3 Doors Down,"pop, rock, metal",2000
+S0079,song,I Wish,,,Carl Thomas,"pop, R&B",2000
+S0080,song,Shake Ya Ass,,,Mystikal,"hip hop, pop",2000
+S0081,song,Hemorrhage (In My Hands),,,Fuel,"rock, pop, metal",2000
+S0082,song,Where I Wanna Be,,,Donell Jones,"pop, R&B",1999
+S0083,song,Crash and Burn,,,Savage Garden,pop,1999
+S0084,song,My Love,,,Westlife,pop,2000
+S0085,song,Pure Shores,,,All Saints,pop,2000
+S0086,song,"Independent Women, Pt. 1",,,Destiny's Child,"pop, R&B",2001
+S0087,song,It's Gonna Be Me,,,*NSYNC,pop,2000
+S0088,song,Bag Lady,,,Erykah Badu,"hip hop, R&B",2000
+S0089,song,You Sang To Me,,,Marc Anthony,"pop, latin",1999
+S0090,song,Bent,,,Matchbox Twenty,"pop, rock",2000
+S0091,song,Rise,,,Gabrielle,"pop, R&B",2001
+S0092,song,Shape of My Heart,,,Backstreet Boys,pop,2000
+S0093,song,With Arms Wide Open,,,Creed,"pop, rock, metal",1999
+S0094,song,Breathless,,,The Corrs,"pop, Folk/Acoustic",2000
+S0095,song,I Wanna Know,,,Joe,"pop, R&B",2000
+S0096,song,Teenage Dirtbag,,,Wheatus,set(),1999
+S0097,song,Come on over Baby (All I Want Is You) - Radio Version,,,Christina Aguilera,pop,1999
+S0098,song,Higher,,,Creed,"pop, rock, metal",1999
+S0099,song,Lucky,,,Britney Spears,pop,2000
+S0100,song,Country Grammar (Hot Shit),,,Nelly,"hip hop, pop, R&B",2000
+S0101,song,It Wasn't Me,,,Shaggy,"hip hop, pop",2000
+S0102,song,Survivor,,,Destiny's Child,"pop, R&B",2001
+S0103,song,Stan,,,Eminem,hip hop,2000
+S0104,song,Can't Get You out of My Head,,,Kylie Minogue,"pop, Dance/Electronic",2001
+S0105,song,"Lady Marmalade - From ""Moulin Rouge"" Soundtrack",,,Christina Aguilera,pop,2001
+S0106,song,I'm Like A Bird,,,Nelly Furtado,"hip hop, pop, latin",2000
+S0107,song,"Whenever, Wherever",,,Shakira,"pop, latin",2001
+S0108,song,The Middle,,,Jimmy Eat World,"rock, pop",2001
+S0109,song,Drops of Jupiter (Tell Me),,,Train,pop,2001
+S0110,song,It's Raining Men,,,Geri Halliwell,pop,2001
+S0111,song,Hit 'Em Up Style (Oops!),,,Blu Cantrell,"pop, R&B",2001
+S0112,song,I'm a Slave 4 U,,,Britney Spears,pop,2001
+S0113,song,In Your Eyes,,,Kylie Minogue,"pop, Dance/Electronic",2001
+S0114,song,One Minute Man (feat. Ludacris),,,Missy Elliott,"hip hop, pop, R&B",2001
+S0115,song,Family Affair,,,Mary J. Blige,"pop, R&B",2001
+S0116,song,We Come 1 - Radio Edit,,,Faithless,"pop, Dance/Electronic",2015
+S0117,song,Rollin' (Air Raid Vehicle),,,Limp Bizkit,metal,2000
+S0118,song,Something,,,Lasgo,pop,2001
+S0119,song,Rapture (feat.Nadia Ali),,,iio,Dance/Electronic,2006
+S0120,song,What Took You So Long?,,,Emma Bunton,pop,2001
+S0121,song,It's Over Now,,,112,"hip hop, pop, R&B",2001
+S0122,song,All Rise,,,Blue,pop,2001
+S0123,song,Irresistible,,,Jessica Simpson,"pop, R&B",2001
+S0124,song,Butterfly,,,Crazy Town,"rock, metal",1999
+S0125,song,You Rock My World,,,Michael Jackson,"pop, R&B",2001
+S0126,song,Let Me Blow Ya Mind,,,Eve,"hip hop, pop, R&B",2001
+S0127,song,Ain't It Funny,,,Jennifer Lopez,"hip hop, pop, R&B",2001
+S0128,song,Another Day in Paradise - R&B-Version,,,Brandy,"hip hop, pop, R&B",2002
+S0129,song,How You Remind Me,,,Nickelback,"rock, metal",2001
+S0130,song,One More Time,,,Daft Punk,"hip hop, Dance/Electronic",2001
+S0131,song,Ms. Jackson,,,Outkast,"hip hop, pop",2000
+S0132,song,Everytime You Need Me - Radio Version,,,Fragma,"pop, Dance/Electronic",2001
+S0133,song,Loverboy,,,Mariah Carey,"pop, R&B",2001
+S0134,song,Thank You,,,Dido,pop,1999
+S0135,song,Stutter (feat. Mystikal) - Double Take Remix,,,Joe,"pop, R&B",2000
+S0136,song,Youth of the Nation,,,P.O.D.,"rock, metal",2001
+S0137,song,Play,,,Jennifer Lopez,"hip hop, pop, R&B",2001
+S0138,song,Get Ur Freak On,,,Missy Elliott,"hip hop, pop, R&B",2001
+S0139,song,Nobody Wants to Be Lonely (with Christina Aguilera),,,Ricky Martin,"pop, latin",2008
+S0140,song,AM To PM,,,Christina Milian,"hip hop, pop, R&B",2001
+S0141,song,Another Chance,,,Roger Sanchez,Dance/Electronic,2000
+S0142,song,Clint Eastwood,,,Gorillaz,hip hop,2001
+S0143,song,Until The End Of Time,,,2Pac,hip hop,2001
+S0144,song,Stranger in My House,,,Tamia,"pop, R&B",2000
+S0145,song,No More Drama,,,Mary J. Blige,"pop, R&B",2001
+S0146,song,Love Don't Cost a Thing,,,Jennifer Lopez,"hip hop, pop, R&B",2001
+S0147,song,Little L,,,Jamiroquai,pop,2001
+S0148,song,Missing You,,,Case,"hip hop, pop, R&B",2001
+S0149,song,Peaches & Cream,,,112,"hip hop, pop, R&B",2001
+S0150,song,Let's Dance - Radio Edit,,,Five,pop,2001
+S0151,song,Touch Me (Radio Edit) [feat. Cassandra],,,Rui Da Silva,Dance/Electronic,2001
+S0152,song,Smooth Criminal,,,Alien Ant Farm,"rock, metal",2001
+S0153,song,Music (feat. Marvin Gaye),,,Erick Sermon,"hip hop, pop",2001
+S0154,song,Purple Pills,,,D12,"hip hop, pop, rock",2001
+S0155,song,Pop Ya Collar - Radio Edit,,,Usher,"hip hop, pop, R&B",2016
+S0156,song,Don't Tell Me,,,Madonna,pop,2000
+S0157,song,If You Come Back,,,Blue,pop,2001
+S0158,song,Eternal Flame - Single Version,,,Atomic Kitten,pop,2001
+S0159,song,Where the Party At (feat. Nelly),,,Jagged Edge,"hip hop, pop, R&B",2001
+S0160,song,Because I Got High,,,Afroman,hip hop,2001
+S0161,song,Don't Stop Movin',,,S Club 7,pop,2001
+S0162,song,Fill Me In,,,Craig David,"hip hop, pop, R&B",2000
+S0163,song,Turn Off The Light,,,Nelly Furtado,"hip hop, pop, latin",2000
+S0164,song,Starlight - Radio Edit,,,The Supermen Lovers,Dance/Electronic,2001
+S0165,song,All I Want - Sunship Radio Edit,,,Mis-Teeq,"pop, Dance/Electronic",2004
+S0166,song,Promise,,,Jagged Edge,"hip hop, pop, R&B",2000
+S0167,song,Have You Ever,,,S Club 7,pop,2001
+S0168,song,Only Time,,,Enya,"World/Traditional, Folk/Acoustic",2000
+S0169,song,There You'll Be,,,Faith Hill,"pop, country",2001
+S0170,song,Lovin' Each Day,,,Ronan Keating,"pop, rock",2000
+S0171,song,Bootylicious,,,Destiny's Child,"pop, R&B",2001
+S0172,song,It's the Way You Make Me Feel,,,Steps,"pop, Dance/Electronic",2000
+S0173,song,Heard It All Before,,,Sunshine Anderson,"pop, R&B",2001
+S0174,song,Again,,,Lenny Kravitz,"rock, pop",2000
+S0175,song,Gotta Get Thru This - D'N'D Radio Edit,,,Daniel Bedingfield,pop,2002
+S0176,song,Point Of View - Radio Edit,,,DB Boulevard,Dance/Electronic,2018
+S0177,song,All For You,,,Janet Jackson,"pop, R&B",2001
+S0178,song,Whole Again,,,Atomic Kitten,pop,2001
+S0179,song,Livin' It Up,,,Ja Rule,"hip hop, pop, R&B",2001
+S0180,song,"Independent Women, Pt. 1",,,Destiny's Child,"pop, R&B",2001
+S0181,song,Do You Really Like It? - Radio Edit,,,DJ Pied Piper & The Masters Of Ceremonies,Dance/Electronic,2001
+S0182,song,I'm Real (feat. Ja Rule) - Murder Remix,,,Jennifer Lopez,"hip hop, pop, R&B",2001
+S0183,song,Love,,,Musiq Soulchild,"pop, R&B",2000
+S0184,song,21 Seconds,,,So Solid Crew,Dance/Electronic,2001
+S0185,song,Eternity,,,Robbie Williams,"pop, rock",2001
+S0186,song,Romeo,,,Basement Jaxx,"pop, Dance/Electronic",2001
+S0187,song,Southern Hospitality (Featuring Pharrell),,,Ludacris,"hip hop, pop",2000
+S0188,song,Rise,,,Gabrielle,"pop, R&B",2001
+S0189,song,Ride Wit Me,,,Nelly,"hip hop, pop, R&B",2000
+S0190,song,I'm a Thug,,,Trick Daddy,"hip hop, pop",2001
+S0191,song,Sing,,,Travis,"rock, pop",2001
+S0192,song,Izzo (H.O.V.A.),,,JAY-Z,hip hop,2001
+S0193,song,Out Of Reach,,,Gabrielle,"pop, R&B",2001
+S0194,song,Heaven Is a Halfpipe (If I Die),,,OPM,rock,2000
+S0195,song,Crazy,,,K-Ci & JoJo,"pop, R&B",2019
+S0196,song,It's Been Awhile,,,Staind,"rock, metal",2001
+S0197,song,No More (Baby I'ma Do Right),,,3LW,"pop, R&B",2000
+S0198,song,Differences,,,Ginuwine,"hip hop, pop, R&B",2001
+S0199,song,Gone,,,*NSYNC,pop,2001
+S0200,song,Hanging By A Moment,,,Lifehouse,"pop, rock, metal",2000
+S0201,song,Dilemma,,,Nelly,"hip hop, pop, R&B",2002
+S0202,song,Without Me,,,Eminem,hip hop,2002
+S0203,song,Complicated,,,Avril Lavigne,pop,2002
+S0204,song,A Thousand Miles,,,Vanessa Carlton,"Folk/Acoustic, pop",2002
+S0205,song,Wherever You Will Go,,,The Calling,pop,2001
+S0206,song,Underneath Your Clothes,,,Shakira,"pop, latin",2001
+S0207,song,Underneath It All,,,No Doubt,"rock, pop",2001
+S0208,song,Addictive,,,Truth Hurts,"pop, R&B",2002
+S0209,song,I Know What You Want (feat. Flipmode Squad),,,Busta Rhymes,"hip hop, pop",2002
+S0210,song,'Till I Collapse,,,Eminem,hip hop,2002
+S0211,song,"I Need a Girl (Pt. 2) [feat. Loon, Ginuwine & Mario Winans]",,,Diddy,"hip hop, pop",2004
+S0212,song,When You Look At Me - Radio Edit,,,Christina Milian,"hip hop, pop, R&B",2001
+S0213,song,Die Another Day,,,Madonna,pop,2003
+S0214,song,I'm Gonna Be Alright (feat. Nas),,,Jennifer Lopez,"hip hop, pop, R&B",2002
+S0215,song,If I Could Go! (feat. Lil' Mo & Sacario),,,Angie Martinez,pop,2019
+S0216,song,In the End,,,Linkin Park,"rock, metal",2000
+S0217,song,The Ketchup Song (Aserejé) - Spanglish Version,,,Las Ketchup,set(),2002
+S0218,song,Rock The Boat,,,Aaliyah,"hip hop, pop, R&B",2019
+S0219,song,Kiss Kiss,,,Holly Valance,"pop, Dance/Electronic",2002
+S0220,song,Round Round,,,Sugababes,"pop, R&B",2002
+S0221,song,Tainted Love,,,Marilyn Manson,"rock, metal",2003
+S0222,song,What About Us?,,,Brandy,"hip hop, pop, R&B",2002
+S0223,song,Hero (feat. Josey Scott),,,Chad Kroeger,metal,2003
+S0224,song,Overprotected - Radio Edit,,,Britney Spears,pop,2001
+S0225,song,The Logical Song,,,Scooter,"pop, Dance/Electronic",2013
+S0226,song,4 My People (feat. Eve),,,Missy Elliott,"hip hop, pop, R&B",2001
+S0227,song,More Than A Woman,,,Aaliyah,"hip hop, pop, R&B",2002
+S0228,song,Full Moon,,,Brandy,"hip hop, pop, R&B",2002
+S0229,song,One Love,,,Blue,pop,2002
+S0230,song,Pass The Courvoisier Part II (feat. P. Diddy & Pharrell) - Remix,,,Busta Rhymes,"hip hop, pop",2001
+S0231,song,A New Day Has Come - Radio Remix,,,Céline Dion,pop,2001
+S0232,song,Nessaja,,,Scooter,"pop, Dance/Electronic",2013
+S0233,song,Gangsta Lovin',,,Eve,"hip hop, pop, R&B",2002
+S0234,song,Move Bitch,,,Disturbing Tha Peace,"hip hop, pop",2002
+S0235,song,"My Neck, My Back (Lick It)",,,Khia,"pop, R&B",2015
+S0236,song,Oops (Oh My) [feat. Missy Elliott],,,Tweet,"hip hop, pop, R&B",2002
+S0237,song,Spinning Around,,,Kylie Minogue,"pop, Dance/Electronic",2000
+S0238,song,Hot In Herre,,,Nelly,"hip hop, pop, R&B",2002
+S0239,song,Anyone of Us (Stupid Mistake),,,Gareth Gates,pop,2003
+S0240,song,Dirrty (feat. Redman),,,Christina Aguilera,pop,2002
+S0241,song,Uh Huh,,,B2K,"hip hop, pop, R&B",2002
+S0242,song,Freak Like Me,,,Sugababes,"pop, R&B",2002
+S0243,song,Days Go By,,,Dirty Vegas,Dance/Electronic,2002
+S0244,song,What's Luv? (feat. Ja-Rule & Ashanti),,,Fat Joe,"hip hop, pop",2001
+S0245,song,Just A Little,,,Liberty X,pop,2019
+S0246,song,Hella Good,,,No Doubt,"rock, pop",2001
+S0247,song,Luv U Better,,,LL Cool J,"hip hop, pop, R&B",2002
+S0248,song,Can't Stop,,,Red Hot Chili Peppers,rock,2002
+S0249,song,Halfcrazy,,,Musiq Soulchild,"pop, R&B",2002
+S0250,song,Gimme the Light,,,Sean Paul,"hip hop, pop",2002
+S0251,song,I Love You,,,Faith Evans,"hip hop, pop, R&B",2001
+S0252,song,Down 4 U,,,Charli Baltimore,pop,2002
+S0253,song,Love at First Sight,,,Kylie Minogue,"pop, Dance/Electronic",2001
+S0254,song,Nothin',,,N.O.R.E.,"hip hop, pop",2002
+S0255,song,Unchained Melody,,,Gareth Gates,pop,2003
+S0256,song,I Need a Girl (Pt. 1) [feat. Usher & Loon],,,Diddy,"hip hop, pop",2005
+S0257,song,Nu Flow,,,Big Brovaz,pop,2001
+S0258,song,Hey Baby,,,No Doubt,"rock, pop",2001
+S0259,song,Baby,,,Ashanti,"hip hop, pop, R&B",2002
+S0260,song,Murder On The Dancefloor,,,Sophie Ellis-Bextor,"pop, Dance/Electronic",2002
+S0261,song,Like I Love You,,,Justin Timberlake,pop,2002
+S0262,song,Rainy Dayz,,,Mary J. Blige,"pop, R&B",2001
+S0263,song,Caught in the Middle,,,A1,pop,2001
+S0264,song,Cleanin' Out My Closet,,,Eminem,hip hop,2002
+S0265,song,Happy,,,Ashanti,"hip hop, pop, R&B",2002
+S0266,song,Born to Try,,,Delta Goodrem,pop,2003
+S0267,song,Get the Party Started,,,P!nk,pop,2001
+S0268,song,A Woman's Worth,,,Alicia Keys,"pop, R&B",2001
+S0269,song,Gotta Get Thru This - D'N'D Radio Edit,,,Daniel Bedingfield,pop,2002
+S0270,song,Clocks,,,Coldplay,"rock, pop",2002
+S0271,song,Work It,,,Missy Elliott,"hip hop, pop, R&B",2002
+S0272,song,If Tomorrow Never Comes,,,Ronan Keating,"pop, rock",2002
+S0273,song,Still Fly,,,Big Tymers,"hip hop, pop",2002
+S0274,song,My Sacrifice,,,Creed,"pop, rock, metal",2001
+S0275,song,Always On Time,,,Ja Rule,"hip hop, pop, R&B",2001
+S0276,song,Foolish,,,Ashanti,"hip hop, pop, R&B",2002
+S0277,song,Sk8er Boi,,,Avril Lavigne,pop,2002
+S0278,song,Heaven,,,DJ Sammy,pop,2002
+S0279,song,"I'm Not a Girl, Not Yet a Woman",,,Britney Spears,pop,2001
+S0280,song,Oh Boy,,,Cam’ron,"hip hop, pop",2002
+S0281,song,By the Way,,,Red Hot Chili Peppers,rock,2002
+S0282,song,A Little Less Conversation - JXL Radio Edit Remix,,,Elvis Presley,"rock, easy listening",2002
+S0283,song,The Tide Is High - Radio Mix,,,Atomic Kitten,pop,2002
+S0284,song,Girlfriend,,,*NSYNC,pop,2001
+S0285,song,Somethin' Stupid,,,Robbie Williams,"pop, rock",2001
+S0286,song,Hands Clean,,,Alanis Morissette,"pop, Folk/Acoustic",2002
+S0287,song,U Don't Have to Call,,,Usher,"hip hop, pop, R&B",2001
+S0288,song,One Last Breath - Radio Version,,,Creed,"pop, rock, metal",2015
+S0289,song,Here Is Gone,,,The Goo Goo Dolls,"pop, rock",2002
+S0290,song,She Hates Me,,,Puddle Of Mudd,"rock, metal",2001
+S0291,song,Rollout (My Business),,,Ludacris,"hip hop, pop",2001
+S0292,song,Crossroads - Radio Edit,,,Blazin' Squad,set(),2012
+S0293,song,Wasting My Time,,,Default,"rock, pop, metal",2001
+S0294,song,All You Wanted,,,Michelle Branch,"pop, Folk/Acoustic",2001
+S0295,song,If You're Not The One,,,Daniel Bedingfield,pop,2002
+S0296,song,Escape,,,Enrique Iglesias,"pop, latin",2001
+S0297,song,Blurry,,,Puddle Of Mudd,"rock, metal",2001
+S0298,song,In My Place,,,Coldplay,"rock, pop",2002
+S0299,song,The Whole World (feat. Killer Mike),,,Outkast,"hip hop, pop",2001
+S0300,song,Don't Let Me Get Me - Radio Edit,,,P!nk,pop,2001
+S0301,song,In Da Club,,,50 Cent,"hip hop, pop",2003
+S0302,song,Get Busy,,,Sean Paul,"hip hop, pop",2002
+S0303,song,"Lose Yourself - From ""8 Mile"" Soundtrack",,,Eminem,hip hop,2004
+S0304,song,Crazy In Love (feat. Jay-Z),,,Beyoncé,"pop, R&B",2003
+S0305,song,Big Yellow Taxi,,,Counting Crows,"rock, pop",2003
+S0306,song,Where Is The Love?,,,Black Eyed Peas,"hip hop, pop",2003
+S0307,song,Jenny from the Block (feat. Jadakiss & Styles P.) - Track Masters Remix,,,Jennifer Lopez,"hip hop, pop, R&B",2002
+S0308,song,Shut Up,,,Black Eyed Peas,"hip hop, pop",2003
+S0309,song,All The Things She Said,,,t.A.T.u.,pop,2020
+S0310,song,Satisfaction (Isak Original Extended) - Benny Benassi Presents The Biz,,,Benny Benassi,"pop, Dance/Electronic",2003
+S0311,song,I Know What You Want (feat. Flipmode Squad),,,Busta Rhymes,"hip hop, pop",2002
+S0312,song,Mundian to Bach Ke,,,Panjabi MC,"World/Traditional, hip hop",2003
+S0313,song,Scandalous - U.S. Radio Edit,,,Mis-Teeq,"pop, Dance/Electronic",2004
+S0314,song,03' Bonnie & Clyde,,,JAY-Z,hip hop,2002
+S0315,song,P.I.M.P.,,,50 Cent,"hip hop, pop",2003
+S0316,song,Superstar,,,Jamelia,pop,2003
+S0317,song,Faint,,,Linkin Park,"rock, metal",2003
+S0318,song,X Gon' Give It To Ya,,,DMX,"hip hop, pop",2007
+S0319,song,Bring Me To Life,,,Evanescence,metal,2003
+S0320,song,Hole In The Head,,,Sugababes,"pop, R&B",2003
+S0321,song,Rise & Fall (feat. Sting),,,Craig David,"hip hop, pop, R&B",2002
+S0322,song,I Hate Everything About You,,,Three Days Grace,"rock, metal",2003
+S0323,song,Get Low,,,Lil Jon & The East Side Boyz,"hip hop, pop",2002
+S0324,song,"Bump, Bump, Bump (feat. P. Diddy)",,,B2K,"hip hop, pop, R&B",2003
+S0325,song,Suga Suga,,,Baby Bash,"hip hop, pop, R&B, latin",2003
+S0326,song,Miss You - Main,,,Aaliyah,"hip hop, pop, R&B",2002
+S0327,song,Me Against the Music (feat. Madonna) - LP Version / Video Mix,,,Britney Spears,pop,2003
+S0328,song,Sorry Seems To Be The Hardest Word,,,Blue,pop,2004
+S0329,song,Lost Without You,,,Delta Goodrem,pop,2003
+S0330,song,Rock Your Body,,,Justin Timberlake,pop,2002
+S0331,song,Seven Nation Army,,,The White Stripes,"rock, blues",2003
+S0332,song,Damn! (feat. Lil' Jon) - Club Mix,,,Youngbloodz,"hip hop, pop",2003
+S0333,song,Baby Boy (feat. Sean Paul),,,Beyoncé,"pop, R&B",2003
+S0334,song,Magic Stick,,,Lil' Kim,"hip hop, pop, R&B",2019
+S0335,song,Can't Hold Us Down (feat. Lil' Kim),,,Christina Aguilera,pop,2002
+S0336,song,Someday,,,Nickelback,"rock, metal",2003
+S0337,song,U Make Me Wanna - Radio Edit,,,Blue,pop,2003
+S0338,song,Rain On Me,,,Ashanti,"hip hop, pop, R&B",2003
+S0339,song,Headstrong,,,Trapt,"rock, metal",2002
+S0340,song,Sunrise,,,Simply Red,"rock, R&B, Folk/Acoustic, pop",2008
+S0341,song,"Never Leave You (Uh Oooh, Uh Oooh)",,,Lumidee,"pop, R&B",2003
+S0342,song,Sound Of The Underground,,,Girls Aloud,"pop, Dance/Electronic",2003
+S0343,song,Shake Ya Tailfeather (feat. P. Diddy & Murphy Lee) - 2016 Remaster,,,Nelly,"hip hop, pop, R&B",2016
+S0344,song,Make Luv,,,Room 5,Dance/Electronic,2003
+S0345,song,Be Faithful,,,Fatman Scoop,hip hop,2009
+S0346,song,Behind Blue Eyes,,,Limp Bizkit,metal,2003
+S0347,song,Too Lost In You,,,Sugababes,"pop, R&B",2003
+S0348,song,"Wanksta - From ""8 Mile"" Soundtrack",,,50 Cent,"hip hop, pop",2003
+S0349,song,Frontin' (feat. Jay-Z) - Club Mix,,,Pharrell Williams,"hip hop, pop",2003
+S0350,song,Right Thurr,,,Chingy,"hip hop, pop, R&B",2003
+S0351,song,Sing For The Moment,,,Eminem,hip hop,2002
+S0352,song,The Jump Off (feat. Mr. Cheeks) - Remix,,,Lil' Kim,"hip hop, pop, R&B",2003
+S0353,song,My Love Is Like...Wo - Main Mix,,,Mýa,"pop, R&B",2003
+S0354,song,21 Questions,,,50 Cent,"hip hop, pop",2003
+S0355,song,Air Force Ones,,,Nelly,"hip hop, pop, R&B",2002
+S0356,song,Gossip Folks (feat. Ludacris),,,Missy Elliott,"hip hop, pop, R&B",2002
+S0357,song,Jump,,,Girls Aloud,"pop, Dance/Electronic",2003
+S0358,song,Pretty Green Eyes - Radio Edit,,,Ultrabeat,"pop, Dance/Electronic",2003
+S0359,song,Fighter,,,Christina Aguilera,pop,2002
+S0360,song,Don't Wanna Try,,,Frankie J,"hip hop, pop, R&B",2003
+S0361,song,Beautiful,,,Snoop Dogg,"hip hop, pop",2005
+S0362,song,Say Yes,,,Floetry,"hip hop, pop, R&B",2002
+S0363,song,In Those Jeans,,,Ginuwine,"hip hop, pop, R&B",2003
+S0364,song,Danger! High Voltage - Soulchild Radio Mix,,,Electric Six,rock,2003
+S0365,song,Sweet Dreams My LA Ex - Radio Edit,,,Rachel Stevens,"pop, Dance/Electronic",2003
+S0366,song,Stand Up,,,Ludacris,"hip hop, pop",2003
+S0367,song,I Can,,,Nas,hip hop,2002
+S0368,song,When I'm Gone,,,3 Doors Down,"pop, rock, metal",2002
+S0369,song,How You Gonna Act Like That,,,Tyrese,"hip hop, pop, R&B",2002
+S0370,song,Cry Me a River,,,Justin Timberlake,pop,2002
+S0371,song,Mandy,,,Westlife,pop,2003
+S0372,song,It's My Life,,,No Doubt,"rock, pop",2003
+S0373,song,Angel,,,Amanda Perez,"pop, R&B",2003
+S0374,song,Excuse Me Miss,,,JAY-Z,hip hop,2002
+S0375,song,Clocks,,,Coldplay,"rock, pop",2002
+S0376,song,Stole,,,Kelly Rowland,"hip hop, pop, R&B",2002
+S0377,song,Work It,,,Missy Elliott,"hip hop, pop, R&B",2002
+S0378,song,Rock Wit U (Awww Baby),,,Ashanti,"hip hop, pop, R&B",2003
+S0379,song,Move Your Feet,,,Junior Senior,pop,2002
+S0380,song,Like a Stone,,,Audioslave,"rock, metal",2002
+S0381,song,Like Glue,,,Sean Paul,"hip hop, pop",2002
+S0382,song,Put That Woman First,,,Jaheim,"pop, R&B",2002
+S0383,song,All I Have (feat. LL Cool J),,,Jennifer Lopez,"hip hop, pop, R&B",2002
+S0384,song,So Gone,,,Monica,"pop, R&B",2003
+S0385,song,White Flag,,,Dido,pop,2003
+S0386,song,The Seed (2.0),,,The Roots,hip hop,2002
+S0387,song,Holidae In,,,Chingy,"hip hop, pop, R&B",2003
+S0388,song,Can't Let You Go (feat. Mike Shorey & Lil' Mo),,,Fabolous,"hip hop, pop, R&B",2003
+S0389,song,Miss Independent,,,Kelly Clarkson,"pop, R&B",2003
+S0390,song,Mesmerize,,,Ja Rule,"hip hop, pop, R&B",2002
+S0391,song,Unwell,,,Matchbox Twenty,"pop, rock",2002
+S0392,song,The Way You Move (feat. Sleepy Brown),,,Outkast,"hip hop, pop",2003
+S0393,song,Into You (feat. Tamia),,,Fabolous,"hip hop, pop, R&B",2003
+S0394,song,Meant to Live,,,Switchfoot,"rock, pop",2003
+S0395,song,If You're Not The One,,,Daniel Bedingfield,pop,2002
+S0396,song,Lifestyles of the Rich & Famous,,,Good Charlotte,"rock, metal",2002
+S0397,song,No Letting Go,,,Wayne Wonder,"hip hop, R&B",2003
+S0398,song,Reptilia,,,The Strokes,rock,2003
+S0399,song,I'm with You,,,Avril Lavigne,pop,2002
+S0400,song,Leave Right Now,,,Will Young,pop,2003
+S0401,song,Yeah! (feat. Lil Jon & Ludacris),,,Usher,"hip hop, pop, R&B",2004
+S0402,song,This Love,,,Maroon 5,pop,2002
+S0403,song,Toxic,,,Britney Spears,pop,2003
+S0404,song,Hey Ya!,,,Outkast,"hip hop, pop",2003
+S0405,song,The Reason,,,Hoobastank,"pop, rock, metal",2003
+S0406,song,Left Outside Alone,,,Anastacia,pop,2004
+S0407,song,Gasolina,,,Daddy Yankee,latin,2004
+S0408,song,Let's Get It Started - Spike Mix,,,Black Eyed Peas,"hip hop, pop",2004
+S0409,song,Dragostea Din Tei,,,O-Zone,pop,2004
+S0410,song,Lean Back,,,Terror Squad,hip hop,2004
+S0411,song,Sick and Tired,,,Anastacia,pop,1999
+S0412,song,What You Waiting For?,,,Gwen Stefani,"pop, R&B",2004
+S0413,song,Only U - No Intro,,,Ashanti,"hip hop, pop, R&B",2004
+S0414,song,In the Shadows,,,The Rasmus,metal,2003
+S0415,song,I Like That,,,Houston,"hip hop, pop",2004
+S0416,song,Naughty Girl,,,Beyoncé,"pop, R&B",2003
+S0417,song,Numb,,,Linkin Park,"rock, metal",2003
+S0418,song,On Fire,,,Lloyd Banks,"hip hop, pop",2004
+S0419,song,Locked Up,,,Akon,pop,2004
+S0420,song,My Band,,,D12,"hip hop, pop, rock",2004
+S0421,song,Eyes On You - Radio Mix,,,Jay Sean,"hip hop, pop, R&B",2004
+S0422,song,I Don't Wanna Know (feat. Enya & P. Diddy) - 2016 Remaster,,,Mario Winans,pop,2016
+S0423,song,Lose My Breath,,,Destiny's Child,"pop, R&B",2004
+S0424,song,Call on Me - Radio Mix,,,Eric Prydz,"pop, Dance/Electronic",2004
+S0425,song,Goodies (feat. Petey Pablo),,,Ciara,"pop, R&B",2004
+S0426,song,Trick Me,,,Kelis,"pop, R&B, Dance/Electronic",2003
+S0427,song,Headsprung,,,LL Cool J,"hip hop, pop, R&B",2004
+S0428,song,Black Betty - Edit,,,Spiderbait,rock,2004
+S0429,song,Amazing,,,George Michael,set(),2004
+S0430,song,My Prerogative,,,Britney Spears,pop,2004
+S0431,song,Move Ya Body,,,Nina Sky,"pop, R&B",2004
+S0432,song,Suga Suga,,,Baby Bash,"hip hop, pop, R&B, latin",2003
+S0433,song,Freek-A-Leek,,,Petey Pablo,"hip hop, pop",2003
+S0434,song,Dirt Off Your Shoulder,,,JAY-Z,hip hop,2003
+S0435,song,La Camisa Negra,,,Juanes,"pop, latin",2004
+S0436,song,Nobody's Home,,,Avril Lavigne,pop,2004
+S0437,song,Radio,,,Robbie Williams,"pop, rock",2004
+S0438,song,Hey Mama,,,Black Eyed Peas,"hip hop, pop",2003
+S0439,song,Salt Shaker,,,Ying Yang Twins,"hip hop, pop",2003
+S0440,song,Not In Love - Radio Mix,,,Enrique Iglesias,"pop, latin",2003
+S0441,song,Milkshake,,,Kelis,"pop, R&B, Dance/Electronic",2003
+S0442,song,Breaking the Habit,,,Linkin Park,"rock, metal",2003
+S0443,song,Leave (Get Out) - Radio Edit,,,JoJo,"hip hop, pop, R&B",2005
+S0444,song,Dip It Low,,,Christina Milian,"hip hop, pop, R&B",2004
+S0445,song,Read Your Mind,,,Avant,"pop, R&B",2003
+S0446,song,Just Lose It,,,Eminem,hip hop,2004
+S0447,song,Too Lost In You,,,Sugababes,"pop, R&B",2003
+S0448,song,Drop It Like It's Hot,,,Snoop Dogg,"hip hop, pop",2004
+S0449,song,I'm Still in Love with You (feat. Sasha),,,Sean Paul,"hip hop, pop",2002
+S0450,song,Lola's Theme - Radio Edit,,,The Shapeshifters,Dance/Electronic,2004
+S0451,song,How Come,,,D12,"hip hop, pop, rock",2004
+S0452,song,Good Luck,,,Basement Jaxx,"pop, Dance/Electronic",2003
+S0453,song,Turn Me On,,,Kevin Lyttle,hip hop,2004
+S0454,song,One Call Away,,,Chingy,"hip hop, pop, R&B",2003
+S0455,song,Bring Em Out,,,T.I.,"hip hop, pop",2004
+S0456,song,Cha Cha Slide - Hardino Mix,,,DJ Casper,set(),2004
+S0457,song,I Believe in You,,,Kylie Minogue,"pop, Dance/Electronic",2004
+S0458,song,Overnight Celebrity,,,Twista,"hip hop, pop, R&B",2004
+S0459,song,She Wants To Move,,,N.E.R.D,hip hop,2004
+S0460,song,Everytime,,,Britney Spears,pop,2003
+S0461,song,Vertigo,,,U2,"World/Traditional, rock",2004
+S0462,song,Take Me Out,,,Franz Ferdinand,rock,2004
+S0463,song,Tipsy - Club Mix,,,J-Kwon,"hip hop, pop",2001
+S0464,song,Wanna Get To Know You,,,G-Unit,"hip hop, pop",2003
+S0465,song,Sunshine (feat. Lea),,,Lil' Flip,"hip hop, pop",2004
+S0466,song,Jesus Walks,,,Kanye West,hip hop,2004
+S0467,song,My Immortal,,,Evanescence,metal,2003
+S0468,song,My Place,,,Nelly,"hip hop, pop, R&B",2004
+S0469,song,If There's Any Justice,,,Lemar,R&B,2004
+S0470,song,It's My Life,,,No Doubt,"rock, pop",2003
+S0471,song,Don't Tell Me,,,Avril Lavigne,pop,2004
+S0472,song,Slow Jamz,,,Twista,"hip hop, pop, R&B",2004
+S0473,song,American Idiot,,,Green Day,rock,2004
+S0474,song,Millionaire,,,Kelis,"pop, R&B, Dance/Electronic",2003
+S0475,song,Comfortably Numb,,,Scissor Sisters,"pop, rock, Dance/Electronic",2004
+S0476,song,Diary (feat. Tony! Toni! Tone! & Jermaine Paul),,,Alicia Keys,"pop, R&B",2003
+S0477,song,Through The Wire,,,Kanye West,hip hop,2004
+S0478,song,Come With Me - Radio Edit,,,Special D.,pop,2004
+S0479,song,Splash Waterfalls,,,Ludacris,"hip hop, pop",2003
+S0480,song,My Happy Ending,,,Avril Lavigne,pop,2004
+S0481,song,White Flag,,,Dido,pop,2003
+S0482,song,Fuck It (I Don't Want You Back),,,Eamon,set(),2004
+S0483,song,"Me, Myself and I",,,Beyoncé,"pop, R&B",2003
+S0484,song,Here Without You,,,3 Doors Down,"pop, rock, metal",2002
+S0485,song,All Falls Down,,,Kanye West,hip hop,2004
+S0486,song,Sunshine (feat. Anthony Hamilton),,,Twista,"hip hop, pop, R&B",2004
+S0487,song,The Closest Thing to Crazy,,,Katie Melua,"pop, easy listening, jazz",2003
+S0488,song,My Boo,,,Usher,"hip hop, pop, R&B",2004
+S0489,song,Southside,,,Lloyd,"hip hop, pop, R&B",2004
+S0490,song,Take Me To The Clouds Above - LMC Vs. U2 / Radio Edit,,,LMC,Dance/Electronic,2004
+S0491,song,Fit but You Know It,,,The Streets,"hip hop, Dance/Electronic",2004
+S0492,song,Slow Motion,,,JUVENILE,"hip hop, pop",2003
+S0493,song,The Way You Move (feat. Sleepy Brown),,,Outkast,"hip hop, pop",2003
+S0494,song,Love Machine,,,Girls Aloud,"pop, Dance/Electronic",2004
+S0495,song,With You,,,Jessica Simpson,"pop, R&B",2003
+S0496,song,Like Toy Soldiers,,,Eminem,hip hop,2004
+S0497,song,Mad World (Feat. Michael Andrews),,,Gary Jules,pop,2001
+S0498,song,Pieces Of Me,,,Ashlee Simpson,pop,2004
+S0499,song,Leave Right Now,,,Will Young,pop,2003
+S0500,song,You Don't Know My Name,,,Alicia Keys,"pop, R&B",2003
+S0501,song,We Belong Together,,,Mariah Carey,"pop, R&B",2005
+S0502,song,Let Me Love You,,,Mario,"pop, R&B",2004
+S0503,song,Gold Digger,,,Kanye West,hip hop,2005
+S0504,song,Pon de Replay,,,Rihanna,"hip hop, pop, R&B",2005
+S0505,song,Candy Shop,,,50 Cent,"hip hop, pop",2005
+S0506,song,You're Beautiful,,,James Blunt,pop,2005
+S0507,song,Boulevard of Broken Dreams,,,Green Day,rock,2004
+S0508,song,Don't Cha,,,The Pussycat Dolls,"pop, R&B",2005
+S0509,song,Bad Day,,,Daniel Powter,pop,2005
+S0510,song,Bananza (Belly Dancer),,,Akon,pop,2004
+S0511,song,Hung Up,,,Madonna,pop,2005
+S0512,song,Just A Lil Bit,,,50 Cent,"hip hop, pop",2005
+S0513,song,Axel F,,,Crazy Frog,pop,2005
+S0514,song,Ass Like That,,,Eminem,hip hop,2004
+S0515,song,We Be Burnin',,,Sean Paul,"hip hop, pop",2005
+S0516,song,Rich Girl,,,Gwen Stefani,"pop, R&B",2004
+S0517,song,Galvanize,,,The Chemical Brothers,Dance/Electronic,2005
+S0518,song,Remember the Name (feat. Styles of Beyond),,,Fort Minor,"hip hop, pop, rock",2005
+S0519,song,Disco Inferno,,,50 Cent,"hip hop, pop",2005
+S0520,song,How We Do,,,The Game,"hip hop, pop",2005
+S0521,song,Run It! (feat. Juelz Santana),,,Chris Brown,"hip hop, pop, R&B",2005
+S0522,song,It's Like That,,,Mariah Carey,"pop, R&B",2005
+S0523,song,My Humps,,,Black Eyed Peas,"hip hop, pop",2005
+S0524,song,Oh (feat. Ludacris),,,Ciara,"pop, R&B",2004
+S0525,song,Outta Control - Remix,,,50 Cent,"hip hop, pop",2005
+S0526,song,"Baby, I'm Back",,,Baby Bash,"hip hop, pop, R&B, latin",2005
+S0527,song,Get Right,,,Jennifer Lopez,"hip hop, pop, R&B",2005
+S0528,song,Numb / Encore,,,JAY-Z,hip hop,2004
+S0529,song,Hate It Or Love It,,,The Game,"hip hop, pop",2005
+S0530,song,Feel Good Inc.,,,Gorillaz,hip hop,2005
+S0531,song,Don't Phunk With My Heart,,,Black Eyed Peas,"hip hop, pop",2005
+S0532,song,Lonely,,,Akon,pop,2004
+S0533,song,I Like The Way - Radio Edit,,,Bodyrockers,"rock, Dance/Electronic",2005
+S0534,song,Push The Button,,,Sugababes,"pop, R&B",2005
+S0535,song,Soul Survivor,,,Jeezy,"hip hop, pop",2005
+S0536,song,Mockingbird,,,Eminem,hip hop,2004
+S0537,song,La Tortura (feat. Alejandro Sanz),,,Shakira,"pop, latin",2005
+S0538,song,DARE,,,Gorillaz,hip hop,2005
+S0539,song,Signs,,,Snoop Dogg,"hip hop, pop",2004
+S0540,song,Tripping,,,Robbie Williams,"pop, rock",2005
+S0541,song,Play,,,David Banner,"hip hop, pop",2005
+S0542,song,Some Cut,,,Trillville,"hip hop, pop",2004
+S0543,song,Laffy Taffy,,,D4L,"hip hop, pop",2005
+S0544,song,Lose Control (feat. Ciara & Fat Man Scoop),,,Missy Elliott,"hip hop, pop, R&B",2005
+S0545,song,Lonely No More,,,Rob Thomas,"pop, Folk/Acoustic",2005
+S0546,song,Almost Here,,,Brian McFadden,set(),2004
+S0547,song,"Slow Down - 12"" Version",,,Bobby V.,"hip hop, pop, R&B",2005
+S0548,song,Incomplete,,,Backstreet Boys,pop,2005
+S0549,song,Grind With Me,,,Pretty Ricky,"hip hop, pop, R&B",2005
+S0550,song,Diamonds From Sierra Leone - Remix,,,Kanye West,hip hop,2005
+S0551,song,Drop It Like It's Hot,,,Snoop Dogg,"hip hop, pop",2004
+S0552,song,Get It Poppin' (feat. Nelly) - Radio Version,,,Fat Joe,"hip hop, pop",2005
+S0553,song,Soldier (feat. T.I. & Lil' Wayne),,,Destiny's Child,"pop, R&B",2004
+S0554,song,"1, 2 Step (feat. Missy Elliott) - Main",,,Ciara,"pop, R&B",2005
+S0555,song,1 Thing,,,Amerie,"hip hop, pop, R&B",2008
+S0556,song,Get Back,,,Ludacris,"hip hop, pop",2004
+S0557,song,Do You Want To,,,Franz Ferdinand,rock,2005
+S0558,song,Shiver,,,Natalie Imbruglia,"pop, Folk/Acoustic",2005
+S0559,song,Hollaback Girl,,,Gwen Stefani,"pop, R&B",2004
+S0560,song,Your Body,,,Pretty Ricky,"hip hop, pop, R&B",2005
+S0561,song,The Kill,,,Thirty Seconds To Mars,rock,2005
+S0562,song,Karma,,,Alicia Keys,"pop, R&B",2003
+S0563,song,Ghetto Gospel,,,2Pac,hip hop,2004
+S0564,song,Don't Love You No More (I'm Sorry),,,Craig David,"hip hop, pop, R&B",2005
+S0565,song,Nine Million Bicycles,,,Katie Melua,"pop, easy listening, jazz",2005
+S0566,song,Lovers And Friends,,,Lil Jon & The East Side Boyz,"hip hop, pop",2004
+S0567,song,Don't Forget About Us - Radio Edit,,,Mariah Carey,"pop, R&B",2005
+S0568,song,Wait (The Whisper Song),,,Ying Yang Twins,"hip hop, pop",2005
+S0569,song,Switch,,,Will Smith,"hip hop, pop",2020
+S0570,song,Like You (feat. Ciara),,,Bow Wow,"hip hop, pop, R&B",2005
+S0571,song,Everyday I Love You Less And Less,,,Kaiser Chiefs,rock,2005
+S0572,song,Behind These Hazel Eyes,,,Kelly Clarkson,"pop, R&B",2004
+S0573,song,Don't Lie,,,Black Eyed Peas,"hip hop, pop",2005
+S0574,song,You Raise Me Up,,,Westlife,pop,2005
+S0575,song,One Wish,,,Ray J,"hip hop, pop, R&B",2005
+S0576,song,Scars,,,Papa Roach,"rock, metal",2004
+S0577,song,I Bet You Look Good On The Dancefloor,,,Arctic Monkeys,rock,2006
+S0578,song,That's My Goal,,,Shayne Ward,pop,2006
+S0579,song,Let Me Hold You (feat. Omarion),,,Bow Wow,"hip hop, pop, R&B",2005
+S0580,song,I Predict A Riot,,,Kaiser Chiefs,rock,2005
+S0581,song,Caught Up,,,Usher,"hip hop, pop, R&B",2004
+S0582,song,Because of You,,,Kelly Clarkson,"pop, R&B",2004
+S0583,song,Let Me Go,,,3 Doors Down,"pop, rock, metal",2012
+S0584,song,Photograph,,,Nickelback,"rock, metal",2005
+S0585,song,I'm Sprung,,,T-Pain,"hip hop, pop, R&B",2005
+S0586,song,Cater 2 U,,,Destiny's Child,"pop, R&B",2004
+S0587,song,Stickwitu,,,The Pussycat Dolls,"pop, R&B",2005
+S0588,song,True,,,Ryan Cabrera,pop,2004
+S0589,song,Dakota,,,Stereophonics,"rock, pop",2005
+S0590,song,Like Toy Soldiers,,,Eminem,hip hop,2004
+S0591,song,Over And Over,,,Nelly,"hip hop, pop, R&B",2004
+S0592,song,Speed of Sound,,,Coldplay,"rock, pop",2005
+S0593,song,Suddenly I See,,,KT Tunstall,"World/Traditional, pop, Folk/Acoustic",2005
+S0594,song,Girl,,,Destiny's Child,"pop, R&B",2004
+S0595,song,Since U Been Gone,,,Kelly Clarkson,"pop, R&B",2004
+S0596,song,Sometimes You Can't Make It On Your Own,,,U2,"World/Traditional, rock",2004
+S0597,song,Dirty Little Secret,,,The All-American Rejects,"rock, pop",2005
+S0598,song,As Good As I Once Was,,,Toby Keith,country,2005
+S0599,song,Cool,,,Gwen Stefani,"pop, R&B",2004
+S0600,song,Best of You,,,Foo Fighters,"rock, metal",2005
+S0601,song,Hips Don't Lie (feat. Wyclef Jean),,,Shakira,"pop, latin",2005
+S0602,song,Temperature,,,Sean Paul,"hip hop, pop",2005
+S0603,song,SexyBack (feat. Timbaland),,,Justin Timberlake,pop,2006
+S0604,song,Irreplaceable,,,Beyoncé,"pop, R&B",2007
+S0605,song,Rehab,,,Amy Winehouse,R&B,2006
+S0606,song,SOS,,,Rihanna,"hip hop, pop, R&B",2006
+S0607,song,Crazy,,,Gnarls Barkley,"hip hop, R&B",2006
+S0608,song,Touch It,,,Busta Rhymes,"hip hop, pop",2006
+S0609,song,Maneater,,,Nelly Furtado,"hip hop, pop, latin",2006
+S0610,song,Rock This Party - Everybody Dance Now,,,Bob Sinclar,"pop, Dance/Electronic",2006
+S0611,song,Come to Me (feat. Nicole Scherzinger),,,Diddy,"hip hop, pop",2006
+S0612,song,Sorry,,,Madonna,pop,2005
+S0613,song,Ridin',,,Chamillionaire,"hip hop, pop",2005
+S0614,song,Pump It,,,Black Eyed Peas,"hip hop, pop",2005
+S0615,song,Promiscuous,,,Nelly Furtado,"hip hop, pop, latin",2006
+S0616,song,Put Your Hands Up for Detroit - Radio Edit,,,Fedde Le Grand,"pop, Dance/Electronic",2015
+S0617,song,(When You Gonna) Give It Up to Me (feat. Keyshia Cole) - Radio Version,,,Sean Paul,"hip hop, pop",2006
+S0618,song,Buttons,,,The Pussycat Dolls,"pop, R&B",2005
+S0619,song,Get Up (feat. Chamillionaire),,,Ciara,"pop, R&B",2006
+S0620,song,Shake That,,,Eminem,hip hop,2005
+S0621,song,Do It To It,,,Cherish,"hip hop, pop, R&B",2006
+S0622,song,Supermassive Black Hole,,,Muse,rock,2006
+S0623,song,Gimme That,,,Chris Brown,"hip hop, pop, R&B",2005
+S0624,song,From Paris to Berlin,,,Infernal,pop,2004
+S0625,song,Me & U,,,Cassie,"pop, R&B",2006
+S0626,song,U and Dat (feat. T. Pain & Kandi Girl),,,E-40,"hip hop, pop",2006
+S0627,song,Beep,,,The Pussycat Dolls,"pop, R&B",2005
+S0628,song,Snap Yo Fingers,,,Lil Jon,"hip hop, pop",2006
+S0629,song,My My My - Radio Edit,,,Armand Van Helden,"pop, Dance/Electronic",2006
+S0630,song,"Nasty Girl (feat. Diddy, Nelly, Jagged Edge & Avery Storm) - 2005 Remaster",,,The Notorious B.I.G.,hip hop,2005
+S0631,song,It's Goin' Down (feat. Nitti),,,Yung Joc,"hip hop, pop",2006
+S0632,song,No Promises,,,Shayne Ward,pop,2006
+S0633,song,My Love (feat. T.I.),,,Justin Timberlake,pop,2006
+S0634,song,Savin' Me,,,Nickelback,"rock, metal",2005
+S0635,song,Grillz,,,Nelly,"hip hop, pop, R&B",2005
+S0636,song,Patience,,,Take That,pop,2006
+S0637,song,London Bridge,,,Fergie,"pop, R&B",2006
+S0638,song,Everytime We Touch - Radio Edit,,,Cascada,"hip hop, pop, Dance/Electronic",2011
+S0639,song,Laffy Taffy,,,D4L,"hip hop, pop",2005
+S0640,song,Control Myself,,,LL Cool J,"hip hop, pop, R&B",2006
+S0641,song,Deja Vu (feat. Jay-Z),,,Beyoncé,"pop, R&B",2007
+S0642,song,Stupid Girls,,,P!nk,pop,2006
+S0643,song,When I'm Gone,,,Eminem,hip hop,2005
+S0644,song,Bossy,,,Kelis,"pop, R&B, Dance/Electronic",2006
+S0645,song,Love Generation - Radio Edit,,,Bob Sinclar,"pop, Dance/Electronic",2005
+S0646,song,Thunder in My Heart Again (Radio Edit),,,Meck,set(),2005
+S0647,song,Be Without You - Kendu Mix,,,Mary J. Blige,"pop, R&B",2005
+S0648,song,Something Kinda Ooooh,,,Girls Aloud,"pop, Dance/Electronic",2012
+S0649,song,Unfaithful,,,Rihanna,"hip hop, pop, R&B",2006
+S0650,song,Touch The Sky,,,Kanye West,hip hop,2005
+S0651,song,"Lean Wit It, Rock Wit It",,,Dem Franchize Boyz,"hip hop, pop",2006
+S0652,song,Call Me When You're Sober,,,Evanescence,metal,2006
+S0653,song,Pullin' Me Back,,,Chingy,"hip hop, pop, R&B",2006
+S0654,song,Far Away,,,Nickelback,"rock, metal",2005
+S0655,song,"Dance, Dance",,,Fall Out Boy,rock,2005
+S0656,song,A Moment Like This,,,Leona Lewis,"pop, R&B",2007
+S0657,song,What You Know,,,T.I.,"hip hop, pop",2006
+S0658,song,Money Maker,,,Ludacris,"hip hop, pop",2006
+S0659,song,What's Left Of Me,,,Nick Lachey,pop,2006
+S0660,song,Chain Hang Low,,,Jibbs,"hip hop, pop",2006
+S0661,song,When The Sun Goes Down,,,Arctic Monkeys,rock,2006
+S0662,song,Life is a Highway,,,Rascal Flatts,country,2006
+S0663,song,Check On It (feat. Slim Thug),,,Beyoncé,"pop, R&B",2006
+S0664,song,Love,,,Keyshia Cole,"hip hop, pop, R&B",2005
+S0665,song,Smile,,,Lily Allen,pop,2006
+S0666,song,Sexy Love,,,Ne-Yo,"pop, R&B",2006
+S0667,song,Too Little Too Late,,,JoJo,"hip hop, pop, R&B",2006
+S0668,song,One,,,Mary J. Blige,"pop, R&B",2005
+S0669,song,Ms. New Booty,,,Bubba Sparxxx,"hip hop, pop, country",2005
+S0670,song,You Know I'm No Good,,,Amy Winehouse,R&B,2006
+S0671,song,What Hurts The Most,,,Rascal Flatts,country,2006
+S0672,song,Dani California,,,Red Hot Chili Peppers,rock,2006
+S0673,song,I Don't Feel Like Dancin',,,Scissor Sisters,"pop, rock, Dance/Electronic",2006
+S0674,song,So Sick,,,Ne-Yo,"pop, R&B",2006
+S0675,song,Lips Of An Angel,,,Hinder,"pop, rock, metal",2019
+S0676,song,"Steady, As She Goes",,,The Raconteurs,rock,2006
+S0677,song,Chelsea Dagger,,,The Fratellis,rock,2006
+S0678,song,Where'd You Go (feat. Holly Brook & Jonah Matranga),,,Fort Minor,"hip hop, pop, rock",2005
+S0679,song,Stickwitu,,,The Pussycat Dolls,"pop, R&B",2005
+S0680,song,I Write Sins Not Tragedies,,,Panic! At The Disco,rock,2005
+S0681,song,Goodbye My Lover,,,James Blunt,pop,2005
+S0682,song,Ain't No Other Man,,,Christina Aguilera,pop,2006
+S0683,song,The Rose,,,Westlife,pop,2006
+S0684,song,Is It Any Wonder?,,,Keane,pop,2006
+S0685,song,No Tomorrow,,,Orson,pop,2006
+S0686,song,I'm N Luv (Wit a Stripper) (feat. Mike Jones),,,T-Pain,"hip hop, pop, R&B",2005
+S0687,song,Black Horse And The Cherry Tree,,,KT Tunstall,"World/Traditional, pop, Folk/Acoustic",2005
+S0688,song,Unwritten,,,Natasha Bedingfield,pop,2004
+S0689,song,America,,,Razorlight,"rock, pop",2006
+S0690,song,You Give Me Something,,,James Morrison,"pop, R&B",2006
+S0691,song,You're All I Have,,,Snow Patrol,"World/Traditional, rock, pop",2006
+S0692,song,How to Save a Life,,,The Fray,pop,2005
+S0693,song,I Wish I Was a Punk Rocker (with Flowers in My Hair),,,Sandi Thom,"World/Traditional, pop",2006
+S0694,song,Welcome to the Black Parade,,,My Chemical Romance,rock,2006
+S0695,song,In The Morning,,,Razorlight,"rock, pop",2006
+S0696,song,Dirty Little Secret,,,The All-American Rejects,"rock, pop",2005
+S0697,song,Wonderful World,,,James Morrison,"pop, R&B",2006
+S0698,song,Yo (Excuse Me Miss),,,Chris Brown,"hip hop, pop, R&B",2005
+S0699,song,Who Knew,,,P!nk,pop,2006
+S0700,song,Naive,,,The Kooks,rock,2006
+S0701,song,Bleeding Love,,,Leona Lewis,"pop, R&B",2007
+S0702,song,Umbrella,,,Rihanna,"hip hop, pop, R&B",2008
+S0703,song,Gimme More,,,Britney Spears,pop,2007
+S0704,song,Big Girls Don't Cry (Personal),,,Fergie,"pop, R&B",2006
+S0705,song,Valerie (feat. Amy Winehouse) - Version Revisited,,,Mark Ronson,pop,2007
+S0706,song,Hey There Delilah,,,Plain White T's,pop,2005
+S0707,song,What Goes Around.../...Comes Around (Interlude),,,Justin Timberlake,pop,2006
+S0708,song,The Sweet Escape,,,Gwen Stefani,"pop, R&B",2006
+S0709,song,The Way I Are,,,Timbaland,"hip hop, pop, R&B",2007
+S0710,song,Say It Right,,,Nelly Furtado,"hip hop, pop, latin",2006
+S0711,song,Let Me Think About It,,,Ida Corr,set(),2012
+S0712,song,Destination Calabria - Radio Edit,,,Alex Gaudino,Dance/Electronic,2007
+S0713,song,Cry for You,,,September,"pop, Dance/Electronic",2007
+S0714,song,Smack That,,,Akon,pop,2006
+S0715,song,Give It To Me,,,Timbaland,"hip hop, pop, R&B",2007
+S0716,song,Ayo Technology,,,50 Cent,"hip hop, pop",2007
+S0717,song,Proper Education - Radio Edit,,,Eric Prydz,"pop, Dance/Electronic",2007
+S0718,song,Put Your Hands Up For Detroit - Radio Edit,,,Fedde Le Grand,"pop, Dance/Electronic",2015
+S0719,song,Like a Boy,,,Ciara,"pop, R&B",2006
+S0720,song,Stronger,,,Kanye West,hip hop,2007
+S0721,song,Beautiful Liar,,,Beyoncé,"pop, R&B",2007
+S0722,song,Cupid's Chokehold / Breakfast in America - Radio Mix,,,Gym Class Heroes,"hip hop, pop",2007
+S0723,song,I Wanna Love You,,,Akon,pop,2006
+S0724,song,Crank That (Soulja Boy),,,Soulja Boy,"hip hop, pop",2007
+S0725,song,Make It Rain,,,Fat Joe,"hip hop, pop",2006
+S0726,song,U + Ur Hand,,,P!nk,pop,2006
+S0727,song,Shut Up And Drive,,,Rihanna,"hip hop, pop, R&B",2008
+S0728,song,Get It Shawty,,,Lloyd,"hip hop, pop, R&B",2007
+S0729,song,Can't Tell Me Nothing,,,Kanye West,hip hop,2007
+S0730,song,The Creeps - Fedde Le Grand Radio Mix,,,Camille Jones,set(),2006
+S0731,song,What I've Done,,,Linkin Park,"rock, metal",2007
+S0732,song,Last Night,,,Keyshia Cole,"hip hop, pop, R&B",2007
+S0733,song,Kiss Kiss (feat. T-Pain),,,Chris Brown,"hip hop, pop, R&B",2007
+S0734,song,Party Like A Rock Star,,,Shop Boyz,"hip hop, pop",2007
+S0735,song,Paralyzer,,,Finger Eleven,"rock, metal",2007
+S0736,song,Summer Love,,,Justin Timberlake,pop,2006
+S0737,song,This Is Why I'm Hot,,,MiMS,"hip hop, pop",2007
+S0738,song,Make Me Better,,,Fabolous,"hip hop, pop, R&B",2007
+S0739,song,Fake It,,,Seether,"rock, metal",2007
+S0740,song,Patience,,,Take That,pop,2006
+S0741,song,Brianstorm,,,Arctic Monkeys,rock,2007
+S0742,song,My Love (feat. T.I.),,,Justin Timberlake,pop,2006
+S0743,song,Glamorous,,,Fergie,"pop, R&B",2006
+S0744,song,Bleed It Out,,,Linkin Park,"rock, metal",2007
+S0745,song,Teenagers,,,My Chemical Romance,rock,2006
+S0746,song,Acceptable in the 80's,,,Calvin Harris,"hip hop, pop, Dance/Electronic",2007
+S0747,song,About You Now,,,Sugababes,"pop, R&B",2007
+S0748,song,Girlfriend,,,Avril Lavigne,pop,2007
+S0749,song,Because Of You,,,Ne-Yo,"pop, R&B",2007
+S0750,song,It's Not Over,,,Daughtry,"pop, rock, metal",2016
+S0751,song,Walk It Out,,,Unk,"hip hop, pop",2013
+S0752,song,You,,,Lloyd,"hip hop, pop, R&B",2007
+S0753,song,Golden Skans,,,Klaxons,rock,2007
+S0754,song,Bartender (feat. Akon),,,T-Pain,"hip hop, pop, R&B",2007
+S0755,song,The Way I Live - Main Explicit,,,Baby Boy Da Prince,"hip hop, pop",2006
+S0756,song,Fergalicious,,,Fergie,"pop, R&B",2006
+S0757,song,Ice Box,,,Omarion,"hip hop, pop, R&B",2006
+S0758,song,On the Hotline - Amended Version,,,Pretty Ricky,"hip hop, pop, R&B",2007
+S0759,song,Rockstar,,,Nickelback,"rock, metal",2005
+S0760,song,Thnks fr th Mmrs,,,Fall Out Boy,rock,2007
+S0761,song,LoveStoned / I Think She Knows (Interlude),,,Justin Timberlake,pop,2006
+S0762,song,"Dear Maria, Count Me In",,,All Time Low,rock,2007
+S0763,song,Back To Black,,,Amy Winehouse,R&B,2006
+S0764,song,Let It Go,,,Keyshia Cole,"hip hop, pop, R&B",2007
+S0765,song,Promise,,,Ciara,"pop, R&B",2006
+S0766,song,Do You Know? (The Ping Pong Song),,,Enrique Iglesias,"pop, latin",2007
+S0767,song,Heartbroken - Edit,,,T2,Dance/Electronic,2017
+S0768,song,With Every Heartbeat,,,Robyn,"pop, Dance/Electronic",2005
+S0769,song,Makes Me Wonder,,,Maroon 5,pop,2007
+S0770,song,"This Ain't A Scene, It's An Arms Race",,,Fall Out Boy,rock,2007
+S0771,song,Misery Business,,,Paramore,"pop, rock",2007
+S0772,song,Better Than Me,,,Hinder,"pop, rock, metal",2019
+S0773,song,"Pop, Lock & Drop It - Video Edit",,,Huey,"hip hop, pop",2006
+S0774,song,The Pretender,,,Foo Fighters,"rock, metal",2007
+S0775,song,Shawty (feat. T Pain),,,Plies,"hip hop, pop, R&B",2007
+S0776,song,Ruby,,,Kaiser Chiefs,rock,2007
+S0777,song,Stop Me (feat. Daniel Merriweather),,,Mark Ronson,pop,2007
+S0778,song,Outta My System (feat. T-Pain & Johntá Austin),,,Bow Wow,"hip hop, pop, R&B",2006
+S0779,song,We Fly High,,,Jim Jones,"hip hop, pop",2006
+S0780,song,Face Down,,,The Red Jumpsuit Apparatus,pop,2006
+S0781,song,Grace Kelly,,,MIKA,pop,2006
+S0782,song,Candyman,,,Christina Aguilera,pop,2006
+S0783,song,Beautiful Girls,,,Sean Kingston,"hip hop, pop, R&B",2007
+S0784,song,Don't Matter,,,Akon,pop,2006
+S0785,song,1973,,,James Blunt,pop,2007
+S0786,song,Before He Cheats,,,Carrie Underwood,"pop, country",2005
+S0787,song,Starz In Their Eyes,,,Just Jack,Dance/Electronic,2006
+S0788,song,Buy U a Drank (Shawty Snappin') (feat. Yung Joc),,,T-Pain,"hip hop, pop, R&B",2007
+S0789,song,I Tried,,,Bone Thugs-N-Harmony,"hip hop, pop",2007
+S0790,song,When You're Gone,,,Avril Lavigne,pop,2007
+S0791,song,Throw Some D's,,,Rich Boy,"hip hop, pop",2007
+S0792,song,Love Today,,,MIKA,pop,2006
+S0793,song,Your Love Alone Is Not Enough (feat. Nina Persson),,,Manic Street Preachers,"rock, pop",2007
+S0794,song,Wait for You,,,Elliott Yamin,set(),2007
+S0795,song,"Sweetest Girl (Dollar Bill) (feat. Akon, Lil' Wayne & Niia)",,,Wyclef Jean,set(),2007
+S0796,song,The Great Escape,,,Boys Like Girls,pop,2007
+S0797,song,Rule The World - Radio Edit,,,Take That,pop,2007
+S0798,song,Bed,,,J. Holiday,"hip hop, pop, R&B, Dance/Electronic",2007
+S0799,song,Snow (Hey Oh),,,Red Hot Chili Peppers,rock,2006
+S0800,song,Runaway Love,,,Ludacris,"hip hop, pop",2006
+S0801,song,Low (feat. T-Pain),,,Flo Rida,"hip hop, pop",2008
+S0802,song,I Kissed A Girl,,,Katy Perry,pop,2008
+S0803,song,Take A Bow,,,Rihanna,"hip hop, pop, R&B",2008
+S0804,song,No One,,,Alicia Keys,"pop, R&B",2007
+S0805,song,Apologize,,,Timbaland,"hip hop, pop, R&B",2007
+S0806,song,Miss Independent,,,Ne-Yo,"pop, R&B",2008
+S0807,song,With You,,,Chris Brown,"hip hop, pop, R&B",2007
+S0808,song,If I Were a Boy,,,Beyoncé,"pop, R&B",2008
+S0809,song,Dangerous,,,Kardinal Offishall,"hip hop, pop, R&B",2008
+S0810,song,Beggin (original version),,,Madcon,"hip hop, pop",2007
+S0811,song,Cry for You,,,September,"pop, Dance/Electronic",2007
+S0812,song,Disturbia,,,Rihanna,"hip hop, pop, R&B",2008
+S0813,song,Infinity 2008,,,Guru Josh Project,hip hop,2011
+S0814,song,Break the Ice,,,Britney Spears,pop,2007
+S0815,song,Lollipop,,,Lil Wayne,"hip hop, pop",2008
+S0816,song,Now You're Gone - Video Edit,,,Basshunter,pop,2008
+S0817,song,Flashing Lights,,,Kanye West,hip hop,2007
+S0818,song,4 Minutes (feat. Justin Timberlake & Timbaland),,,Madonna,pop,2009
+S0819,song,Hot N Cold,,,Katy Perry,pop,2008
+S0820,song,Don't Stop The Music,,,Rihanna,"hip hop, pop, R&B",2008
+S0821,song,Sensual Seduction,,,Snoop Dogg,"hip hop, pop",2007
+S0822,song,Right Now (Na Na Na),,,Akon,pop,2008
+S0823,song,Womanizer,,,Britney Spears,pop,2008
+S0824,song,Pjanoo - Radio Edit,,,Eric Prydz,"pop, Dance/Electronic",2008
+S0825,song,Work,,,Kelly Rowland,"hip hop, pop, R&B",2010
+S0826,song,Put On,,,Jeezy,"hip hop, pop",2008
+S0827,song,Give It 2 Me,,,Madonna,pop,2008
+S0828,song,When I Grow Up,,,The Pussycat Dolls,"pop, R&B",2008
+S0829,song,Heartbreaker,,,will.i.am,"hip hop, pop",2007
+S0830,song,Crank That (Soulja Boy),,,Soulja Boy,"hip hop, pop",2007
+S0831,song,Piece of Me,,,Britney Spears,pop,2007
+S0832,song,Live Your Life,,,T.I.,"hip hop, pop",2008
+S0833,song,Closer,,,Ne-Yo,"pop, R&B",2008
+S0834,song,A Milli,,,Lil Wayne,"hip hop, pop",2008
+S0835,song,What You Got,,,Colby O'Donis,"hip hop, pop, R&B",2008
+S0836,song,See You Again,,,Miley Cyrus,pop,2007
+S0837,song,All I Ever Wanted - Radio Edit,,,Basshunter,pop,2008
+S0838,song,Kiss Kiss (feat. T-Pain),,,Chris Brown,"hip hop, pop, R&B",2007
+S0839,song,Paralyzer,,,Finger Eleven,"rock, metal",2007
+S0840,song,The Boy Does Nothing,,,Alesha Dixon,pop,2008
+S0841,song,Dance Wiv Me - Radio Edit,,,Dizzee Rascal,"hip hop, pop, Dance/Electronic",2011
+S0842,song,Sweet About Me,,,Gabriella Cilmi,R&B,2008
+S0843,song,Another Way to Die,,,Jack White,"rock, blues",2007
+S0844,song,Hypnotized (feat. Akon),,,Plies,"hip hop, pop, R&B",2007
+S0845,song,I Hate This Part,,,The Pussycat Dolls,"pop, R&B",2008
+S0846,song,Take You There,,,Sean Kingston,"hip hop, pop, R&B",2008
+S0847,song,Pocketful of Sunshine,,,Natasha Bedingfield,pop,2008
+S0848,song,"You're Gonna Go Far, Kid",,,The Offspring,"rock, pop, metal",2008
+S0849,song,Homecoming,,,Kanye West,hip hop,2007
+S0850,song,American Boy,,,Estelle,R&B,2008
+S0851,song,Addicted,,,Saving Abel,"rock, metal",2008
+S0852,song,Propane Nightmares,,,Pendulum,Dance/Electronic,2008
+S0853,song,My Life,,,The Game,"hip hop, pop",2008
+S0854,song,Damaged,,,Danity Kane,"pop, R&B",2008
+S0855,song,So What,,,P!nk,pop,2008
+S0856,song,Love Lockdown,,,Kanye West,hip hop,2008
+S0857,song,Cookie Jar (feat. The-Dream),,,Gym Class Heroes,"hip hop, pop",2008
+S0858,song,Paper Planes,,,M.I.A.,"pop, rock",2007
+S0859,song,It's Not My Time,,,3 Doors Down,"pop, rock, metal",2008
+S0860,song,Wow,,,Kylie Minogue,"pop, Dance/Electronic",2007
+S0861,song,Touch My Body,,,Mariah Carey,"pop, R&B",2008
+S0862,song,Kids,,,MGMT,rock,2007
+S0863,song,Shut Up and Let Me Go,,,The Ting Tings,"pop, rock, Dance/Electronic",2007
+S0864,song,Got Money,,,Lil Wayne,"hip hop, pop",2008
+S0865,song,Into the Night (feat. Chad Kroeger),,,Santana,"rock, blues, latin",2007
+S0866,song,I Luv Your Girl,,,The-Dream,"hip hop, pop, R&B",2007
+S0867,song,Wearing My Rolex - Radio Edit,,,Wiley,"hip hop, Dance/Electronic",2008
+S0868,song,Love in This Club (feat. Young Jeezy),,,Usher,"hip hop, pop, R&B",2008
+S0869,song,Black & Gold - Radio Edit,,,Sam Sparro,"pop, Dance/Electronic",2008
+S0870,song,What's It Gonna Be (feat. Platnum),,,"H ""two"" O",Dance/Electronic,2008
+S0871,song,That's Not My Name,,,The Ting Tings,"pop, rock, Dance/Electronic",2008
+S0872,song,"Bust It Baby, Pt. 2 (feat. Ne-Yo)",,,Plies,"hip hop, pop, R&B",2008
+S0873,song,Broken Strings,,,James Morrison,"pop, R&B",2008
+S0874,song,Run,,,Leona Lewis,"pop, R&B",2007
+S0875,song,Shake It,,,Metro Station,"pop, rock",2007
+S0876,song,Whatever You Like,,,T.I.,"hip hop, pop",2008
+S0877,song,Can't Help but Wait,,,Trey Songz,"hip hop, pop, R&B",2007
+S0878,song,Stop And Stare,,,OneRepublic,pop,2007
+S0879,song,Hallelujah,,,Alexandra Burke,pop,2009
+S0880,song,Just Fine,,,Mary J. Blige,"pop, R&B",2007
+S0881,song,One Step At a Time,,,Jordin Sparks,"pop, R&B",2007
+S0882,song,Viva La Vida,,,Coldplay,"rock, pop",2008
+S0883,song,Sex on Fire,,,Kings of Leon,rock,2008
+S0884,song,Good Life,,,Kanye West,hip hop,2007
+S0885,song,Mercy,,,Duffy,"pop, R&B",2008
+S0886,song,Crush,,,David Archuleta,pop,2008
+S0887,song,Suffocate - Superclean,,,J. Holiday,"hip hop, pop, R&B, Dance/Electronic",2007
+S0888,song,In Love With a Girl,,,Gavin DeGraw,"pop, Folk/Acoustic",2008
+S0889,song,Tattoo,,,Jordin Sparks,"pop, R&B",2007
+S0890,song,Violet Hill,,,Coldplay,"rock, pop",2008
+S0891,song,Sexy Can I feat. Yung Berg,,,Ray J,"hip hop, pop, R&B",2008
+S0892,song,Spotlight,,,Jennifer Hudson,"pop, R&B, easy listening",2008
+S0893,song,Green Light (feat. André 3000),,,John Legend,"pop, R&B",2008
+S0894,song,Burnin' Up,,,Jonas Brothers,pop,2008
+S0895,song,Superstar (feat. Matthew Santos),,,Lupe Fiasco,"hip hop, pop",2007
+S0896,song,Forever,,,Chris Brown,"hip hop, pop, R&B",2008
+S0897,song,Chasing Pavements,,,Adele,"pop, R&B",2008
+S0898,song,Better in Time,,,Leona Lewis,"pop, R&B",2007
+S0899,song,Clumsy,,,Fergie,"pop, R&B",2006
+S0900,song,Can't Believe It (feat. Lil' Wayne),,,T-Pain,"hip hop, pop, R&B",2008
+S0901,song,I Gotta Feeling,,,Black Eyed Peas,"hip hop, pop",2009
+S0902,song,Poker Face,,,Lady Gaga,pop,2008
+S0903,song,Halo,,,Beyoncé,"pop, R&B",2008
+S0904,song,Sexy Bitch (feat. Akon),,,David Guetta,"hip hop, pop, Dance/Electronic",2010
+S0905,song,Right Round,,,Flo Rida,"hip hop, pop",2009
+S0906,song,Love Story,,,Taylor Swift,pop,2008
+S0907,song,Hotel Room Service,,,Pitbull,"hip hop, pop, latin",2009
+S0908,song,Circus,,,Britney Spears,pop,2008
+S0909,song,LoveGame,,,Lady Gaga,pop,2008
+S0910,song,Monster,,,Skillet,"rock, pop, metal",2009
+S0911,song,Omen,,,The Prodigy,"rock, pop, Dance/Electronic",2009
+S0912,song,Meet Me Halfway,,,Black Eyed Peas,"hip hop, pop",2009
+S0913,song,Heartless,,,Kanye West,hip hop,2008
+S0914,song,Day 'N' Nite (Nightmare),,,Kid Cudi,hip hop,2009
+S0915,song,Just Dance,,,Lady Gaga,pop,2008
+S0916,song,If U Seek Amy,,,Britney Spears,pop,2008
+S0917,song,I Know You Want Me (Calle Ocho),,,Pitbull,"hip hop, pop, latin",2009
+S0918,song,Obsessed,,,Mariah Carey,"pop, R&B",2009
+S0919,song,Sweet Dreams,,,Beyoncé,"pop, R&B",2008
+S0920,song,Release Me,,,Agnes,"pop, Dance/Electronic",2009
+S0921,song,Boom Boom Pow,,,Black Eyed Peas,"hip hop, pop",2009
+S0922,song,She Wolf,,,Shakira,"pop, latin",2009
+S0923,song,Paparazzi,,,Lady Gaga,pop,2008
+S0924,song,Empire State Of Mind,,,JAY-Z,hip hop,2009
+S0925,song,All The Right Moves,,,OneRepublic,pop,2009
+S0926,song,Birthday Sex,,,Jeremih,"hip hop, pop, R&B",2009
+S0927,song,Evacuate The Dancefloor,,,Cascada,"hip hop, pop, Dance/Electronic",2009
+S0928,song,New Divide,,,Linkin Park,"rock, metal",2009
+S0929,song,Let It Rock,,,Kevin Rudolf,"hip hop, pop",2008
+S0930,song,Run This Town,,,JAY-Z,hip hop,2009
+S0931,song,Bad Romance,,,Lady Gaga,pop,2009
+S0932,song,Live Your Life,,,T.I.,"hip hop, pop",2008
+S0933,song,We Made You,,,Eminem,hip hop,2009
+S0934,song,Bonkers,,,Dizzee Rascal,"hip hop, pop, Dance/Electronic",2011
+S0935,song,Love Sex Magic (feat. Justin Timberlake),,,Ciara,"pop, R&B",2009
+S0936,song,Russian Roulette,,,Rihanna,"hip hop, pop, R&B",2009
+S0937,song,Turn My Swag On,,,Soulja Boy,"hip hop, pop",2008
+S0938,song,Intro,,,The xx,rock,2009
+S0939,song,Down,,,Jay Sean,"hip hop, pop, R&B",2009
+S0940,song,Turnin Me On - Original Dirty,,,Keri Hilson,"pop, R&B",2008
+S0941,song,When Love Takes Over (feat. Kelly Rowland),,,David Guetta,"hip hop, pop, Dance/Electronic",2010
+S0942,song,Fight For This Love,,,Cheryl,"pop, Dance/Electronic",2009
+S0943,song,Kiss Me Thru The Phone,,,Soulja Boy,"hip hop, pop",2008
+S0944,song,Crack A Bottle,,,Eminem,hip hop,2009
+S0945,song,Sober,,,P!nk,pop,2010
+S0946,song,Number 1,,,Tinchy Stryder,"pop, Dance/Electronic",2009
+S0947,song,"Mama Do (Uh Oh, Uh Oh)",,,Pixie Lott,"pop, Dance/Electronic",2009
+S0948,song,Beat Again - Radio Edit,,,JLS,pop,2009
+S0949,song,DONTTRUSTME,,,3OH!3,"hip hop, pop, rock",2008
+S0950,song,Jai Ho! (You Are My Destiny),,,A.R. Rahman,set(),2009
+S0951,song,I Hate This Part,,,The Pussycat Dolls,"pop, R&B",2008
+S0952,song,Beautiful,,,Akon,pop,2008
+S0953,song,Bad Boys (feat. Flo Rida),,,Alexandra Burke,pop,2009
+S0954,song,Break Up,,,Mario,"pop, R&B",2009
+S0955,song,Forever,,,Drake,"hip hop, pop, R&B",2009
+S0956,song,Naturally,,,Selena Gomez & The Scene,"pop, Dance/Electronic",2009
+S0957,song,Love Lockdown,,,Kanye West,hip hop,2008
+S0958,song,Untouched,,,The Veronicas,"pop, Dance/Electronic",2005
+S0959,song,Throw It In The Bag,,,Fabolous,"hip hop, pop, R&B",2009
+S0960,song,Whatcha Say,,,Jason Derulo,"hip hop, pop",2010
+S0961,song,Not Fair,,,Lily Allen,pop,2009
+S0962,song,Dead And Gone,,,T.I.,"hip hop, pop",2008
+S0963,song,Fire Burning,,,Sean Kingston,"hip hop, pop, R&B",2009
+S0964,song,Walking On A Dream,,,Empire of the Sun,"rock, pop, Dance/Electronic",2008
+S0965,song,Good Girls Go Bad (feat. Leighton Meester),,,Cobra Starship,"pop, Dance/Electronic",2009
+S0966,song,If Today Was Your Last Day,,,Nickelback,"rock, metal",2008
+S0967,song,Bulletproof,,,La Roux,"pop, Dance/Electronic",2009
+S0968,song,Fire,,,Kasabian,rock,2009
+S0969,song,I'm Not Alone - Radio Edit,,,Calvin Harris,"hip hop, pop, Dance/Electronic",2009
+S0970,song,One Time,,,Justin Bieber,pop,2009
+S0971,song,Blame It,,,Jamie Foxx,"hip hop, pop, R&B",2008
+S0972,song,In For The Kill,,,La Roux,"pop, Dance/Electronic",2009
+S0973,song,Uprising,,,Muse,rock,2009
+S0974,song,Gotta Be Somebody,,,Nickelback,"rock, metal",2008
+S0975,song,Broken Strings,,,James Morrison,"pop, R&B",2008
+S0976,song,Whatever You Like,,,T.I.,"hip hop, pop",2008
+S0977,song,Holiday,,,Dizzee Rascal,"hip hop, pop, Dance/Electronic",2011
+S0978,song,Single Ladies (Put a Ring on It),,,Beyoncé,"pop, R&B",2008
+S0979,song,Love Drunk,,,Boys Like Girls,pop,2009
+S0980,song,Rockin' That Shit,,,The-Dream,"hip hop, pop, R&B",2009
+S0981,song,Secrets,,,OneRepublic,pop,2009
+S0982,song,Everybody in Love,,,JLS,pop,2013
+S0983,song,Big Green Tractor,,,Jason Aldean,country,2009
+S0984,song,Never Say Never,,,The Fray,pop,2009
+S0985,song,The Fear,,,Lily Allen,pop,2009
+S0986,song,Sex on Fire,,,Kings of Leon,rock,2008
+S0987,song,Best I Ever Had,,,Drake,"hip hop, pop, R&B",2010
+S0988,song,Already Gone,,,Kelly Clarkson,"pop, R&B",2009
+S0989,song,Party In The U.S.A.,,,Miley Cyrus,pop,2009
+S0990,song,Battlefield,,,Jordin Sparks,"pop, R&B",2009
+S0991,song,Mad,,,Ne-Yo,"pop, R&B",2008
+S0992,song,21 Guns,,,Green Day,rock,2009
+S0993,song,Knock You Down,,,Keri Hilson,"pop, R&B",2009
+S0994,song,You Belong With Me,,,Taylor Swift,pop,2008
+S0995,song,Second Chance,,,Shinedown,"rock, metal",2008
+S0996,song,I Love College,,,Asher Roth,"hip hop, pop",2009
+S0997,song,Waking Up In Vegas,,,Katy Perry,pop,2008
+S0998,song,My Life Would Suck Without You,,,Kelly Clarkson,"pop, R&B",2009
+S0999,song,Little Lion Man,,,Mumford & Sons,"Folk/Acoustic, rock, pop",2009
+S1000,song,You Found Me,,,The Fray,pop,2009
+S1001,song,Just the Way You Are,,,Bruno Mars,pop,2010
+S1002,song,Love The Way You Lie,,,Eminem,hip hop,2010
+S1003,song,Bad Romance,,,Lady Gaga,pop,2009
+S1004,song,Alors on danse - Radio Edit,,,Stromae,pop,2010
+S1005,song,TiK ToK,,,Kesha,"pop, Dance/Electronic",2010
+S1006,song,Memories (feat. Kid Cudi),,,David Guetta,"hip hop, pop, Dance/Electronic",2010
+S1007,song,Dynamite,,,Taio Cruz,"hip hop, pop",2010
+S1008,song,Only Girl (In The World),,,Rihanna,"hip hop, pop, R&B",2010
+S1009,song,California Gurls,,,Katy Perry,pop,2012
+S1010,song,Take It Off,,,Kesha,"pop, Dance/Electronic",2010
+S1011,song,Hot - Play & Win Radio Version,,,INNA,pop,2010
+S1012,song,Like A G6,,,Far East Movement,"hip hop, pop",2010
+S1013,song,Gettin' Over You (feat. Fergie & LMFAO),,,David Guetta,"hip hop, pop, Dance/Electronic",2010
+S1014,song,Barbra Streisand - Radio Edit,,,Duck Sauce,Dance/Electronic,2010
+S1015,song,Danza Kuduro (feat. Don Omar),,,Lucenzo,latin,2011
+S1016,song,Te Amo,,,Rihanna,"hip hop, pop, R&B",2009
+S1017,song,Carry Out (Featuring Justin Timberlake),,,Timbaland,"hip hop, pop, R&B",2009
+S1018,song,Gold Dust - Radio Edit,,,DJ Fresh,"pop, Dance/Electronic",2010
+S1019,song,Stereo Love - Radio Edit,,,Edward Maya,pop,2010
+S1020,song,Break Your Heart,,,Taio Cruz,"hip hop, pop",2010
+S1021,song,Imma Be,,,Black Eyed Peas,"hip hop, pop",2009
+S1022,song,Riverside,,,Sidney Samson,Dance/Electronic,2009
+S1023,song,Not Afraid,,,Eminem,hip hop,2010
+S1024,song,Alejandro,,,Lady Gaga,pop,2009
+S1025,song,Rude Boy,,,Rihanna,"hip hop, pop, R&B",2009
+S1026,song,Beautiful Monster,,,Ne-Yo,"pop, R&B",2010
+S1027,song,Starstrukk,,,3OH!3,"hip hop, pop, rock",2010
+S1028,song,The Time (Dirty Bit),,,Black Eyed Peas,"hip hop, pop",2010
+S1029,song,Commander,,,Kelly Rowland,"hip hop, pop, R&B",2011
+S1030,song,One (Your Name) - Radio Edit,,,Swedish House Mafia,"pop, Dance/Electronic",2010
+S1031,song,Deuces (feat. Tyga & Kevin McCall),,,Chris Brown,"hip hop, pop, R&B",2011
+S1032,song,DJ Got Us Fallin' In Love (feat. Pitbull),,,Usher,"hip hop, pop, R&B",2010
+S1033,song,Replay,,,Iyaz,"hip hop, pop",2009
+S1034,song,Club Can't Handle Me (feat. David Guetta),,,Flo Rida,"hip hop, pop",2010
+S1035,song,Eenie Meenie,,,Sean Kingston,"hip hop, pop, R&B",2010
+S1036,song,No Hands (feat. Roscoe Dash & Wale),,,Waka Flocka Flame,"hip hop, pop",2010
+S1037,song,Written in the Stars (feat. Eric Turner),,,Tinie Tempah,"hip hop, pop, Dance/Electronic",2010
+S1038,song,Talking to the Moon,,,Bruno Mars,pop,2010
+S1039,song,Can't Be Tamed,,,Miley Cyrus,pop,2010
+S1040,song,Cooler Than Me - Single Mix,,,Mike Posner,"hip hop, pop, Dance/Electronic",2010
+S1041,song,Telephone,,,Lady Gaga,pop,2009
+S1042,song,We No Speak Americano (JT Radio Edit),,,Yolanda Be Cool,Dance/Electronic,2010
+S1043,song,Hard,,,Rihanna,"hip hop, pop, R&B",2009
+S1044,song,Pass Out,,,Tinie Tempah,"hip hop, pop, Dance/Electronic",2010
+S1045,song,Whataya Want from Me,,,Adam Lambert,pop,2009
+S1046,song,Bottoms Up (feat. Nicki Minaj),,,Trey Songz,"hip hop, pop, R&B",2010
+S1047,song,If We Ever Meet Again (Featuring Katy Perry),,,Timbaland,"hip hop, pop, R&B",2009
+S1048,song,I Like It,,,Enrique Iglesias,"pop, latin",2010
+S1049,song,Seek Bromance - Avicii’s Vocal Edit,,,Tim Berg,"pop, Dance/Electronic",2010
+S1050,song,OMG (feat. will.i.am),,,Usher,"hip hop, pop, R&B",2010
+S1051,song,Misery,,,Maroon 5,pop,2010
+S1052,song,Down,,,Jay Sean,"hip hop, pop, R&B",2009
+S1053,song,Man Down,,,Rihanna,"hip hop, pop, R&B",2010
+S1054,song,My First Kiss (feat. Ke$ha),,,3OH!3,"hip hop, pop, rock",2010
+S1055,song,Baby,,,Justin Bieber,pop,2010
+S1056,song,Teach Me How to Dougie,,,Cali Swag District,"hip hop, pop",2011
+S1057,song,Miami 2 Ibiza - Swedish House Mafia vs. Tinie Tempah,,,Swedish House Mafia,"pop, Dance/Electronic",2010
+S1058,song,Wavin' Flag,,,K'NAAN,set(),2009
+S1059,song,How Low,,,Ludacris,"hip hop, pop",2010
+S1060,song,Blah Blah Blah (feat. 3OH!3),,,Kesha,"pop, Dance/Electronic",2010
+S1061,song,"All I Do Is Win (feat. T-Pain, Ludacris, Snoop Dogg & Rick Ross)",,,DJ Khaled,"hip hop, pop",2010
+S1062,song,In My Head,,,Jason Derulo,"hip hop, pop",2010
+S1063,song,I Need A Dollar,,,Aloe Blacc,R&B,2010
+S1064,song,Airplanes (feat. Hayley Williams of Paramore),,,B.o.B,"hip hop, pop",2010
+S1065,song,My Chick Bad,,,Ludacris,"hip hop, pop",2010
+S1066,song,Just A Dream,,,Nelly,"hip hop, pop, R&B",2010
+S1067,song,What's My Name?,,,Rihanna,"hip hop, pop, R&B",2010
+S1068,song,Impossible,,,Shontelle,"pop, R&B",2010
+S1069,song,The Flood,,,Take That,pop,2010
+S1070,song,Say Aah (feat. Fabolous),,,Trey Songz,"hip hop, pop, R&B",2009
+S1071,song,Whatcha Say,,,Jason Derulo,"hip hop, pop",2010
+S1072,song,Over,,,Drake,"hip hop, pop, R&B",2010
+S1073,song,Kickstarts,,,Example,"pop, Dance/Electronic",2010
+S1074,song,She Said,,,Plan B,Dance/Electronic,2010
+S1075,song,Higher,,,The Saturdays,"pop, Dance/Electronic",2010
+S1076,song,Do You Remember,,,Jay Sean,"hip hop, pop, R&B",2009
+S1077,song,Hey Daddy (Daddy's Home),,,Usher,"hip hop, pop, R&B",2010
+S1078,song,Right Above It,,,Lil Wayne,"hip hop, pop",2010
+S1079,song,All Time Low,,,The Wanted,"pop, Dance/Electronic",2010
+S1080,song,Your Love Is My Drug,,,Kesha,"pop, Dance/Electronic",2010
+S1081,song,Starry Eyed,,,Ellie Goulding,"pop, rock, Dance/Electronic",2010
+S1082,song,Find Your Love,,,Drake,"hip hop, pop, R&B",2010
+S1083,song,Ridin' Solo,,,Jason Derulo,"hip hop, pop",2010
+S1084,song,What You Know,,,Two Door Cinema Club,"World/Traditional, rock, pop",2010
+S1085,song,Young Forever,,,JAY-Z,hip hop,2009
+S1086,song,BedRock,,,Young Money,"hip hop, pop",2009
+S1087,song,Nothin' on You (feat. Bruno Mars),,,B.o.B,"hip hop, pop",2010
+S1088,song,Teenage Dream,,,Katy Perry,pop,2010
+S1089,song,This Ain't a Love Song,,,Scouting For Girls,"pop, rock",2017
+S1090,song,Billionaire (feat. Bruno Mars),,,Travie McCoy,"hip hop, pop",2010
+S1091,song,Fireflies,,,Owl City,"rock, pop",2009
+S1092,song,Empire State of Mind (Part II) Broken Down,,,Alicia Keys,"pop, R&B",2009
+S1093,song,Need You Now,,,Lady A,"pop, country",2010
+S1094,song,Back To December,,,Taylor Swift,pop,2010
+S1095,song,Animal,,,Neon Trees,"rock, pop",2010
+S1096,song,Live Like We're Dying,,,Kris Allen,pop,2009
+S1097,song,When We Collide,,,Matt Cardle,pop,2011
+S1098,song,Dancing On My Own,,,Robyn,"pop, Dance/Electronic",2010
+S1099,song,If I Die Young,,,The Band Perry,country,2010
+S1100,song,Magic (feat. Rivers Cuomo),,,B.o.B,"hip hop, pop",2010
+S1101,song,Rolling in the Deep,,,Adele,"pop, R&B",2011
+S1102,song,"Moves Like Jagger - Studio Recording From ""The Voice"" Performance",,,Maroon 5,pop,2010
+S1103,song,Party Rock Anthem,,,LMFAO,"hip hop, pop, Dance/Electronic",2011
+S1104,song,Firework,,,Katy Perry,pop,2010
+S1105,song,Grenade,,,Bruno Mars,pop,2010
+S1106,song,Hey Baby (Drop It to the Floor) (feat. T-Pain),,,Pitbull,"hip hop, pop, latin",2011
+S1107,song,Mr. Saxobeat,,,Alexandra Stan,"pop, Dance/Electronic",2011
+S1108,song,Who's That Chick? (feat. Rihanna),,,David Guetta,"hip hop, pop, Dance/Electronic",2010
+S1109,song,On The Floor,,,Jennifer Lopez,"hip hop, pop, R&B",2011
+S1110,song,S&M,,,Rihanna,"hip hop, pop, R&B",2010
+S1111,song,Blow,,,Kesha,"pop, Dance/Electronic",2010
+S1112,song,Sweat - Remix,,,Snoop Dogg,"hip hop, pop",2011
+S1113,song,Higher,,,Taio Cruz,"hip hop, pop",2010
+S1114,song,More - RedOne Jimmy Joker Remix,,,Usher,"hip hop, pop, R&B",2010
+S1115,song,Changed the Way You Kiss Me - Radio Edit,,,Example,"pop, Dance/Electronic",2011
+S1116,song,Just Can’t Get Enough,,,Black Eyed Peas,"hip hop, pop",2010
+S1117,song,Where Them Girls At (feat. Nicki Minaj & Flo Rida),,,David Guetta,"hip hop, pop, Dance/Electronic",2012
+S1118,song,I Follow Rivers - The Magician Remix,,,Lykke Li,"pop, Dance/Electronic",2011
+S1119,song,"Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)",,,Pitbull,"hip hop, pop, latin",2011
+S1120,song,Love You Like A Love Song,,,Selena Gomez & The Scene,"pop, Dance/Electronic",2011
+S1121,song,Black and Yellow,,,Wiz Khalifa,"hip hop, pop",2011
+S1122,song,E.T.,,,Katy Perry,pop,2012
+S1123,song,I Wanna Go,,,Britney Spears,pop,2011
+S1124,song,Stereo Hearts (feat. Adam Levine),,,Gym Class Heroes,"hip hop, pop",2011
+S1125,song,Stereo Love - Radio Edit,,,Edward Maya,pop,2010
+S1126,song,Tonight (I'm Fuckin' You),,,Enrique Iglesias,"pop, latin",2010
+S1127,song,Down On Me,,,Jeremih,"hip hop, pop, R&B",2010
+S1128,song,Loca People - Radio Edit,,,Sak Noel,Dance/Electronic,2011
+S1129,song,Heart Skips a Beat (feat. Rizzle Kicks),,,Olly Murs,"pop, Dance/Electronic",2011
+S1130,song,Sexy And I Know It,,,LMFAO,"hip hop, pop, Dance/Electronic",2011
+S1131,song,You Make Me Feel... (feat. Sabi),,,Cobra Starship,"pop, Dance/Electronic",2011
+S1132,song,Do It Like A Dude,,,Jessie J,"hip hop, pop",2011
+S1133,song,Louder (feat. Sian Evans) - Radio Edit,,,DJ Fresh,"pop, Dance/Electronic",2012
+S1134,song,No Hands (feat. Roscoe Dash & Wale),,,Waka Flocka Flame,"hip hop, pop",2010
+S1135,song,When We Stand Together,,,Nickelback,"rock, metal",2011
+S1136,song,Midnight City,,,M83,"rock, pop, metal, Dance/Electronic",2011
+S1137,song,Till the World Ends,,,Britney Spears,pop,2011
+S1138,song,Earthquake (feat. Tinie Tempah),,,Labrinth,pop,2012
+S1139,song,Don't Wanna Go Home,,,Jason Derulo,"hip hop, pop",2011
+S1140,song,Paradise,,,Coldplay,"rock, pop",2011
+S1141,song,Last Friday Night (T.G.I.F.),,,Katy Perry,pop,2012
+S1142,song,Set Fire to the Rain,,,Adele,"pop, R&B",2011
+S1143,song,I Need A Doctor,,,Dr. Dre,hip hop,2011
+S1144,song,6 Foot 7 Foot,,,Lil Wayne,"hip hop, pop",2011
+S1145,song,I'm On One,,,DJ Khaled,"hip hop, pop",2011
+S1146,song,Look At Me Now (feat. Lil' Wayne & Busta Rhymes),,,Chris Brown,"hip hop, pop, R&B",2011
+S1147,song,Rocketeer,,,Far East Movement,"hip hop, pop",2010
+S1148,song,Glad You Came,,,The Wanted,"pop, Dance/Electronic",2011
+S1149,song,We R Who We R,,,Kesha,"pop, Dance/Electronic",2010
+S1150,song,Motivation,,,Kelly Rowland,"hip hop, pop, R&B",2011
+S1151,song,We Found Love,,,Rihanna,"hip hop, pop, R&B",2011
+S1152,song,Don't Hold Your Breath,,,Nicole Scherzinger,"pop, Dance/Electronic",2011
+S1153,song,Buzzin Remix,,,Mann,"hip hop, pop",2011
+S1154,song,Yeah 3x,,,Chris Brown,"hip hop, pop, R&B",2011
+S1155,song,Save The World,,,Swedish House Mafia,"pop, Dance/Electronic",2011
+S1156,song,All Of The Lights,,,Kanye West,hip hop,2010
+S1157,song,Sure Thing,,,Miguel,"pop, R&B",2010
+S1158,song,Coming Home,,,Diddy - Dirty Money,"hip hop, pop, R&B",2010
+S1159,song,What's My Name?,,,Rihanna,"hip hop, pop, R&B",2010
+S1160,song,Beautiful People,,,Chris Brown,"hip hop, pop, R&B",2019
+S1161,song,What the Hell,,,Avril Lavigne,pop,2011
+S1162,song,Read All About It,,,Professor Green,Dance/Electronic,2011
+S1163,song,Blind Faith,,,Chase & Status,Dance/Electronic,2011
+S1164,song,Champion (feat. Chris Brown),,,Chip,"hip hop, Dance/Electronic",2011
+S1165,song,Who Says,,,Selena Gomez & The Scene,"pop, Dance/Electronic",2011
+S1166,song,Down With The Trumpets,,,Rizzle Kicks,hip hop,2011
+S1167,song,Born This Way,,,Lady Gaga,pop,2011
+S1168,song,Super Bass,,,Nicki Minaj,"hip hop, pop",2010
+S1169,song,Donald Trump,,,Mac Miller,hip hop,2011
+S1170,song,Bounce (feat. Kelis) - Radio Edit,,,Calvin Harris,"hip hop, pop, Dance/Electronic",2012
+S1171,song,Without You (feat. Usher),,,David Guetta,"hip hop, pop, Dance/Electronic",2012
+S1172,song,Pumped Up Kicks,,,Foster The People,"rock, pop",2011
+S1173,song,Headlines,,,Drake,"hip hop, pop, R&B",2011
+S1174,song,Price Tag,,,Jessie J,"hip hop, pop",2011
+S1175,song,Dirt Road Anthem,,,Jason Aldean,country,2010
+S1176,song,Roll Up,,,Wiz Khalifa,"hip hop, pop",2011
+S1177,song,Good Life,,,OneRepublic,pop,2009
+S1178,song,Lighters,,,Bad Meets Evil,"hip hop, pop",2011
+S1179,song,The Lazy Song,,,Bruno Mars,pop,2010
+S1180,song,The Show Goes On,,,Lupe Fiasco,"hip hop, pop",2011
+S1181,song,I Won't Let You Go,,,James Morrison,"pop, R&B",2011
+S1182,song,It Girl,,,Jason Derulo,"hip hop, pop",2011
+S1183,song,Someone Like You,,,Adele,"pop, R&B",2011
+S1184,song,The Adventures of Rain Dance Maggie,,,Red Hot Chili Peppers,rock,2011
+S1185,song,Pretty Girl Rock,,,Keri Hilson,"pop, R&B",2010
+S1186,song,F**kin' Perfect,,,P!nk,pop,2010
+S1187,song,Honey Bee,,,Blake Shelton,country,2011
+S1188,song,The Edge Of Glory,,,Lady Gaga,pop,2011
+S1189,song,Just A Kiss,,,Lady A,"pop, country",2011
+S1190,song,Tonight Tonight,,,Hot Chelle Rae,"hip hop, pop, rock",2011
+S1191,song,Tongue Tied,,,Grouplove,"pop, rock, Folk/Acoustic",2011
+S1192,song,Every Teardrop Is a Waterfall,,,Coldplay,"rock, pop",2011
+S1193,song,Best Thing I Never Had,,,Beyoncé,"pop, R&B",2011
+S1194,song,Raise Your Glass,,,P!nk,pop,2010
+S1195,song,Jar of Hearts,,,Christina Perri,pop,2011
+S1196,song,Marry You,,,Bruno Mars,pop,2010
+S1197,song,If I Die Young,,,The Band Perry,country,2010
+S1198,song,How To Love,,,Lil Wayne,"hip hop, pop",2011
+S1199,song,Wherever You Will Go,,,Charlene Soraia,pop,2011
+S1200,song,A Thousand Years,,,Christina Perri,pop,2011
+S1201,song,We Found Love,,,Rihanna,"hip hop, pop, R&B",2011
+S1202,song,Call Me Maybe,,,Carly Rae Jepsen,"pop, Dance/Electronic",2012
+S1203,song,We Are Young (feat. Janelle Monáe),,,fun.,"rock, pop",2012
+S1204,song,She Doesn't Mind,,,Sean Paul,"hip hop, pop",2012
+S1205,song,International Love (feat. Chris Brown),,,Pitbull,"hip hop, pop, latin",2011
+S1206,song,In The Dark,,,DEV,"pop, Dance/Electronic",2012
+S1207,song,Skyfall,,,Adele,"pop, R&B",2012
+S1208,song,Turn Me On (feat. Nicki Minaj),,,David Guetta,"hip hop, pop, Dance/Electronic",2012
+S1209,song,Where Have You Been,,,Rihanna,"hip hop, pop, R&B",2011
+S1210,song,Ni**as In Paris,,,JAY-Z,hip hop,2011
+S1211,song,One More Night,,,Maroon 5,pop,2012
+S1212,song,Bangarang (feat. Sirah),,,Skrillex,"hip hop, pop, Dance/Electronic",2011
+S1213,song,Chasing The Sun,,,The Wanted,"pop, Dance/Electronic",2012
+S1214,song,Whistle,,,Flo Rida,"hip hop, pop",2012
+S1215,song,This Is Love,,,will.i.am,"hip hop, pop",2013
+S1216,song,She Wolf (Falling to Pieces) [feat. Sia],,,David Guetta,"hip hop, pop, Dance/Electronic",2012
+S1217,song,Pound The Alarm,,,Nicki Minaj,"hip hop, pop",2012
+S1218,song,Swimming Pools (Drank) - Extended Version,,,Kendrick Lamar,hip hop,2012
+S1219,song,Primadonna,,,MARINA,"pop, Dance/Electronic",2012
+S1220,song,Mercy,,,Kanye West,hip hop,2012
+S1221,song,Hot Right Now (feat. RITA ORA) - Radio Edit,,,DJ Fresh,"pop, Dance/Electronic",2012
+S1222,song,Sexy And I Know It,,,LMFAO,"hip hop, pop, Dance/Electronic",2011
+S1223,song,Gangnam Style (강남스타일),,,PSY,pop,2012
+S1224,song,Die Young,,,Kesha,"pop, Dance/Electronic",2012
+S1225,song,Scream,,,Usher,"hip hop, pop, R&B",2012
+S1226,song,Troublemaker (feat. Flo Rida),,,Olly Murs,"pop, Dance/Electronic",2012
+S1227,song,BURN IT DOWN,,,Linkin Park,"rock, metal",2012
+S1228,song,Locked out of Heaven,,,Bruno Mars,pop,2012
+S1229,song,Levels - Radio Edit,,,Avicii,"pop, Dance/Electronic",2011
+S1230,song,Good Feeling,,,Flo Rida,"hip hop, pop",2012
+S1231,song,Diamonds,,,Rihanna,"hip hop, pop, R&B",2012
+S1232,song,"Work Hard, Play Hard",,,Wiz Khalifa,"hip hop, pop",2012
+S1233,song,Part Of Me,,,Katy Perry,pop,2012
+S1234,song,Starships,,,Nicki Minaj,"hip hop, pop",2012
+S1235,song,m.A.A.d city,,,Kendrick Lamar,hip hop,2012
+S1236,song,One Day / Reckoning Song (Wankelmut Remix) [Radio Edit],,,Asaf Avidan & the Mojos,pop,2012
+S1237,song,Spectrum (Say My Name) - Calvin Harris Remix,,,Florence + The Machine,"rock, pop, Dance/Electronic",2011
+S1238,song,212,,,Azealia Banks,"hip hop, pop, R&B",2014
+S1239,song,Payphone,,,Maroon 5,pop,2012
+S1240,song,Impossible,,,James Arthur,pop,2013
+S1241,song,Ai Se Eu Te Pego - Live,,,Michel Teló,"country, latin",2012
+S1242,song,Million Voices - Radio Edit,,,Otto Knows,"pop, Dance/Electronic",2012
+S1243,song,I Love It,,,Icona Pop,"pop, Dance/Electronic",2012
+S1244,song,Rack City,,,Tyga,"hip hop, pop",2012
+S1245,song,Feel So Close - Radio Edit,,,Calvin Harris,"hip hop, pop, Dance/Electronic",2012
+S1246,song,Dance Again,,,Jennifer Lopez,"hip hop, pop, R&B",2012
+S1247,song,Oblivion,,,Grimes,"pop, rock, Dance/Electronic",2012
+S1248,song,Rumour Has It,,,Adele,"pop, R&B",2011
+S1249,song,Paradise,,,Coldplay,"rock, pop",2011
+S1250,song,Turn Up the Music,,,Chris Brown,"hip hop, pop, R&B",2012
+S1251,song,Lost,,,Frank Ocean,"hip hop, pop, R&B",2012
+S1252,song,Let's Go (feat. Ne-Yo),,,Calvin Harris,"hip hop, pop, Dance/Electronic",2012
+S1253,song,Hall of Fame (feat. will.i.am),,,The Script,"pop, rock",2012
+S1254,song,Don't You Worry Child - Radio Edit,,,Swedish House Mafia,"pop, Dance/Electronic",2012
+S1255,song,How to Be a Heartbreaker,,,MARINA,"pop, Dance/Electronic",2012
+S1256,song,Boyfriend,,,Justin Bieber,pop,2012
+S1257,song,Titanium (feat. Sia),,,David Guetta,"hip hop, pop, Dance/Electronic",2012
+S1258,song,Domino,,,Jessie J,"hip hop, pop",2011
+S1259,song,I Knew You Were Trouble.,,,Taylor Swift,pop,2012
+S1260,song,Hands on the Wheel (feat. Asap Rocky),,,ScHoolboy Q,"hip hop, pop",2012
+S1261,song,Try,,,P!nk,pop,2012
+S1262,song,Candy,,,Robbie Williams,"pop, rock",2012
+S1263,song,"Young, Wild & Free (feat. Bruno Mars)",,,Snoop Dogg,"hip hop, pop",2011
+S1264,song,As Long As You Love Me,,,Justin Bieber,pop,2012
+S1265,song,R.I.P. (feat. Tinie Tempah),,,Rita Ora,"hip hop, pop, Dance/Electronic",2012
+S1266,song,Too Close,,,Alex Clare,rock,2011
+S1267,song,Faded,,,Tyga,"hip hop, pop",2012
+S1268,song,Years - ラジオ・エディット,,,Alesso,"pop, Dance/Electronic",2012
+S1269,song,Battle Scars (feat. Lupe Fiasco),,,Guy Sebastian,pop,2012
+S1270,song,The One That Got Away,,,Katy Perry,pop,2012
+S1271,song,Silhouettes - Original Radio Edit,,,Avicii,"pop, Dance/Electronic",2012
+S1272,song,Somebody That I Used To Know,,,Gotye,set(),2011
+S1273,song,Wild Ones (feat. Sia),,,Flo Rida,"hip hop, pop",2012
+S1274,song,What Makes You Beautiful,,,One Direction,pop,2012
+S1275,song,Born To Die,,,Lana Del Rey,pop,2012
+S1276,song,C'Mon,,,Kesha,"pop, Dance/Electronic",2012
+S1277,song,Good Time,,,Owl City,"rock, pop",2012
+S1278,song,We'll Be Coming Back (feat. Example),,,Calvin Harris,"hip hop, pop, Dance/Electronic",2012
+S1279,song,"Read All About It, Pt. III",,,Emeli Sandé,"pop, R&B",2012
+S1280,song,Lights - Single Version,,,Ellie Goulding,"pop, rock, Dance/Electronic",2010
+S1281,song,Drive By,,,Train,pop,2012
+S1282,song,Latch,,,Disclosure,"pop, Dance/Electronic",2013
+S1283,song,Princess of China,,,Coldplay,"rock, pop",2011
+S1284,song,Live While We're Young,,,One Direction,pop,2012
+S1285,song,Ass Back Home (feat. Neon Hitch),,,Gym Class Heroes,"hip hop, pop",2011
+S1286,song,Blown Away,,,Carrie Underwood,"pop, country",2012
+S1287,song,Breezeblocks,,,alt-J,rock,2012
+S1288,song,Don't Wake Me Up,,,Chris Brown,"hip hop, pop, R&B",2012
+S1289,song,Stronger (What Doesn't Kill You),,,Kelly Clarkson,"pop, R&B",2011
+S1290,song,The Motto,,,Drake,"hip hop, pop, R&B",2011
+S1291,song,Wide Awake,,,Katy Perry,pop,2012
+S1292,song,How We Do (Party),,,Rita Ora,"hip hop, pop, Dance/Electronic",2012
+S1293,song,Feel the Love (feat. John Newman),,,Rudimental,"pop, Dance/Electronic",2013
+S1294,song,Ride,,,Lana Del Rey,pop,2012
+S1295,song,Let Me Love You (Until You Learn To Love Yourself),,,Ne-Yo,"pop, R&B",2012
+S1296,song,Give Your Heart a Break,,,Demi Lovato,pop,2011
+S1297,song,Take Care,,,Drake,"hip hop, pop, R&B",2011
+S1298,song,Wings,,,Little Mix,pop,2012
+S1299,song,It Will Rain,,,Bruno Mars,pop,2011
+S1300,song,Want U Back,,,Cher Lloyd,"pop, Dance/Electronic",2011
+S1301,song,Royals,,,Lorde,"pop, Dance/Electronic",2013
+S1302,song,Blurred Lines,,,Robin Thicke,"pop, R&B",2013
+S1303,song,Radioactive,,,Imagine Dragons,rock,2012
+S1304,song,Wake Me Up,,,Avicii,"pop, Dance/Electronic",2013
+S1305,song,Locked out of Heaven,,,Bruno Mars,pop,2012
+S1306,song,Thrift Shop (feat. Wanz),,,Macklemore & Ryan Lewis,"hip hop, pop",2012
+S1307,song,Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit,,,Daft Punk,"hip hop, Dance/Electronic",2013
+S1308,song,Scream & Shout,,,will.i.am,"hip hop, pop",2013
+S1309,song,Papaoutai,,,Stromae,pop,2013
+S1310,song,Get Up (Rattle) - Vocal Edit,,,Bingo Players,"pop, Dance/Electronic",2013
+S1311,song,La La La,,,Naughty Boy,Dance/Electronic,2013
+S1312,song,Another Love,,,Tom Odell,pop,2013
+S1313,song,We Own It (Fast & Furious),,,2 Chainz,"hip hop, pop",2013
+S1314,song,Play Hard (feat. Ne-Yo & Akon),,,David Guetta,"hip hop, pop, Dance/Electronic",2012
+S1315,song,Feel This Moment (feat. Christina Aguilera),,,Pitbull,"hip hop, pop, latin",2012
+S1316,song,#thatPOWER,,,will.i.am,"hip hop, pop",2013
+S1317,song,Love Me,,,Lil Wayne,"hip hop, pop",2013
+S1318,song,Can't Hold Us (feat. Ray Dalton),,,Macklemore & Ryan Lewis,"hip hop, pop",2012
+S1319,song,Animals - Radio Edit,,,Martin Garrix,"pop, Dance/Electronic",2013
+S1320,song,Talk Dirty (feat. 2 Chainz),,,Jason Derulo,"hip hop, pop",2013
+S1321,song,Love Me Again,,,John Newman,set(),2013
+S1322,song,Work B**ch,,,Britney Spears,pop,2013
+S1323,song,Sweater Weather,,,The Neighbourhood,"rock, pop",2013
+S1324,song,Reload - Radio Edit,,,Sebastian Ingrosso,"pop, Dance/Electronic",2013
+S1325,song,Safe And Sound,,,Capital Cities,pop,2013
+S1326,song,Heart Attack,,,Demi Lovato,pop,2013
+S1327,song,Why'd You Only Call Me When You're High?,,,Arctic Monkeys,rock,2013
+S1328,song,Beauty And A Beat,,,Justin Bieber,pop,2012
+S1329,song,The Monster,,,Eminem,hip hop,2013
+S1330,song,Don't Stop the Party (feat. TJR),,,Pitbull,"hip hop, pop, latin",2012
+S1331,song,Come & Get It,,,Selena Gomez,pop,2013
+S1332,song,True Love (feat. Lily Allen),,,P!nk,pop,2012
+S1333,song,White Noise,,,Disclosure,"pop, Dance/Electronic",2013
+S1334,song,I Cry,,,Flo Rida,"hip hop, pop",2012
+S1335,song,Black Skinhead,,,Kanye West,hip hop,2013
+S1336,song,Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix,,,Lana Del Rey,pop,2013
+S1337,song,Berzerk,,,Eminem,hip hop,2013
+S1338,song,I Love It (feat. Charli XCX),,,Icona Pop,"pop, Dance/Electronic",2013
+S1339,song,My Songs Know What You Did In The Dark (Light Em Up),,,Fall Out Boy,rock,2013
+S1340,song,Team,,,Lorde,"pop, Dance/Electronic",2013
+S1341,song,I Could Be The One (Avicii Vs. Nicky Romero) - Radio Edit,,,Avicii,"pop, Dance/Electronic",2012
+S1342,song,Demons,,,Imagine Dragons,rock,2012
+S1343,song,One Way or Another (Teenage Kicks),,,One Direction,pop,2013
+S1344,song,I Knew You Were Trouble.,,,Taylor Swift,pop,2012
+S1345,song,Do I Wanna Know?,,,Arctic Monkeys,rock,2013
+S1346,song,Waiting All Night (feat. Ella Eyre),,,Rudimental,"pop, Dance/Electronic",2013
+S1347,song,Sonnentanz - Sun Don't Shine,,,Klangkarussell,"pop, Dance/Electronic",2014
+S1348,song,Drinking from the Bottle (feat. Tinie Tempah),,,Calvin Harris,"hip hop, pop, Dance/Electronic",2012
+S1349,song,"F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)",,,A$AP Rocky,hip hop,2013
+S1350,song,Try,,,P!nk,pop,2012
+S1351,song,The Fox (What Does the Fox Say?),,,Ylvis,hip hop,2013
+S1352,song,Burn,,,Ellie Goulding,"pop, rock, Dance/Electronic",2014
+S1353,song,Harlem Shake,,,Baauer,Dance/Electronic,2013
+S1354,song,I Need Your Love (feat. Ellie Goulding),,,Calvin Harris,"hip hop, pop, Dance/Electronic",2012
+S1355,song,This Is How We Do,,,Katy Perry,pop,2013
+S1356,song,Sail,,,AWOLNATION,"pop, rock",2011
+S1357,song,Need U (100%) [feat. A*M*E] - Radio Edit,,,Duke Dumont,"pop, Dance/Electronic",2013
+S1358,song,The Other Side,,,Jason Derulo,"hip hop, pop",2013
+S1359,song,Look Right Through - MK Vocal Edit,,,Storm Queen,Dance/Electronic,2014
+S1360,song,Sweet Nothing (feat. Florence Welch),,,Calvin Harris,"hip hop, pop, Dance/Electronic",2012
+S1361,song,Unconditionally,,,Katy Perry,pop,2013
+S1362,song,Bad (feat. Rihanna) - Remix,,,Wale,"hip hop, pop, R&B",2013
+S1363,song,Body Party,,,Ciara,"pop, R&B",2013
+S1364,song,Started From the Bottom,,,Drake,"hip hop, pop, R&B",2013
+S1365,song,Wings,,,Birdy,pop,2013
+S1366,song,Of The Night,,,Bastille,"pop, rock",2013
+S1367,song,Dear Darlin',,,Olly Murs,"pop, Dance/Electronic",2012
+S1368,song,Roar,,,Katy Perry,pop,2013
+S1369,song,Sure Be Cool If You Did,,,Blake Shelton,country,2013
+S1370,song,Thinking About You (feat. Ayah Marar),,,Calvin Harris,"hip hop, pop, Dance/Electronic",2012
+S1371,song,Holy Grail,,,JAY-Z,hip hop,2013
+S1372,song,Ready or Not,,,Bridgit Mendler,pop,2012
+S1373,song,What About Us,,,The Saturdays,"pop, Dance/Electronic",2013
+S1374,song,Pompeii,,,Bastille,"pop, rock",2013
+S1375,song,Best Song Ever,,,One Direction,pop,2013
+S1376,song,Hey Porsche,,,Nelly,"hip hop, pop, R&B",2013
+S1377,song,Clarity,,,Zedd,"hip hop, pop, Dance/Electronic",2012
+S1378,song,Wrecking Ball,,,Miley Cyrus,pop,2013
+S1379,song,Fine China,,,Chris Brown,"hip hop, pop, R&B",2013
+S1380,song,Lose Yourself to Dance (feat. Pharrell Williams),,,Daft Punk,"hip hop, Dance/Electronic",2013
+S1381,song,This Is What It Feels Like,,,Armin van Buuren,"pop, Dance/Electronic",2013
+S1382,song,Mirrors,,,Justin Timberlake,pop,2013
+S1383,song,Treasure,,,Bruno Mars,pop,2012
+S1384,song,Little Talks,,,Of Monsters and Men,"pop, rock, Folk/Acoustic",2012
+S1385,song,We Can't Stop,,,Miley Cyrus,pop,2013
+S1386,song,Power Trip (feat. Miguel),,,J. Cole,hip hop,2013
+S1387,song,Still into You,,,Paramore,"pop, rock",2013
+S1388,song,human,,,Christina Perri,pop,2013
+S1389,song,"Hold On, We're Going Home",,,Drake,"hip hop, pop, R&B",2013
+S1390,song,Bonfire Heart,,,James Blunt,pop,2013
+S1391,song,Daylight,,,Maroon 5,pop,2012
+S1392,song,3005,,,Childish Gambino,hip hop,2013
+S1393,song,Here's to Never Growing Up,,,Avril Lavigne,pop,2013
+S1394,song,22,,,Taylor Swift,pop,2012
+S1395,song,Let Her Go,,,Passenger,pop,2012
+S1396,song,The Way,,,Ariana Grande,pop,2013
+S1397,song,Stay,,,Rihanna,"hip hop, pop, R&B",2012
+S1398,song,Suit & Tie (feat. Jay-Z),,,Justin Timberlake,pop,2013
+S1399,song,When I Was Your Man,,,Bruno Mars,pop,2012
+S1400,song,Cruise,,,Florida Georgia Line,country,2012
+S1401,song,"Happy - From ""Despicable Me 2""",,,Pharrell Williams,"hip hop, pop",2014
+S1402,song,Dark Horse,,,Katy Perry,pop,2013
+S1403,song,Collard Greens,,,ScHoolboy Q,"hip hop, pop",2014
+S1404,song,Fancy,,,Iggy Azalea,"hip hop, pop",2014
+S1405,song,Animals,,,Maroon 5,pop,2014
+S1406,song,Stay With Me,,,Sam Smith,pop,2014
+S1407,song,Rude,,,MAGIC!,set(),2014
+S1408,song,Chandelier,,,Sia,pop,2014
+S1409,song,All of Me,,,John Legend,"pop, R&B",2013
+S1410,song,Faded,,,ZHU,Dance/Electronic,2014
+S1411,song,All About That Bass,,,Meghan Trainor,pop,2015
+S1412,song,Lovers on the Sun (feat. Sam Martin),,,David Guetta,"hip hop, pop, Dance/Electronic",2014
+S1413,song,Black Widow,,,Iggy Azalea,"hip hop, pop",2014
+S1414,song,Habits (Stay High),,,Tove Lo,"pop, Dance/Electronic",2014
+S1415,song,Gecko (Overdrive) - Radio Edit,,,Oliver Heldens,"pop, Dance/Electronic",2014
+S1416,song,You Know You Like It,,,DJ Snake,"hip hop, pop, Dance/Electronic",2014
+S1417,song,Talk Dirty (feat. 2 Chainz),,,Jason Derulo,"hip hop, pop",2013
+S1418,song,Maps,,,Maroon 5,pop,2014
+S1419,song,Bad (feat. Vassy) - Radio Edit,,,David Guetta,"hip hop, pop, Dance/Electronic",2014
+S1420,song,2 On (feat. ScHoolboy Q),,,Tinashe,"hip hop, pop, R&B, Dance/Electronic",2014
+S1421,song,My Love (feat. Jess Glynne),,,Route 94,"pop, Dance/Electronic",2014
+S1422,song,Bad Blood,,,Taylor Swift,pop,2014
+S1423,song,Na Na,,,Trey Songz,"hip hop, pop, R&B",2015
+S1424,song,Under Control (feat. Hurts),,,Calvin Harris,"hip hop, pop, Dance/Electronic",2014
+S1425,song,CoCo,,,O.T. Genasis,"hip hop, pop",2014
+S1426,song,Wiggle (feat. Snoop Dogg),,,Jason Derulo,"hip hop, pop",2013
+S1427,song,Prayer in C - Robin Schulz Radio Edit,,,Lilly Wood and The Prick,"pop, rock",2014
+S1428,song,Don't Tell 'Em,,,Jeremih,"hip hop, pop, R&B",2015
+S1429,song,Anaconda,,,Nicki Minaj,"hip hop, pop",2014
+S1430,song,Blame (feat. John Newman),,,Calvin Harris,"hip hop, pop, Dance/Electronic",2014
+S1431,song,Turn Down for What,,,DJ Snake,"hip hop, pop, Dance/Electronic",2013
+S1432,song,Timber (feat. Ke$ha),,,Pitbull,"hip hop, pop, latin",2012
+S1433,song,Counting Stars,,,OneRepublic,pop,2014
+S1434,song,Hot N*gga,,,Bobby Shmurda,"hip hop, pop",2014
+S1435,song,Summer,,,Calvin Harris,"hip hop, pop, Dance/Electronic",2014
+S1436,song,Man Of The Year,,,ScHoolboy Q,"hip hop, pop",2014
+S1437,song,Am I Wrong,,,Nico & Vinz,"hip hop, pop",2014
+S1438,song,Shower,,,Becky G,"pop, latin",2014
+S1439,song,Nobody To Love - Radio Edit,,,Sigma,"pop, Dance/Electronic",2014
+S1440,song,#SELFIE - Original Mix,,,The Chainsmokers,"pop, Dance/Electronic",2014
+S1441,song,Team,,,Lorde,"pop, Dance/Electronic",2013
+S1442,song,Me And My Broken Heart,,,Rixton,pop,2014
+S1443,song,Jubel - Radio Edit,,,Klingande,"pop, Dance/Electronic",2013
+S1444,song,Waves - Robin Schulz Radio Edit,,,Mr. Probz,"hip hop, Dance/Electronic",2014
+S1445,song,Only Love Can Hurt Like This,,,Paloma Faith,"pop, R&B, Dance/Electronic",2014
+S1446,song,Hideaway,,,Kiesza,"pop, Dance/Electronic",2014
+S1447,song,Burn,,,Ellie Goulding,"pop, rock, Dance/Electronic",2014
+S1448,song,Break Free,,,Ariana Grande,pop,2014
+S1449,song,Show Me (feat. Chris Brown),,,Kid Ink,"hip hop, pop",2014
+S1450,song,Talking Body,,,Tove Lo,"pop, Dance/Electronic",2014
+S1451,song,Loyal (feat. Lil Wayne & Tyga),,,Chris Brown,"hip hop, pop, R&B",2014
+S1452,song,Love Runs Out,,,OneRepublic,pop,2014
+S1453,song,Up (feat. Demi Lovato),,,Olly Murs,"pop, Dance/Electronic",2014
+S1454,song,High (feat. Nicole Millar),,,Peking Duk,Dance/Electronic,2014
+S1455,song,Stolen Dance,,,Milky Chance,set(),2014
+S1456,song,Don't,,,Ed Sheeran,pop,2014
+S1457,song,Love Me Harder,,,Ariana Grande,pop,2014
+S1458,song,Bailando - Spanish Version,,,Enrique Iglesias,"pop, latin",2014
+S1459,song,Hey Brother,,,Avicii,"pop, Dance/Electronic",2013
+S1460,song,Bang Bang,,,Jessie J,"hip hop, pop",2014
+S1461,song,I Got U,,,Duke Dumont,"pop, Dance/Electronic",2014
+S1462,song,Ready For Your Love,,,Gorgon City,"pop, Dance/Electronic",2014
+S1463,song,Style,,,Taylor Swift,pop,2014
+S1464,song,Classic,,,MKTO,"hip hop, pop",2012
+S1465,song,Latch,,,Disclosure,"pop, Dance/Electronic",2013
+S1466,song,Problem,,,Ariana Grande,pop,2014
+S1467,song,Boom Clap,,,Charli XCX,"pop, Dance/Electronic",2014
+S1468,song,Steal My Girl,,,One Direction,pop,2014
+S1469,song,Red Lights,,,Tiësto,"pop, Dance/Electronic",2013
+S1470,song,The Heart Wants What It Wants,,,Selena Gomez,pop,2014
+S1471,song,I Will Never Let You Down,,,Rita Ora,"hip hop, pop, Dance/Electronic",2014
+S1472,song,She Looks So Perfect,,,5 Seconds of Summer,pop,2014
+S1473,song,Superheroes,,,The Script,"pop, rock",2014
+S1474,song,Shake It Off,,,Taylor Swift,pop,2014
+S1475,song,Night Changes,,,One Direction,pop,2014
+S1476,song,Sing,,,Ed Sheeran,pop,2014
+S1477,song,Heroes (we could be),,,Alesso,"pop, Dance/Electronic",2014
+S1478,song,Wasted,,,Tiësto,"pop, Dance/Electronic",2014
+S1479,song,Ugly Heart,,,G.R.L.,pop,2014
+S1480,song,A Sky Full of Stars,,,Coldplay,"rock, pop",2014
+S1481,song,Rather Be (feat. Jess Glynne),,,Clean Bandit,"pop, Dance/Electronic",2014
+S1482,song,Stay The Night - Featuring Hayley Williams Of Paramore,,,Zedd,"hip hop, pop, Dance/Electronic",2014
+S1483,song,Elastic Heart,,,Sia,pop,2014
+S1484,song,Story of My Life,,,One Direction,pop,2013
+S1485,song,Little Do You Know,,,Alex & Sierra,pop,2014
+S1486,song,Post to Be (feat. Chris Brown & Jhene Aiko),,,Omarion,"hip hop, pop, R&B",2014
+S1487,song,Cool Kids,,,Echosmith,pop,2013
+S1488,song,Somebody,,,Natalie La Rose,set(),2014
+S1489,song,Riptide,,,Vance Joy,"rock, pop",2014
+S1490,song,Drunk in Love (feat. Jay-Z),,,Beyoncé,"pop, R&B",2014
+S1491,song,Sugar,,,Maroon 5,pop,2014
+S1492,song,Ghost,,,Ella Henderson,"pop, Dance/Electronic",2014
+S1493,song,"I See Fire - From ""The Hobbit - The Desolation Of Smaug""",,,Ed Sheeran,pop,2013
+S1494,song,New Flame (feat. Usher & Rick Ross),,,Chris Brown,"hip hop, pop, R&B",2014
+S1495,song,Geronimo,,,Sheppard,"pop, rock, Dance/Electronic",2014
+S1496,song,Wrapped Up (feat. Travie McCoy),,,Olly Murs,"pop, Dance/Electronic",2014
+S1497,song,Money On My Mind,,,Sam Smith,pop,2014
+S1498,song,Trumpets,,,Jason Derulo,"hip hop, pop",2013
+S1499,song,Bed Of Lies,,,Nicki Minaj,"hip hop, pop",2014
+S1500,song,Jealous - Remix,,,Nick Jonas,pop,2014
+S1501,song,Uptown Funk (feat. Bruno Mars),,,Mark Ronson,pop,2015
+S1502,song,Thinking out Loud,,,Ed Sheeran,pop,2014
+S1503,song,See You Again (feat. Charlie Puth),,,Wiz Khalifa,"hip hop, pop",2015
+S1504,song,What Do You Mean?,,,Justin Bieber,pop,2015
+S1505,song,Lean On (feat. MØ & DJ Snake),,,Major Lazer,"hip hop, pop, Dance/Electronic",2015
+S1506,song,"Earned It (Fifty Shades Of Grey) - From The ""Fifty Shades Of Grey"" Soundtrack",,,The Weeknd,"pop, R&B",2014
+S1507,song,"Love Me Like You Do - From ""Fifty Shades Of Grey""",,,Ellie Goulding,"pop, rock, Dance/Electronic",2015
+S1508,song,Outside (feat. Ellie Goulding),,,Calvin Harris,"hip hop, pop, Dance/Electronic",2014
+S1509,song,"Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)",,,David Guetta,"hip hop, pop, Dance/Electronic",2014
+S1510,song,Cool for the Summer,,,Demi Lovato,pop,2015
+S1511,song,Blank Space,,,Taylor Swift,pop,2014
+S1512,song,The Hills,,,The Weeknd,"pop, R&B",2015
+S1513,song,Daddy Issues,,,The Neighbourhood,"rock, pop",2015
+S1514,song,Five More Hours,,,Deorro,"pop, Dance/Electronic",2015
+S1515,song,The Nights,,,Avicii,"pop, Dance/Electronic",2014
+S1516,song,You Know You Like It,,,DJ Snake,"hip hop, pop, Dance/Electronic",2014
+S1517,song,Ghost Town,,,Adam Lambert,pop,2015
+S1518,song,No Type,,,Rae Sremmurd,"hip hop, pop",2015
+S1519,song,Bad Blood,,,Taylor Swift,pop,2015
+S1520,song,GDFR (feat. Sage the Gemini & Lookas),,,Flo Rida,"hip hop, pop",2015
+S1521,song,Sugar (feat. Francesco Yates),,,Robin Schulz,"pop, Dance/Electronic",2015
+S1522,song,How Deep Is Your Love,,,Calvin Harris,"hip hop, pop, Dance/Electronic",2015
+S1523,song,Wish You Were Mine - Radio Edit,,,Philip George,"pop, Dance/Electronic",2014
+S1524,song,Na Na,,,Trey Songz,"hip hop, pop, R&B",2015
+S1525,song,Centuries,,,Fall Out Boy,rock,2015
+S1526,song,Chill Bill (feat. J. Davi$ & Spooks),,,Rob $tone,hip hop,2016
+S1527,song,Are You With Me - Radio Edit,,,Lost Frequencies,"pop, Dance/Electronic",2014
+S1528,song,Stressed Out,,,Twenty One Pilots,rock,2015
+S1529,song,Worth It (feat. Kid Ink),,,Fifth Harmony,pop,2015
+S1530,song,Way down We Go,,,KALEO,"rock, classical",2015
+S1531,song,Like I Can,,,Sam Smith,pop,2014
+S1532,song,Light It Up (feat. Nyla & Fuse ODG) - Remix,,,Major Lazer,"hip hop, pop, Dance/Electronic",2015
+S1533,song,Intoxicated - New Radio Mix,,,Martin Solveig,"pop, Dance/Electronic",2015
+S1534,song,Waiting For Love,,,Avicii,"pop, Dance/Electronic",2015
+S1535,song,Ain't Nobody (Loves Me Better) (feat. Jasmine Thompson),,,Felix Jaehn,"hip hop, pop, Dance/Electronic",2018
+S1536,song,Wildest Dreams,,,Taylor Swift,pop,2014
+S1537,song,In The Night,,,The Weeknd,"pop, R&B",2015
+S1538,song,Time of Our Lives,,,Pitbull,"hip hop, pop, latin",2014
+S1539,song,Runaway (U & I),,,Galantis,"pop, Dance/Electronic",2015
+S1540,song,Bitch Better Have My Money,,,Rihanna,"hip hop, pop, R&B",2015
+S1541,song,Lush Life,,,Zara Larsson,"pop, Dance/Electronic",2015
+S1542,song,Drag Me Down,,,One Direction,pop,2015
+S1543,song,Antidote,,,Travis Scott,"hip hop, Dance/Electronic",2015
+S1544,song,King,,,Years & Years,"pop, Dance/Electronic",2015
+S1545,song,Confident,,,Demi Lovato,pop,2015
+S1546,song,Closer,,,Lemaitre,pop,2017
+S1547,song,Same Old Love,,,Selena Gomez,pop,2015
+S1548,song,Do It Again,,,Pia Mia,"pop, R&B",2015
+S1549,song,My House,,,Flo Rida,"hip hop, pop",2015
+S1550,song,Watch Me (Whip / Nae Nae),,,Silentó,hip hop,2015
+S1551,song,Ayo,,,Chris Brown,"hip hop, pop, R&B",2015
+S1552,song,Spirits,,,The Strumbellas,"rock, Folk/Acoustic, pop",2016
+S1553,song,Trap Queen,,,Fetty Wap,"hip hop, pop",2015
+S1554,song,Talking Body,,,Tove Lo,"pop, Dance/Electronic",2014
+S1555,song,7/11,,,Beyoncé,"pop, R&B",2014
+S1556,song,High By The Beach,,,Lana Del Rey,pop,2015
+S1557,song,Never Forget You,,,Zara Larsson,"pop, Dance/Electronic",2017
+S1558,song,oui,,,Jeremih,"hip hop, pop, R&B",2015
+S1559,song,Hotline Bling,,,Drake,"hip hop, pop, R&B",2016
+S1560,song,Kill Em With Kindness,,,Selena Gomez,pop,2015
+S1561,song,Let It All Go,,,Birdy,pop,2015
+S1562,song,679 (feat. Remy Boyz),,,Fetty Wap,"hip hop, pop",2015
+S1563,song,Love Me Harder,,,Ariana Grande,pop,2014
+S1564,song,Can't Feel My Face,,,The Weeknd,"pop, R&B",2015
+S1565,song,You Don't Own Me (feat. G-Eazy),,,SAYGRACE,"pop, R&B",2015
+S1566,song,Renegades,,,X Ambassadors,"hip hop, rock, pop",2015
+S1567,song,Locked Away (feat. Adam Levine),,,R. City,pop,2015
+S1568,song,Stole the Show,,,Kygo,"pop, Dance/Electronic",2016
+S1569,song,The Less I Know The Better,,,Tame Impala,metal,2015
+S1570,song,Good For You,,,Selena Gomez,pop,2015
+S1571,song,My Way (feat. Monty),,,Fetty Wap,"hip hop, pop",2015
+S1572,song,Take Me To Church,,,Hozier,"Folk/Acoustic, pop",2014
+S1573,song,Style,,,Taylor Swift,pop,2014
+S1574,song,Here,,,Alessia Cara,"pop, R&B",2015
+S1575,song,"Writing's On The Wall - From ""Spectre"" Soundtrack",,,Sam Smith,pop,2015
+S1576,song,Bang My Head (feat. Sia & Fetty Wap),,,David Guetta,"hip hop, pop, Dance/Electronic",2015
+S1577,song,All Eyes on You (feat. Chris Brown & Nicki Minaj),,,Meek Mill,"hip hop, pop",2015
+S1578,song,I Don't Fuck With You,,,Big Sean,"hip hop, pop",2015
+S1579,song,Firestone,,,Kygo,"pop, Dance/Electronic",2016
+S1580,song,Jumpman,,,Drake,"hip hop, pop, R&B",2015
+S1581,song,Sunset Lover,,,Petit Biscuit,Dance/Electronic,2015
+S1582,song,Stitches,,,Shawn Mendes,pop,2015
+S1583,song,"I Don't Like It, I Love It (feat. Robin Thicke & Verdine White)",,,Flo Rida,"hip hop, pop",2015
+S1584,song,The Heart Wants What It Wants,,,Selena Gomez,pop,2014
+S1585,song,Where Are Ü Now (with Justin Bieber),,,Jack Ü,"pop, Dance/Electronic",2015
+S1586,song,On My Mind,,,Ellie Goulding,"pop, rock, Dance/Electronic",2015
+S1587,song,Don't,,,Bryson Tiller,"hip hop, pop, R&B",2015
+S1588,song,"Flex (Ooh, Ooh, Ooh)",,,Rich Homie Quan,"hip hop, pop",2015
+S1589,song,Please Don't Go,,,Joel Adams,R&B,2015
+S1590,song,I Want You To Know,,,Zedd,"hip hop, pop, Dance/Electronic",2015
+S1591,song,Fast Car,,,Jonas Blue,"pop, Dance/Electronic",2015
+S1592,song,Electric Love,,,BØRNS,"rock, pop",2015
+S1593,song,Easy Love,,,Sigala,"pop, Dance/Electronic",2018
+S1594,song,Sorry,,,Justin Bieber,pop,2015
+S1595,song,One Last Time,,,Ariana Grande,pop,2014
+S1596,song,Black Magic,,,Little Mix,pop,2015
+S1597,song,Perfect,,,One Direction,pop,2015
+S1598,song,Shine,,,Years & Years,"pop, Dance/Electronic",2015
+S1599,song,Lips Are Movin,,,Meghan Trainor,pop,2015
+S1600,song,El Perdón - Forgiveness,,,Nicky Jam,latin,2017
+S1601,song,Starboy,,,The Weeknd,"pop, R&B",2016
+S1602,song,One Dance,,,Drake,"hip hop, pop, R&B",2016
+S1603,song,Love Yourself,,,Justin Bieber,pop,2015
+S1604,song,Closer,,,The Chainsmokers,"pop, Dance/Electronic",2016
+S1605,song,Hello,,,Adele,"pop, R&B",2015
+S1606,song,Panda,,,Desiigner,"hip hop, pop",2016
+S1607,song,Tuesday (feat. Danelle Sandoval),,,Burak Yeter,Dance/Electronic,2016
+S1608,song,Cheap Thrills (feat. Sean Paul),,,Sia,pop,2016
+S1609,song,Wherever I Go,,,OneRepublic,pop,2016
+S1610,song,Work,,,Rihanna,"hip hop, pop, R&B",2016
+S1611,song,Hymn for the Weekend,,,Coldplay,"rock, pop",2015
+S1612,song,Sorry,,,Justin Bieber,pop,2015
+S1613,song,"CAN'T STOP THE FEELING! (from DreamWorks Animation's ""TROLLS"")",,,Justin Timberlake,pop,2016
+S1614,song,Wait a Minute!,,,WILLOW,"pop, R&B, Dance/Electronic",2015
+S1615,song,Tiimmy Turner,,,Desiigner,"hip hop, pop",2016
+S1616,song,"Me, Myself & I",,,G-Eazy,"hip hop, pop",2015
+S1617,song,This One's for You (feat. Zara Larsson) (Official Song UEFA EURO 2016),,,David Guetta,"hip hop, pop, Dance/Electronic",2016
+S1618,song,Hurts So Good,,,Astrid S,"rock, pop, Dance/Electronic",2016
+S1619,song,"Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",,,Lil Wayne,"hip hop, pop",2016
+S1620,song,Heathens,,,Twenty One Pilots,rock,2016
+S1621,song,Low Life (feat. The Weeknd),,,Future,"hip hop, pop",2016
+S1622,song,No Money,,,Galantis,"pop, Dance/Electronic",2016
+S1623,song,Don't Let Me Down,,,The Chainsmokers,"pop, Dance/Electronic",2016
+S1624,song,Girls Like (feat. Zara Larsson),,,Tinie Tempah,"hip hop, pop, Dance/Electronic",2016
+S1625,song,Hear Me Now,,,Alok,"pop, Dance/Electronic",2016
+S1626,song,All Time Low,,,Jon Bellion,"hip hop, pop",2016
+S1627,song,Sex,,,Cheat Codes,"pop, Dance/Electronic",2016
+S1628,song,NO,,,Meghan Trainor,pop,2017
+S1629,song,Hotter Than Hell,,,Dua Lipa,pop,2017
+S1630,song,In the Name of Love,,,Martin Garrix,"pop, Dance/Electronic",2016
+S1631,song,Faded,,,Alan Walker,Dance/Electronic,2018
+S1632,song,Cool Girl,,,Tove Lo,"pop, Dance/Electronic",2016
+S1633,song,Let Me Love You,,,DJ Snake,"hip hop, pop, Dance/Electronic",2016
+S1634,song,This Is What You Came For (feat. Rihanna),,,Calvin Harris,"hip hop, pop, Dance/Electronic",2016
+S1635,song,I Took A Pill In Ibiza - Seeb Remix,,,Mike Posner,"hip hop, pop, Dance/Electronic",2016
+S1636,song,2 Phones,,,Kevin Gates,"hip hop, pop",2016
+S1637,song,Needed Me,,,Rihanna,"hip hop, pop, R&B",2016
+S1638,song,Side To Side,,,Ariana Grande,pop,2016
+S1639,song,Alone,,,Marshmello,"pop, Dance/Electronic",2016
+S1640,song,I Know What You Did Last Summer,,,Shawn Mendes,pop,2015
+S1641,song,Same Old Love,,,Selena Gomez,pop,2015
+S1642,song,My Way,,,Calvin Harris,"hip hop, pop, Dance/Electronic",2016
+S1643,song,HandClap,,,Fitz and The Tantrums,"pop, rock",2016
+S1644,song,Ride,,,Twenty One Pilots,rock,2015
+S1645,song,My House,,,Flo Rida,"hip hop, pop",2015
+S1646,song,Dangerous Woman,,,Ariana Grande,pop,2016
+S1647,song,Alarm,,,Anne-Marie,"pop, Dance/Electronic",2016
+S1648,song,We Don't Talk Anymore (feat. Selena Gomez),,,Charlie Puth,pop,2016
+S1649,song,I'm In Control,,,AlunaGeorge,"pop, Dance/Electronic",2016
+S1650,song,DUELE EL CORAZON (feat. Wisin),,,Enrique Iglesias,"pop, latin",2016
+S1651,song,Never Forget You,,,MNEK,Dance/Electronic,2015
+S1652,song,The Ocean (feat. Shy Martin),,,Mike Perry,"pop, Dance/Electronic",2016
+S1653,song,Hotline Bling,,,Drake,"hip hop, pop, R&B",2016
+S1654,song,Into You,,,Ariana Grande,pop,2016
+S1655,song,Treat You Better,,,Shawn Mendes,pop,2017
+S1656,song,Say It,,,Tory Lanez,"hip hop, pop, R&B",2016
+S1657,song,Adventure of a Lifetime,,,Coldplay,"rock, pop",2015
+S1658,song,This Girl - Kungs Vs. Cookin' On 3 Burners,,,Kungs,"pop, Dance/Electronic",2016
+S1659,song,You Don't Own Me (feat. G-Eazy),,,SAYGRACE,"pop, R&B",2016
+S1660,song,Renegades,,,X Ambassadors,"hip hop, rock, pop",2015
+S1661,song,Cake By The Ocean,,,DNCE,pop,2016
+S1662,song,The Girl Is Mine,,,99 Souls,Dance/Electronic,2016
+S1663,song,Papercuts (feat. Vera Blue),,,Illy,"hip hop, pop, Dance/Electronic",2016
+S1664,song,Gold,,,Kiiara,"rock, pop, Dance/Electronic",2015
+S1665,song,Stole the Show,,,Kygo,"pop, Dance/Electronic",2016
+S1666,song,Work from Home (feat. Ty Dolla $ign),,,Fifth Harmony,pop,2016
+S1667,song,Pop Style,,,Drake,"hip hop, pop, R&B",2016
+S1668,song,PILLOWTALK,,,ZAYN,"pop, Dance/Electronic",2016
+S1669,song,Here,,,Alessia Cara,"pop, R&B",2016
+S1670,song,Middle,,,DJ Snake,"hip hop, pop, Dance/Electronic",2016
+S1671,song,Sweet Lovin' - Radio Edit,,,Sigala,"pop, Dance/Electronic",2015
+S1672,song,Jumpman,,,Drake,"hip hop, pop, R&B",2015
+S1673,song,Dangerously,,,Charlie Puth,pop,2016
+S1674,song,Close,,,Nick Jonas,pop,2016
+S1675,song,Perfect Strangers,,,Jonas Blue,"pop, Dance/Electronic",2016
+S1676,song,Cold Water (feat. Justin Bieber & MØ),,,Major Lazer,"hip hop, pop, Dance/Electronic",2016
+S1677,song,Roses,,,The Chainsmokers,"pop, Dance/Electronic",2015
+S1678,song,LUV,,,Tory Lanez,"hip hop, pop, R&B",2016
+S1679,song,"Just Like Fire (From the Original Motion Picture ""Alice Through The Looking Glass"")",,,P!nk,pop,2016
+S1680,song,Don't,,,Bryson Tiller,"hip hop, pop, R&B",2015
+S1681,song,Just Hold On,,,Steve Aoki,"hip hop, pop, Dance/Electronic",2016
+S1682,song,Tears (feat. Louisa Johnson),,,Clean Bandit,"pop, Dance/Electronic",2016
+S1683,song,Fast Car,,,Jonas Blue,"pop, Dance/Electronic",2015
+S1684,song,Never Be Like You,,,Flume,Dance/Electronic,2016
+S1685,song,Good Grief,,,Bastille,"pop, rock",2016
+S1686,song,The Greatest (feat. Kendrick Lamar),,,Sia,pop,2016
+S1687,song,Not Nice,,,PARTYNEXTDOOR,"hip hop, pop, R&B",2016
+S1688,song,"i hate u, i love u (feat. olivia o'brien)",,,Garrett Nash,"hip hop, pop",2016
+S1689,song,1955,,,Hilltop Hoods,"hip hop, pop",2016
+S1690,song,All In My Head (Flex) (feat. Fetty Wap),,,Fifth Harmony,pop,2016
+S1691,song,"Sit Still, Look Pretty",,,Daya,"rock, pop, Dance/Electronic",2016
+S1692,song,Don't Mind,,,Kent Jones,hip hop,2016
+S1693,song,Say It,,,Flume,Dance/Electronic,2016
+S1694,song,Exchange,,,Bryson Tiller,"hip hop, pop, R&B",2015
+S1695,song,Final Song,,,MØ,"pop, Dance/Electronic",2016
+S1696,song,Sorry,,,Beyoncé,"pop, R&B",2016
+S1697,song,Shout Out to My Ex,,,Little Mix,pop,2017
+S1698,song,Ophelia,,,The Lumineers,"pop, Folk/Acoustic",2016
+S1699,song,Pink + White,,,Frank Ocean,"hip hop, pop, R&B",2016
+S1700,song,Too Good,,,Drake,"hip hop, pop, R&B",2016
+S1701,song,Shape of You,,,Ed Sheeran,pop,2017
+S1702,song,No Lie,,,Sean Paul,"hip hop, pop",2018
+S1703,song,Despacito (Featuring Daddy Yankee),,,Luis Fonsi,"pop, latin",2017
+S1704,song,Too Good At Goodbyes,,,Sam Smith,pop,2017
+S1705,song,Rockabye (feat. Sean Paul & Anne-Marie),,,Clean Bandit,"pop, Dance/Electronic",2016
+S1706,song,Havana (feat. Young Thug),,,Camila Cabello,pop,2017
+S1707,song,Thunder,,,Imagine Dragons,rock,2017
+S1708,song,Don't Wanna Know (feat. Kendrick Lamar),,,Maroon 5,pop,2018
+S1709,song,Something Just Like This,,,The Chainsmokers,"pop, Dance/Electronic",2017
+S1710,song,Perfect,,,Ed Sheeran,pop,2017
+S1711,song,Little Dark Age,,,MGMT,rock,2018
+S1712,song,goosebumps,,,Travis Scott,"hip hop, Dance/Electronic",2016
+S1713,song,Bored,,,Billie Eilish,"pop, Dance/Electronic",2017
+S1714,song,Mask Off,,,Future,"hip hop, pop",2017
+S1715,song,Him & I,,,G-Eazy,"hip hop, pop",2017
+S1716,song,Cold (feat. Future),,,Maroon 5,pop,2017
+S1717,song,Swang,,,Rae Sremmurd,"hip hop, pop",2016
+S1718,song,Save That Shit,,,Lil Peep,hip hop,2017
+S1719,song,Plain Jane,,,A$AP Ferg,"hip hop, pop",2017
+S1720,song,Unforgettable,,,French Montana,"hip hop, pop",2017
+S1721,song,Bank Account,,,21 Savage,hip hop,2017
+S1722,song,More Than You Know,,,Axwell /\ Ingrosso,"pop, Dance/Electronic",2017
+S1723,song,Dusk Till Dawn (feat. Sia) - Radio Edit,,,ZAYN,"pop, Dance/Electronic",2017
+S1724,song,Mi Gente,,,J Balvin,latin,2017
+S1725,song,You Don't Know Me - Radio Edit,,,Jax Jones,"hip hop, pop, Dance/Electronic",2016
+S1726,song,Black Beatles,,,Rae Sremmurd,"hip hop, pop",2016
+S1727,song,Ain't My Fault,,,Zara Larsson,"pop, Dance/Electronic",2017
+S1728,song,BUTTERFLY EFFECT,,,Travis Scott,"hip hop, Dance/Electronic",2017
+S1729,song,Rolex,,,Ayo & Teo,"hip hop, pop",2017
+S1730,song,XO Tour Llif3,,,Lil Uzi Vert,hip hop,2017
+S1731,song,Whatever It Takes,,,Imagine Dragons,rock,2017
+S1732,song,Chill Bill (feat. J. Davi$ & Spooks),,,Rob $tone,hip hop,2016
+S1733,song,Swalla (feat. Nicki Minaj & Ty Dolla $ign),,,Jason Derulo,"hip hop, pop",2017
+S1734,song,No Limit,,,G-Eazy,"hip hop, pop",2017
+S1735,song,Magnolia,,,Playboi Carti,hip hop,2017
+S1736,song,Hold On,,,Chord Overstreet,"pop, Folk/Acoustic",2017
+S1737,song,Breathe,,,Jax Jones,"hip hop, pop, Dance/Electronic",2017
+S1738,song,Believer,,,Imagine Dragons,rock,2017
+S1739,song,Criminal,,,Natti Natasha,"pop, latin",2017
+S1740,song,HUMBLE.,,,Kendrick Lamar,hip hop,2017
+S1741,song,Fetish (feat. Gucci Mane),,,Selena Gomez,pop,2017
+S1742,song,Attention,,,Charlie Puth,pop,2017
+S1743,song,Man's Not Hot,,,Big Shaq,"pop, Dance/Electronic",2017
+S1744,song,Ciao Adios,,,Anne-Marie,"pop, Dance/Electronic",2017
+S1745,song,Human,,,Rag'n'Bone Man,R&B,2017
+S1746,song,do re mi,,,blackbear,"hip hop, pop, Dance/Electronic",2017
+S1747,song,Gucci Gang,,,Lil Pump,hip hop,2017
+S1748,song,Look What You Made Me Do,,,Taylor Swift,pop,2017
+S1749,song,SUBEME LA RADIO (feat. Descemer Bueno & Zion & Lennox),,,Enrique Iglesias,"pop, latin",2017
+S1750,song,Tunnel Vision,,,Kodak Black,hip hop,2017
+S1751,song,DNA.,,,Kendrick Lamar,hip hop,2017
+S1752,song,Drowning (feat. Kodak Black),,,A Boogie Wit da Hoodie,hip hop,2017
+S1753,song,Jocelyn Flores,,,XXXTENTACION,hip hop,2017
+S1754,song,Bad and Boujee (feat. Lil Uzi Vert),,,Migos,"hip hop, pop",2017
+S1755,song,Rake It Up (feat. Nicki Minaj),,,Yo Gotti,"hip hop, pop",2017
+S1756,song,Scared to Be Lonely,,,Martin Garrix,"pop, Dance/Electronic",2017
+S1757,song,Mama,,,Jonas Blue,"pop, Dance/Electronic",2017
+S1758,song,Solo Dance,,,Martin Jensen,"pop, Dance/Electronic",2016
+S1759,song,...Ready For It?,,,Taylor Swift,pop,2017
+S1760,song,2U (feat. Justin Bieber),,,David Guetta,"hip hop, pop, Dance/Electronic",2017
+S1761,song,Slippery (feat. Gucci Mane),,,Migos,"hip hop, pop",2017
+S1762,song,There's Nothing Holdin' Me Back,,,Shawn Mendes,pop,2017
+S1763,song,Good Life (with G-Eazy & Kehlani),,,G-Eazy,"hip hop, pop",2017
+S1764,song,All Night,,,The Vamps,pop,2017
+S1765,song,New Rules,,,Dua Lipa,pop,2017
+S1766,song,Bodak Yellow,,,Cardi B,"hip hop, pop",2017
+S1767,song,Skin,,,Rag'n'Bone Man,R&B,2017
+S1768,song,I Would Like,,,Zara Larsson,"pop, Dance/Electronic",2017
+S1769,song,Wild Thoughts (feat. Rihanna & Bryson Tiller),,,DJ Khaled,"hip hop, pop",2017
+S1770,song,Congratulations,,,Post Malone,hip hop,2016
+S1771,song,Without You (feat. Sandro Cavazza),,,Avicii,"pop, Dance/Electronic",2017
+S1772,song,Symphony (feat. Zara Larsson),,,Clean Bandit,"pop, Dance/Electronic",2017
+S1773,song,Chained To The Rhythm,,,Katy Perry,pop,2017
+S1774,song,Juju on That Beat (TZ Anthem),,,Zay Hilfigerrr,set(),2016
+S1775,song,"Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",,,Calvin Harris,"hip hop, pop, Dance/Electronic",2017
+S1776,song,T-Shirt,,,Migos,"hip hop, pop",2017
+S1777,song,Rich Love (with Seeb),,,OneRepublic,pop,2017
+S1778,song,Pretty Girl - Cheat Codes X CADE Remix,,,Maggie Lindemann,"rock, pop",2017
+S1779,song,Glorious (feat. Skylar Grey),,,Macklemore,"hip hop, pop",2017
+S1780,song,NUMB,,,Hayden James,"pop, Dance/Electronic",2019
+S1781,song,Strip That Down,,,Liam Payne,pop,2017
+S1782,song,Passionfruit,,,Drake,"hip hop, pop, R&B",2017
+S1783,song,Friends (with BloodPop®),,,Justin Bieber,pop,2017
+S1784,song,"I Don’t Wanna Live Forever (Fifty Shades Darker) - From ""Fifty Shades Darker (Original Motion Picture Soundtrack)""",,,ZAYN,"pop, Dance/Electronic",2016
+S1785,song,Scars To Your Beautiful,,,Alessia Cara,"pop, R&B",2016
+S1786,song,It's A Vibe,,,2 Chainz,"hip hop, pop",2017
+S1787,song,Call on Me - Ryan Riback Remix,,,Starley,"pop, Dance/Electronic",2016
+S1788,song,Weak,,,AJR,rock,2017
+S1789,song,Lust for Life (with The Weeknd),,,Lana Del Rey,pop,2017
+S1790,song,Reggaetón Lento (Remix),,,CNCO,"pop, latin",2017
+S1791,song,Middle Of The Night,,,The Vamps,pop,2017
+S1792,song,I Feel It Coming,,,The Weeknd,"pop, R&B",2016
+S1793,song,Paris,,,The Chainsmokers,"pop, Dance/Electronic",2017
+S1794,song,Bounce Back,,,Big Sean,"hip hop, pop",2017
+S1795,song,Mercy,,,Shawn Mendes,pop,2017
+S1796,song,Lonely Together (feat. Rita Ora),,,Avicii,"pop, Dance/Electronic",2017
+S1797,song,No Promises (feat. Demi Lovato),,,Cheat Codes,"pop, Dance/Electronic",2017
+S1798,song,24K Magic,,,Bruno Mars,pop,2016
+S1799,song,Homemade Dynamite - REMIX,,,Lorde,"pop, Dance/Electronic",2017
+S1800,song,It Ain't Me (with Selena Gomez),,,Kygo,"pop, Dance/Electronic",2017
+S1801,song,God's Plan,,,Drake,"hip hop, pop, R&B",2018
+S1802,song,rockstar (feat. 21 Savage),,,Post Malone,hip hop,2018
+S1803,song,Ric Flair Drip (with Metro Boomin),,,Offset,"hip hop, pop",2017
+S1804,song,Him & I (with Halsey),,,G-Eazy,"hip hop, pop",2017
+S1805,song,In My Mind,,,Dynoro,"pop, Dance/Electronic",2018
+S1806,song,Lucid Dreams,,,Juice WRLD,hip hop,2018
+S1807,song,The Middle,,,Zedd,"hip hop, pop, Dance/Electronic",2018
+S1808,song,FRIENDS,,,Marshmello,"pop, Dance/Electronic",2018
+S1809,song,I Like It,,,Cardi B,"hip hop, pop",2018
+S1810,song,Moonlight,,,XXXTENTACION,hip hop,2018
+S1811,song,no tears left to cry,,,Ariana Grande,pop,2018
+S1812,song,Mo Bamba,,,Sheck Wes,hip hop,2018
+S1813,song,One Kiss (with Dua Lipa),,,Calvin Harris,"hip hop, pop, Dance/Electronic",2018
+S1814,song,Taste (feat. Offset),,,Tyga,"hip hop, pop",2018
+S1815,song,SICKO MODE,,,Travis Scott,"hip hop, Dance/Electronic",2018
+S1816,song,Natural,,,Imagine Dragons,rock,2018
+S1817,song,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",,,DJ Snake,"hip hop, pop, Dance/Electronic",2018
+S1818,song,Spotlight,,,Marshmello,"pop, Dance/Electronic",2018
+S1819,song,Pray For Me (with Kendrick Lamar),,,The Weeknd,"pop, R&B",2018
+S1820,song,lovely (with Khalid),,,Billie Eilish,"pop, Dance/Electronic",2018
+S1821,song,Walk It Talk It,,,Migos,"hip hop, pop",2018
+S1822,song,Solo (feat. Demi Lovato),,,Clean Bandit,"pop, Dance/Electronic",2018
+S1823,song,Nonstop,,,Drake,"hip hop, pop, R&B",2018
+S1824,song,FEFE,,,6ix9ine,hip hop,2018
+S1825,song,Call Out My Name,,,The Weeknd,"pop, R&B",2018
+S1826,song,Te Boté - Remix,,,Nio Garcia,latin,2018
+S1827,song,MotorSport,,,Migos,"hip hop, pop",2018
+S1828,song,X,,,Nicky Jam,latin,2019
+S1829,song,SAD!,,,XXXTENTACION,hip hop,2018
+S1830,song,Sin Pijama,,,Becky G,"pop, latin",2018
+S1831,song,"Home (with Machine Gun Kelly, X Ambassadors & Bebe Rexha)",,,Machine Gun Kelly,"hip hop, pop",2017
+S1832,song,GUMMO,,,6ix9ine,hip hop,2018
+S1833,song,Breathe,,,Jax Jones,"hip hop, pop, Dance/Electronic",2017
+S1834,song,Sick Boy,,,The Chainsmokers,"pop, Dance/Electronic",2018
+S1835,song,"King's Dead (with Kendrick Lamar, Future & James Blake)",,,Jay Rock,"hip hop, pop",2018
+S1836,song,Plug Walk,,,Rich The Kid,"hip hop, pop",2018
+S1837,song,All The Stars (with SZA),,,Kendrick Lamar,hip hop,2018
+S1838,song,Everyday,,,Logic,"hip hop, pop",2018
+S1839,song,Tip Toe (feat. French Montana),,,Jason Derulo,"hip hop, pop",2017
+S1840,song,God is a woman,,,Ariana Grande,pop,2018
+S1841,song,Powerglide (feat. Juicy J) - From SR3MM,,,Rae Sremmurd,"hip hop, pop",2018
+S1842,song,German,,,EO,set(),2018
+S1843,song,Nevermind,,,Dennis Lloyd,pop,2017
+S1844,song,we fell in love in october,,,girl in red,"pop, rock, Dance/Electronic",2018
+S1845,song,Wolves,,,Selena Gomez,pop,2017
+S1846,song,Jackie Chan,,,Tiësto,"pop, Dance/Electronic",2018
+S1847,song,Leave a Light On,,,Tom Walker,"rock, pop",2017
+S1848,song,"1, 2, 3 (feat. Jason Derulo & De La Ghetto)",,,Sofía Reyes,"pop, latin",2018
+S1849,song,Silence,,,Marshmello,"pop, Dance/Electronic",2017
+S1850,song,Youngblood,,,5 Seconds of Summer,pop,2018
+S1851,song,Body (feat. brando),,,Loud Luxury,"pop, Dance/Electronic",2017
+S1852,song,For You (Fifty Shades Freed) (& Rita Ora),,,Liam Payne,pop,2018
+S1853,song,Let You Down,,,NF,"hip hop, pop",2017
+S1854,song,changes,,,XXXTENTACION,hip hop,2018
+S1855,song,Corazón (feat. Nego do Borel),,,Maluma,latin,2018
+S1856,song,Bodak Yellow,,,Cardi B,"hip hop, pop",2018
+S1857,song,Yes Indeed,,,Lil Baby,hip hop,2018
+S1858,song,Rise,,,Jonas Blue,"pop, Dance/Electronic",2018
+S1859,song,Flames,,,David Guetta,"hip hop, pop, Dance/Electronic",2018
+S1860,song,Vaina Loca,,,Ozuna,latin,2018
+S1861,song,How Long,,,Charlie Puth,pop,2018
+S1862,song,Better Now,,,Post Malone,hip hop,2018
+S1863,song,Look Alive (feat. Drake),,,BlocBoy JB,"hip hop, pop",2018
+S1864,song,River (feat. Ed Sheeran),,,Eminem,hip hop,2017
+S1865,song,Happier,,,Marshmello,"pop, Dance/Electronic",2018
+S1866,song,Be Alright,,,Dean Lewis,pop,2018
+S1867,song,Done for Me (feat. Kehlani),,,Charlie Puth,pop,2018
+S1868,song,Stir Fry,,,Migos,"hip hop, pop",2018
+S1869,song,"BIG BANK (feat. 2 Chainz, Big Sean, Nicki Minaj)",,,YG,"hip hop, pop",2018
+S1870,song,In My Feelings,,,Drake,"hip hop, pop, R&B",2018
+S1871,song,Jumanji,,,B Young,"hip hop, Dance/Electronic",2018
+S1872,song,The Way I Am,,,Charlie Puth,pop,2018
+S1873,song,Me Niego (feat. Ozuna & Wisin),,,Reik,"pop, latin",2018
+S1874,song,Eastside (with Halsey & Khalid),,,benny blanco,"hip hop, pop",2018
+S1875,song,Échame La Culpa,,,Luis Fonsi,"pop, latin",2017
+S1876,song,17,,,MK,"pop, Dance/Electronic",2017
+S1877,song,Anywhere,,,Rita Ora,"hip hop, pop, Dance/Electronic",2017
+S1878,song,Answerphone (feat. Yxng Bane),,,Banx & Ranx,Dance/Electronic,2018
+S1879,song,Trip,,,Ella Mai,"hip hop, pop, R&B",2018
+S1880,song,Dura,,,Daddy Yankee,latin,2018
+S1881,song,No Brainer,,,DJ Khaled,"hip hop, pop",2018
+S1882,song,2002,,,Anne-Marie,"pop, Dance/Electronic",2018
+S1883,song,Finesse - Remix; feat. Cardi B,,,Bruno Mars,pop,2017
+S1884,song,Let's Fall in Love for the Night,,,FINNEAS,"rock, pop, Dance/Electronic",2018
+S1885,song,The Greatest Show,,,Hugh Jackman,easy listening,2017
+S1886,song,Bad At Love,,,Halsey,"pop, Dance/Electronic",2017
+S1887,song,I'm Upset,,,Drake,"hip hop, pop, R&B",2018
+S1888,song,Never Be the Same,,,Camila Cabello,pop,2018
+S1889,song,Bad Vibe,,,M.O,"pop, Dance/Electronic",2018
+S1890,song,IDGAF,,,Dua Lipa,pop,2017
+S1891,song,Miss You (with Major Lazer & Tory Lanez),,,Cashmere Cat,"pop, rock",2018
+S1892,song,Mine,,,Bazzi,"pop, Dance/Electronic",2018
+S1893,song,Freaky Friday (feat. Chris Brown),,,Lil Dicky,"hip hop, pop",2018
+S1894,song,I Like Me Better,,,Lauv,"pop, Dance/Electronic",2018
+S1895,song,This Feeling,,,The Chainsmokers,"pop, Dance/Electronic",2018
+S1896,song,Girls Like You (feat. Cardi B) - Cardi B Version,,,Maroon 5,pop,2018
+S1897,song,Love Lies (with Normani),,,Khalid,"pop, R&B",2018
+S1898,song,Nice For What,,,Drake,"hip hop, pop, R&B",2018
+S1899,song,LOVE. FEAT. ZACARI.,,,Kendrick Lamar,hip hop,2017
+S1900,song,Psycho (feat. Ty Dolla $ign),,,Post Malone,hip hop,2018
+S1901,song,Old Town Road - Remix,,,Lil Nas X,"hip hop, pop",2019
+S1902,song,bad guy,,,Billie Eilish,"pop, Dance/Electronic",2019
+S1903,song,Señorita,,,Shawn Mendes,pop,2019
+S1904,song,7 rings,,,Ariana Grande,pop,2019
+S1905,song,Sunflower - Spider-Man: Into the Spider-Verse,,,Post Malone,hip hop,2019
+S1906,song,Lost in the Fire (feat. The Weeknd),,,Gesaffelstein,Dance/Electronic,2019
+S1907,song,Without Me,,,Halsey,"pop, Dance/Electronic",2018
+S1908,song,Ride It,,,Regard,"pop, Dance/Electronic",2019
+S1909,song,Shallow,,,Lady Gaga,pop,2018
+S1910,song,Nothing Breaks Like a Heart (feat. Miley Cyrus),,,Mark Ronson,pop,2018
+S1911,song,Someone You Loved,,,Lewis Capaldi,pop,2019
+S1912,song,All Day And Night,,,Jax Jones,"hip hop, pop, Dance/Electronic",2019
+S1913,song,Pure Water (with Migos),,,Mustard,"hip hop, pop",2019
+S1914,song,Shotta Flow (feat. Blueface) [Remix],,,NLE Choppa,hip hop,2019
+S1915,song,ZEZE (feat. Travis Scott & Offset),,,Kodak Black,hip hop,2018
+S1916,song,Con Calma,,,Daddy Yankee,latin,2019
+S1917,song,Let Me Down Slowly,,,Alec Benjamin,"rock, pop, Dance/Electronic",2018
+S1918,song,Kill This Love,,,BLACKPINK,pop,2019
+S1919,song,Clout (feat. Cardi B),,,Offset,"hip hop, pop",2019
+S1920,song,Piece Of Your Heart,,,MEDUZA,"pop, Dance/Electronic",2019
+S1921,song,Antisocial (with Travis Scott),,,Ed Sheeran,pop,2019
+S1922,song,SICKO MODE,,,Travis Scott,"hip hop, Dance/Electronic",2018
+S1923,song,Mad Love,,,Mabel,"pop, Dance/Electronic",2019
+S1924,song,Doin' Time,,,Lana Del Rey,pop,2019
+S1925,song,"Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",,,DJ Snake,"hip hop, pop, Dance/Electronic",2019
+S1926,song,Look Back at It,,,A Boogie Wit da Hoodie,hip hop,2018
+S1927,song,My Type,,,Saweetie,"hip hop, pop, R&B",2019
+S1928,song,Ransom,,,Lil Tecca,hip hop,2019
+S1929,song,Keisha & Becky - Remix,,,Russ Millions,pop,2019
+S1930,song,lovely (with Khalid),,,Billie Eilish,"pop, Dance/Electronic",2018
+S1931,song,Don't Call Me Up,,,Mabel,"pop, Dance/Electronic",2019
+S1932,song,Old Town Road,,,Lil Nas X,"hip hop, pop",2019
+S1933,song,Going Bad (feat. Drake),,,Meek Mill,"hip hop, pop",2018
+S1934,song,Wow.,,,Post Malone,hip hop,2019
+S1935,song,Juicy,,,Doja Cat,pop,2019
+S1936,song,Swervin (feat. 6ix9ine),,,A Boogie Wit da Hoodie,hip hop,2018
+S1937,song,emotions,,,iann dior,"hip hop, pop",2019
+S1938,song,Adan y Eva,,,Paulo Londra,"hip hop, latin, Dance/Electronic",2019
+S1939,song,Money In The Grave (Drake ft. Rick Ross),,,Drake,"hip hop, pop, R&B",2019
+S1940,song,Panini,,,Lil Nas X,"hip hop, pop",2019
+S1941,song,MIA (feat. Drake),,,Bad Bunny,latin,2018
+S1942,song,Pop Out (feat. Lil Tjay),,,Polo G,hip hop,2019
+S1943,song,Robbery,,,Juice WRLD,hip hop,2019
+S1944,song,a lot,,,21 Savage,hip hop,2018
+S1945,song,The London (feat. J. Cole & Travis Scott),,,Young Thug,"hip hop, pop",2019
+S1946,song,China,,,Anuel AA,latin,2019
+S1947,song,Liar,,,Camila Cabello,pop,2019
+S1948,song,Leave Me Alone,,,Flipp Dinero,"hip hop, pop",2019
+S1949,song,Money,,,Cardi B,"hip hop, pop",2018
+S1950,song,"break up with your girlfriend, i'm bored",,,Ariana Grande,pop,2019
+S1951,song,Location (feat. Burna Boy),,,Dave,hip hop,2019
+S1952,song,Sweet but Psycho,,,Ava Max,pop,2018
+S1953,song,Don't Start Now,,,Dua Lipa,pop,2019
+S1954,song,Strike a Pose (feat. Aitch),,,Young T & Bugsey,hip hop,2019
+S1955,song,Giant (with Rag'n'Bone Man),,,Calvin Harris,"hip hop, pop, Dance/Electronic",2019
+S1956,song,Take Me Back to London (feat. Stormzy),,,Ed Sheeran,pop,2019
+S1957,song,Please Me,,,Cardi B,"hip hop, pop",2019
+S1958,song,Vossi Bop,,,Stormzy,"hip hop, Dance/Electronic",2019
+S1959,song,Dance Monkey,,,Tones And I,pop,2019
+S1960,song,boyfriend (with Social House),,,Ariana Grande,pop,2019
+S1961,song,Callaita,,,Bad Bunny,latin,2019
+S1962,song,So Am I,,,Ava Max,pop,2019
+S1963,song,Calma - Remix,,,Pedro Capó,"pop, latin",2018
+S1964,song,MIDDLE CHILD,,,J. Cole,hip hop,2019
+S1965,song,Soltera - Remix,,,Lunay,"pop, latin",2019
+S1966,song,Better,,,Khalid,"pop, R&B",2018
+S1967,song,Thotiana,,,Blueface,hip hop,2018
+S1968,song,Suge,,,DaBaby,hip hop,2019
+S1969,song,Ladbroke Grove,,,AJ Tracey,"hip hop, Dance/Electronic",2019
+S1970,song,bury a friend,,,Billie Eilish,"pop, Dance/Electronic",2019
+S1971,song,Boy With Luv (feat. Halsey),,,BTS,pop,2019
+S1972,song,Boasty (feat. Idris Elba),,,Wiley,"hip hop, Dance/Electronic",2019
+S1973,song,Only Human,,,Jonas Brothers,pop,2019
+S1974,song,Easier,,,5 Seconds of Summer,pop,2019
+S1975,song,SOS (feat. Aloe Blacc),,,Avicii,"pop, Dance/Electronic",2019
+S1976,song,EARFQUAKE,,,"Tyler, The Creator",hip hop,2019
+S1977,song,On A Roll,,,Ashley O,set(),2019
+S1978,song,3 Nights,,,Dominic Fike,"rock, pop",2018
+S1979,song,Wish You Well,,,Sigala,"pop, Dance/Electronic",2019
+S1980,song,Hot Girl Summer (feat. Nicki Minaj & Ty Dolla $ign),,,Megan Thee Stallion,"hip hop, pop, R&B",2019
+S1981,song,Secreto,,,Anuel AA,latin,2019
+S1982,song,Post Malone (feat. RANI),,,Sam Feldt,"pop, Dance/Electronic",2019
+S1983,song,Nights Like This (feat. Ty Dolla $ign),,,Kehlani,"hip hop, pop, R&B",2019
+S1984,song,Otro Trago,,,Sech,latin,2019
+S1985,song,Better Now,,,Post Malone,hip hop,2018
+S1986,song,Cross Me (feat. Chance the Rapper & PnB Rock),,,Ed Sheeran,pop,2019
+S1987,song,i'm so tired...,,,Lauv,"pop, Dance/Electronic",2019
+S1988,song,gone girl,,,iann dior,"hip hop, pop",2019
+S1989,song,High Hopes,,,Panic! At The Disco,rock,2018
+S1990,song,One Thing Right,,,Marshmello,"pop, Dance/Electronic",2019
+S1991,song,How Do You Sleep?,,,Sam Smith,pop,2019
+S1992,song,Options,,,NSG,"World/Traditional, hip hop",2020
+S1993,song,Motivation,,,Normani,"pop, R&B",2019
+S1994,song,Sorry,,,Joel Corry,"pop, Dance/Electronic",2019
+S1995,song,Goodbyes (Feat. Young Thug),,,Post Malone,hip hop,2019
+S1996,song,Sucker,,,Jonas Brothers,pop,2019
+S1997,song,Cruel Summer,,,Taylor Swift,pop,2019
+S1998,song,The Git Up,,,Blanco Brown,"hip hop, country",2019
+S1999,song,Dancing With A Stranger (with Normani),,,Sam Smith,pop,2019
+S2000,song,Circles,,,Post Malone,hip hop,2019
