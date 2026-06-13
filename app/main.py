@@ -14,8 +14,11 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "http://localhost:5173",
-        "http://127.0.0.1:5173"
+        "http://127.0.0.1:5173", 
+        "https://recomendador-musical-frontend.vercel.app",
+        "https://recomendador-musical-frontend-g35gub7cj-yeisonmcs-projects.vercel.app",
     ],
+    allow_origin_regex=r"https://recomendador-musical-frontend-.*\.vercel\.app",
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
